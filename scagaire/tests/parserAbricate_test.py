@@ -25,8 +25,3 @@ class TestAbricate(unittest.TestCase):
         a = Abricate(os.path.join(data_dir, 'metagenomic_results.abricate'), False)
         self.assertTrue(a.is_valid())
         self.assertEqual(len(a.results), 137)
-        
-    def test_results_without_header(self):
-        a = Abricate(os.path.join(data_dir, 'results_without_header.abricate'), False)
-        file_contents  = a.read_file_multi_delimiters()
-        self.assertEqual(a.get_header(file_contents)[0], '#FILE')

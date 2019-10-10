@@ -10,7 +10,11 @@ class TestIdentifyResults(unittest.TestCase):
     
     def test_abricate_results(self):
         a = IdentifyResults(os.path.join(data_dir, 'results.abricate'), False).get_results()
-
+    
         self.assertEqual(str(a[0]), "assembly.fasta	contig_10165	108800	110741	+	tet(M)	1-1920/1920	========/======	36/40	99.53	97.18	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE")
            
-
+    def test_staramr_results(self):
+        a = IdentifyResults(os.path.join(data_dir, 'results.staramr'), False).get_results()
+        self.assertEqual(len(a), 1)
+        self.assertEqual(str(a[0]), "assembly	aac(6')-Im	gentamicin	98.16	100.93	542/537	contig_8118	24866	24328	AF337947")
+        

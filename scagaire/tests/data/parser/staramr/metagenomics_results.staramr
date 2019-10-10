@@ -1,0 +1,27 @@
+Isolate ID	Gene	Predicted Phenotype	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Accession
+assembly	aac(6')-Im	gentamicin	98.16	100.93	542/537	contig_8118	24866	24328	AF337947
+assembly	ant(6)-Ia	streptomycin	98.18	101.15	877/867	contig_5095	14716	15587	KF864551
+assembly	ant(6)-Ia	streptomycin	98.63	101.15	877/867	contig_1669	691347	692223	KF864551
+assembly	ant(6)-Ia	streptomycin	98.52	101.38	879/867	contig_4857	23525	22647	KF864551
+assembly	ant(6)-Ia	streptomycin	98.41	101.50	880/867	contig_5295	18521	17642	KF864551
+assembly	ant(6)-Ia	streptomycin	98.18	101.61	881/867	contig_650	46130	47008	KF864551
+assembly	aph(2'')-Ib	kanamycin	98.78	100.33	903/900	contig_8118	25811	24914	AF207840
+assembly	aph(3'')-Ib	streptomycin	99.06	66.54	535/804	contig_3632	75350	74817	AF321551
+assembly	aph(3')-III	kanamycin	98.03	102.01	811/795	contig_680	347398	346588	M26832
+assembly	aph(6)-Id	kanamycin	99.29	100.60	842/837	contig_3632	73963	73122	M28829
+assembly	cepA	ampicillin	98.26	101.66	918/903	contig_12920	29176	28259	L13472
+assembly	cfxA	ampicillin	98.75	99.59	962/966	contig_9064	142428	143389	U38243
+assembly	cfxA6	ampicillin	98.90	100.60	1002/996	contig_4913	31233	30233	GQ342996
+assembly	sul2	sulfisoxazole	99.76	100.25	818/816	contig_3632	76229	75412	AY034138
+assembly	tet(40)	tetracycline	98.71	89.11	1088/1221	contig_14092	1807	2894	AM419751
+assembly	tet(40)	tetracycline	98.54	100.82	1231/1221	contig_135	5313	4083	FJ158002
+assembly	tet(O)	tetracycline	98.04	101.20	1943/1920	contig_5430	5548	7489	Y07780
+assembly	tet(O)	tetracycline	98.51	101.20	1943/1920	contig_1288	293921	295862	M18896
+assembly	tet(O)	tetracycline	98.36	101.41	1947/1920	contig_17011	7011	5066	M18896
+assembly	tet(O)	tetracycline	98.31	101.41	1947/1920	contig_9473	17322	19268	M20925
+assembly	tet(O)	tetracycline	98.41	101.56	1950/1920	contig_1240	27606	29554	Y07780
+assembly	tet(Q)	tetracycline	98.10	101.14	1948/1926	contig_12602	17284	19229	L33696
+assembly	tet(Q)	tetracycline	98.36	101.51	1955/1926	contig_12566	358885	356932	L33696
+assembly	tet(Q)	tetracycline	98.26	101.66	1958/1926	contig_4013	450	2407	L33696
+assembly	tet(Q)	tetracycline	98.21	101.71	1959/1926	contig_5036	4028	2070	L33696
+assembly	tet(X)	tetracycline	98.07	101.89	1189/1167	contig_12401	594	1782	M37699
