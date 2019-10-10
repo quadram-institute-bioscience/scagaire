@@ -1,0 +1,40 @@
+#!/usr/bin/env python3
+import sys
+import argparse
+import os
+import pkg_resources
+sys.path.append('../')
+sys.path.append('./')
+from scagaire.ScagaireSpecies import ScagaireSpecies
+
+version = ''
+try:
+	version = pkg_resources.get_distribution("scagaire").version
+except pkg_resources.DistributionNotFound:
+	version = 'x.y.z'
+
+parser = argparse.ArgumentParser(
+	description = 'List all available species',
+	usage = 'scagaire_species [options]',
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument('--debug', action='store_true', help='Turn on debugging', default = False)
+parser.add_argument('--verbose', '-v', action='store_true', help='Turn on verbose output', default = False)
+parser.add_argument('--version', action='version', version=str(version))
+
+options = parser.parse_args()
+
+if options.debug:
+    import cProfile, pstats, io
+    pr = cProfile.Profile()
+    pr.enable()
+    
+    ScagaireSpecies(options.verbose).print_all()
+    
+    pr.disable()
+    s = io.StringIO()
+    sortby = 'cumulative'
+    ps = pstats.Stats(pr, stream=s).sort_stats(sortby)
+    ps.print_stats()
+    print(s.getvalue())
+else:
+    ScagaireSpecies(options.verbose).print_all()
