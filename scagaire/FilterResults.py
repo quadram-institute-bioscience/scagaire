@@ -6,16 +6,15 @@ from scagaire.IdentifyResults import IdentifyResults
 from scagaire.parser.SpeciesToGenes import SpeciesToGenes
 
 class FilterResults:
-    def __init__(self, results_filename, database_filename, species, minimum_occurances, verbose):
+    def __init__(self, results_filename, database_filename, minimum_occurances, verbose):
         self.results_filename = results_filename
         self.database_filename = database_filename
-        self.species = species
         self.minimum_occurances = minimum_occurances
         self.verbose = verbose
 
-    def filter_by_species(self):
+    def filter_by_species(self, species):
         all_results = IdentifyResults(self.results_filename, self.verbose).get_results()
-        species_genes = SpeciesToGenes(self.database_filename, self.verbose).filter_by_species(self.species)
+        species_genes = SpeciesToGenes(self.database_filename, self.verbose).filter_by_species(species)
     
         # put the gene names in a dictionary for quick lookup 
         # and filter out low occuring genes.
