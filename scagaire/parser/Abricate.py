@@ -2,12 +2,7 @@ import csv
 import re
 import os
 from tempfile import mkstemp
-
 from scagaire.AbricateResult import AbricateResult
-
-
-# the header may not always be present
-# it is normally tab delimited, but could be comma delimited
 
 class Abricate:
     def __init__(self, input_file, verbose):
@@ -78,9 +73,8 @@ class Abricate:
             csvfile.seek(0)
             bnreader = csv.reader(csvfile, dialect)
             
-            file_contents
             for row in bnreader:
                 file_contents.append(row)
 
-            return file_contents
+        return file_contents
                 
