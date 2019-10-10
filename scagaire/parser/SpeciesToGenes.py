@@ -36,7 +36,7 @@ class SpeciesToGenes:
         return results
     
     def all_species(self):
-        return list(set(sorted([s.species for s in self.species_to_genes])))
+        return sorted(list(set([s.species for s in self.species_to_genes])))
         
     def filter_by_species(self, query):
         return [s for s in self.species_to_genes if s.species == query]
