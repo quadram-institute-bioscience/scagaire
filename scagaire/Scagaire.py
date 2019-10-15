@@ -12,13 +12,14 @@ class Scagaire:
         self.database = options.database
         self.minimum_occurances = options.minimum_occurances
         self.output_file = options.output_file
+        self.results_type = options.results_type
         self.verbose = options.verbose
 
         if self.database is None:
             self.database = str(pkg_resources.resource_filename( __name__, 'data/species_to_genes.tsv'))
 
     def run(self):
-        filter_results =  FilterResults(self.input_file, self.database, self.minimum_occurances, self.verbose)
+        filter_results =  FilterResults(self.input_file, self.database, self.minimum_occurances, self.results_type, self.verbose)
         
         sg = SpeciesToGenes(self.database, self.verbose)
         if self.species not in sg.all_species():
