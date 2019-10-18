@@ -1,6 +1,6 @@
 
 class StaramrResult:
-    def __init__(self):
+    def __init__(self, header = []):
         self.file          = None
         self.sequence      = None
         self.start         = None
@@ -11,6 +11,8 @@ class StaramrResult:
         self.perc_identity = None
         self.accession     = None
         self.resistance    = None
+        
+        self.header = header
         self.delimiter = "\t"
 
     def __str__(self):

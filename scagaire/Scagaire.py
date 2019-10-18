@@ -28,10 +28,17 @@ class Scagaire:
         
         results = filter_results.filter_by_species(self.species)
         output_content = "\n".join([str(r) for r in results])
+        header = ""
+        if len(results) > 0:
+            header = "\t".join(results[0].header)
+        else:
+            header = "No results"
         
         if self.output_file != None:
             with open(self.output_file, "w+") as output_fh:
+                output_fh.write(header)
                 output_fh.write(output_content)
         else:
+            print(header)
             print(output_content)
         

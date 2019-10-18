@@ -38,7 +38,7 @@ class Staramr(AmrParser):
         for row in file_contents:
             if len(row)< self.minimum_num_columns:
                 continue
-            ab_result = StaramrResult()
+            ab_result = StaramrResult(header = self.default_header)
             for index, value in enumerate(row):
                 if self.header[index] in self.column_to_variable_mapping:
                     variable_name = self.column_to_variable_mapping[self.header[index]]

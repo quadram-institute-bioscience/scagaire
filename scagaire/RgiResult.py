@@ -1,6 +1,6 @@
 
 class RgiResult:
-    def __init__(self):
+    def __init__(self, header = []):
         self.orf_id = None
         self.contig = None
         self.start = None
@@ -26,6 +26,8 @@ class RgiResult:
         self.model_id = None
         self.nudged = None
         self.note = None
+        
+        self.header = header
         self.delimiter = "\t"
 
     def __str__(self):
