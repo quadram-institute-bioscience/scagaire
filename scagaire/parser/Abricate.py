@@ -52,5 +52,9 @@ class Abricate(AmrParser):
                     continue
             abricate_results.append(ab_result)
         return abricate_results
+        
+    def __str__(self):
+        return "\n".join([str(r) for r in self.results])
+            
 
                 

@@ -14,7 +14,7 @@ class AbricateAmrResults:
     def get_amr_results(self):
         fd, abricate_output = mkstemp()
         
-        cmd = " ".join(['abricate', '--db', self.database_name, '--minid', str(self.min_identity), '--mincov', str(self.min_coverage), '>', abricate_output])
+        cmd = " ".join(['abricate', '--db', self.database_name, '--minid', str(self.min_identity), '--mincov', str(self.min_coverage), self.input_file , '>', abricate_output])
         if self.verbose:
             print("Run Abricate to find AMR genes\t"+ cmd)
         subprocess.check_output(cmd, shell=True)

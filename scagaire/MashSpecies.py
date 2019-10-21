@@ -9,7 +9,7 @@ class MashSpecies:
         self.verbose = verbose
         
     def get_species(self):
-        cmd = " ".join(['mash', 'dist','-d', '0.1', self.database, self.input_file, '|', 'sort','-k', '3', '|', 'head', '-n', '1'])
+        cmd = " ".join(['mash', 'dist','-d', str(self.minimum_distance), self.database, self.input_file, '|', 'sort','-k', '3', '|', 'head', '-n', '1'])
         if self.verbose:
             print("Run Mash against RefSeq reference genomes\t"+ cmd)
         mash_output = subprocess.check_output(cmd, shell=True)

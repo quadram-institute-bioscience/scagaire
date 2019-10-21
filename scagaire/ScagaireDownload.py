@@ -4,9 +4,10 @@ import subprocess
 import shutil
 import pkg_resources
 from tempfile import mkdtemp
-from datetime import datetime
+
 from scagaire.MashSpecies import MashSpecies
 from scagaire.AbricateAmrResults import AbricateAmrResults
+from scagaire.SpeciesDatabase import  SpeciesDatabase
 
 class ScagaireDownload:
     def __init__(self, options):
@@ -19,9 +20,11 @@ class ScagaireDownload:
         self.mash_database = options.mash_database
         self.min_coverage = options.min_coverage
         self.min_identity = options.min_identity
+        self.downloads_directory = options.downloads_directory
         self.abricate_database = options.abricate_database
         self.verbose = options.verbose
         self.debug = options.debug
+        self.minimum_distance = options.minimum_distance
         
         if self.output_directory is None:
             self.output_directory = re.sub("[^a-zA-Z0-9]+", "_", self.species)
@@ -35,28 +38,26 @@ class ScagaireDownload:
         self.directories_to_cleanup = []
 
     def run(self):
-        download_directory = self.download_species()
+        download_directory = self.downloads_directory
+        if self.downloads_directory is None:
+            download_directory = self.download_species()
+        
         input_files = self.find_input_files(download_directory)
         filtered_input_files = self.remove_species_mismatch(input_files, self.species)
         files_to_amr_results = self.amr_for_input_files(filtered_input_files)
         gene_to_freq = self.aggregate_amr_results(files_to_amr_results)
+        SpeciesDatabase(self.output_file, self.species, self.abricate_database ).output_genes_to_freq_file(gene_to_freq)
         
     def aggregate_amr_results(self, files_to_amr_results):
         gene_to_freq = {}
         for amr_results in files_to_amr_results.values():
-            if amr_results in gene_to_freq:
-                gene_to_freq[amr_results] += 1
-            else:
-                gene_to_freq[amr_results] = 1
+            for amr_result in amr_results:
+                if amr_result.gene in gene_to_freq:
+                    gene_to_freq[amr_result.gene] += 1
+                else:
+                    gene_to_freq[amr_result.gene] = 1
         return gene_to_freq
-            
-    #Campylobacter jejuni	blaOXA-785	6	manual_ncbi_website	20191008
-    def output_genes_to_freq_file(self, gene_to_freq):
-        with open(self.output_file, "w") as out_fh:
-            for gene, freq in gene_to_freq.items():
-                gene_results = [self.species, gene, str(freq), 'abricate_' + self.abricate_database + '_auto', datetime.today().strftime('%Y%m%d')]
-                out_fh.write( "\t".join(gene_results))
-        
+
     def download_species(self):
         download_directory = str(mkdtemp(dir=self.output_directory))
         self.directories_to_cleanup.append(download_directory)
@@ -95,14 +96,17 @@ class ScagaireDownload:
     def remove_species_mismatch(self, input_files, species):
         filtered_input_files = []
         for f in input_files:
-            mash_species = MashSpecies(f, self.mash_database, self.verbose).get_species()
+            mash_species = MashSpecies(f, self.mash_database, self.verbose, minimum_distance = self.minimum_distance).get_species()
             if mash_species == species:
                 if self.verbose:
                     print('Species match for file ' + str(f) + " got " + mash_species)
                 filtered_input_files.append(f)
             else:
                 if self.verbose:
-                    print('Species mismatch for file ' + str(f) + ", expected " + species + " but got " + mash_species)
+                    if mash_species is not None:
+                        print('Species mismatch for file ' + str(f) + ", expected " + species + " but got " + mash_species)
+                    else:
+                        print('Couldnt find any species for file ' + str(f) + ", expected " + species)
                 
         return filtered_input_files
         

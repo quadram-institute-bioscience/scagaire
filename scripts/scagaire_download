@@ -29,6 +29,9 @@ parser.add_argument('--output_file', '-o',  help='Output filename', default = 's
 parser.add_argument('--output_directory', '-i', help='Working output directory', type=str)
 
 # Advanced
+
+parser.add_argument('--minimum_distance',  help='Mash minimum distance threshold', default = 0.1, type=float)
+parser.add_argument('--downloads_directory',  help='Use this directory of NCBI genomes instead of downloading', type=str)
 parser.add_argument('--refseq_category',  help='Quality of the assemblies', type=str, default='all', choices=['all','reference','representative'])
 parser.add_argument('--abricate_database',  help='Abricate database', default = 'ncbi', type=str)
 parser.add_argument('--min_coverage',  help='Min percentage coverage over AMR gene', default = 95, type=int)
