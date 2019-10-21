@@ -113,7 +113,7 @@ class ScagaireDownload:
     def amr_for_input_files(self, input_files):
         files_to_amr_results = {}
         for f in input_files:
-            amr = AbricateAmrResults(f, self.abricate_database, self.min_coverage, self.min_identity, self.verbose).get_amr_results()
+            amr = AbricateAmrResults(f, self.abricate_database, self.min_coverage, self.min_identity, self.verbose, self.threads).get_amr_results()
             files_to_amr_results[f] = amr
         return files_to_amr_results
         

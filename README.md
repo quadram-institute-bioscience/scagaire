@@ -1,11 +1,22 @@
-
 Todo:
-Add in header in output
+Script to produce genes vs species all in 1 table
+documentation
+
+Dependancies
+--
+ncbi genome downloader
+mash - for genera
+abricate
+
+# identifying species
+ncbi-genome-download  -l all --parallel 8 -R reference -F fasta --human-readable bacteria 
+gets 120 very high quality genomes
+
 
 # Inputs supported
 * [Abricate](https://github.com/tseemann/abricate)
 * [Staramr](https://github.com/phac-nml/staramr) (resfinder.tsv)
-
+* [RGI](https://xxx) CARD
 
 
 # Feedback/Issues
