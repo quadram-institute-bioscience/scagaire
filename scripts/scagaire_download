@@ -5,7 +5,7 @@ sys.path.append('./')
 import argparse
 import os
 import pkg_resources
-from scagaire.Scagaire import Scagaire
+from scagaire.ScagaireDownload import ScagaireDownload
 
 version = ''
 try:
@@ -21,9 +21,7 @@ parser = argparse.ArgumentParser(
 # input  
 parser.add_argument('species',  help='Species name, use scagaire_species to see all available', type=str)
 parser.add_argument('--assembly_level', '-l',  help='Assembly level', type=str, default='all', choices=['all', 'complete','chromosome', 'scaffold',  'contig'])
-parser.add_argument('--refseq_category','-c',  help='Sequencing technology', type=str, default='all', choices=['all','reference','representative'])
 parser.add_argument('--threads', '-t',  help='No. of threads', default = 1, type=int)
-
 parser.add_argument('--mash_database', '-m',  help='Mash database for checking assembly species classification, defaults to bundled', type=str)
 
 # Output
@@ -31,6 +29,10 @@ parser.add_argument('--output_file', '-o',  help='Output filename', default = 's
 parser.add_argument('--output_directory', '-i', help='Working output directory', type=str)
 
 # Advanced
+parser.add_argument('--refseq_category',  help='Quality of the assemblies', type=str, default='all', choices=['all','reference','representative'])
+parser.add_argument('--abricate_database',  help='Abricate database', default = 'ncbi', type=str)
+parser.add_argument('--min_coverage',  help='Min percentage coverage over AMR gene', default = 95, type=int)
+parser.add_argument('--min_identity',  help='Min percentage identity over AMR gene', default = 95, type=int)
 parser.add_argument('--debug', action='store_true', help='Turn on debugging', default = False)
 parser.add_argument('--verbose', '-v', action='store_true', help='Turn on verbose output', default = False)
 parser.add_argument('--version', action='version', version=str(version))

@@ -15,8 +15,8 @@ class MashSpecies:
         mash_output = subprocess.check_output(cmd, shell=True)
         
         if len(mash_output) > 0:
-            sketch_match = mash_output.split('/')
-            species = sketch_match[1]." ".sketch_match[2]
+            sketch_match = mash_output.decode().split('/')
+            species = sketch_match[1] + " " + sketch_match[2]
             return species
         return None
         
