@@ -1,6 +1,0 @@
-{
-    'databases': 'https://www.ncbi.nlm.nih.gov/pathogens/isolates#/search/',
-    'date': '20191008',
-    'method': 'manual downloading, filtering for only samples with AMR genes, and top pathogens',
-    
-}
