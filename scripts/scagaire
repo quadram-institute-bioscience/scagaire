@@ -18,7 +18,7 @@ parser = argparse.ArgumentParser(
     usage = 'scagaire [options] species amr_results',
     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     
-parser.add_argument('species',  help='Species name, use scagaire_species to see all available', type=str)
+parser.add_argument('species',  help='Species name, use scagaire_species to see all available. Multiple species can be passed in comma separated.', type=str)
 parser.add_argument('input_file', help='Input file of AMR results from Abricate etc...', type=str)
 
 

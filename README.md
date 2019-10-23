@@ -105,7 +105,7 @@ optional arguments:
   --version             show program's version number and exit
 """
 
-__species__: This is the name of a bacterial pathogen that you wish to filter on (within quotes). It must exactly match a name from the scagaire_species command. All the major pathogens are bundled with the software but if your pathogen of interest is missing you can use scagaire_download to create a database for it. For some pathogens this may be the genus.
+__species__: This is the name of a bacterial pathogens that you wish to filter on (within quotes). For multiple species, separate them with a comma. It must exactly match a name from the scagaire_species command. All the major pathogens are bundled with the software but if your pathogen of interest is missing you can use scagaire_download to create a database for it. For some pathogens this may be the genus.
 
 __input_file__: The AMR gene prediction results from Abricate, StarAMR, CARD etc... Ideally the NCBI or CARD database should be used. 
 
