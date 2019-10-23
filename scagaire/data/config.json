@@ -1,0 +1,24 @@
+{
+    "taxon_categories": { 
+        "gut": ["Clostridioides difficile", 
+            "Campylobacter jejuni", 
+            "Escherichia coli",
+            "Enterobacter",
+            "Enterococcus faecalis",
+            "Enterococcus faecium", 
+            "Listeria monocytogenes", 
+            "Salmonella enterica",
+            "Vibrio cholerae"],
+        "respiratory": ["Escherichia coli", 
+            "Haemophilus influenzae", 
+            "Klebsiella pneumoniae", 
+            "Pseudomonas aeruginosa", 
+            "Legionella pneumophila", 
+            "Mycobacterium tuberculosis", 
+            "Streptococcus pneumoniae"],
+        "skin": ["Mycobacterium leprae", 
+            "Pseudomonas aeruginosa", 
+            "Staphylococcus aureus", 
+            "Streptococcus agalactiae"]
+    }
+}
