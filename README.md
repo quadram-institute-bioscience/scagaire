@@ -77,7 +77,7 @@ The output is a filtered list of what was put in (in the same format).
 ## scagaire
 This is the main script which takes in a set of AMR gene predictions and a species and outputs a filtered list specific to that species.
 
-"""
+```
 usage: scagaire [options] species amr_results
 
 Filter AMR results by species
@@ -103,7 +103,7 @@ optional arguments:
   --debug               Turn on debugging (default: False)
   --verbose, -v         Turn on verbose output (default: False)
   --version             show program's version number and exit
-"""
+```
 
 __species__: This is the name of a bacterial pathogens that you wish to filter on (within quotes). For multiple species, separate them with a comma. It must exactly match a name from the scagaire_species command. All the major pathogens are bundled with the software but if your pathogen of interest is missing you can use scagaire_download to create a database for it. For some pathogens this may be the genus.
 
@@ -128,7 +128,7 @@ __version__: Print the version of the software and exit. If the version is 'x.y.
 ## scagaire_species
 This script lists all the available species in the database. Some pathogens are missing because gene predictions are of poor quality or because resistance is rarely observed.
 
-"""
+```
 usage: scagaire_species [options]
 
 List all available species
@@ -138,7 +138,7 @@ optional arguments:
   --debug        Turn on debugging (default: False)
   --verbose, -v  Turn on verbose output (default: False)
   --version      show program's version number and exit
-"""
+```
 
 __help__: This will print out the extended help information, including default values, then exit.
 
@@ -151,7 +151,7 @@ __version__: Print the version of the software and exit. If the version is 'x.y.
 ### scagaire_download
 This script allows you to automatically create your own database of use with scagaire for a new species. Its probably best not to change any of the parameters as you'll break it.
 
-"""
+```
 usage: scagaire_download [options] species
 
 Given a species, download all assemblies and add AMR genes to database
@@ -189,7 +189,7 @@ optional arguments:
   --debug               Turn on debugging (default: False)
   --verbose, -v         Turn on verbose output (default: False)
   --version             show program's version number and exit
-"""
+```
 
 __assembly_level__: By default the script will download all available assemblies in RefSeq (draft and complete). You can choose to restrict it to a subset. For example if you wanted fully complete genomes where the chromosome is in 1 piece you would select 'complete'.
 
