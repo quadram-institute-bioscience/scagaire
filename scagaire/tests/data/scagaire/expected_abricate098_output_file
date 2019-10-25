@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+assembly.fasta	contig_10165	108800	110741	+	tet(M)	1-1920/1920	========/======	36/40	99.53	97.18	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE
+assembly.fasta	contig_12401	594	1782	+	tet(X)	1-1167/1167	========/======	19/22	100.00	98.07	ncbi	NG_048304.1	tetracycline-inactivating monooxygenase Tet(X)	TETRACYCLINE
+assembly.fasta	contig_12401	1997	2723	-	erm(F)	95-801/801	.=======/======	18/24	88.01	96.57	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_13915	22121	22759	-	erm(F)	181-801/801	...=====/======	14/22	77.28	95.79	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_13915	23710	23899	-	erm(F)	1-186/801	====..../......	3/4	23.22	97.37	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE

@@ -1,0 +1,36 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+assembly.fasta	contig_10165	108800	110741	+	tet(M)	1-1920/1920	========/======	36/40	99.53	97.18	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE
+assembly.fasta	contig_10292	15287	15881	-	tet(Q)	1-588/1926	=====.../......	5/7	30.53	97.98	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_10429	1149	3084	-	tet(O)	1-1920/1920	========/======	40/50	99.11	92.78	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_12401	594	1782	+	tet(X)	1-1167/1167	========/======	19/22	100.00	98.07	ncbi	NG_048304.1	tetracycline-inactivating monooxygenase Tet(X)	TETRACYCLINE
+assembly.fasta	contig_12401	1997	2723	-	erm(F)	95-801/801	.=======/======	18/24	88.01	96.57	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_12566	356936	358885	-	tet(Q)	1-1923/1926	========/======	19/29	99.79	98.36	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1282	2858	3074	-	tet(O)	1-217/1920	==.............	0/0	11.30	98.16	ncbi	NG_048261.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_1288	293921	295862	+	tet(O)	1-1920/1920	========/======	18/24	99.95	98.66	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_12920	28259	29176	-	cepA	1-903/903	========/======	11/15	100.00	98.15	ncbi	NG_047625.1	CepA family class A extended-spectrum beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_13002	658804	659572	-	aad9	10-766/777	========/======	10/12	97.43	75.94	ncbi	NG_047322.1	ANT(9) family aminoglycoside nucleotidyltransferase	AMINOGLYCOSIDE
+assembly.fasta	contig_13084	40478	40608	+	vanO	272-402/1041	...===.........	0/0	12.58	78.63	ncbi	NG_048398.1	D-alanine--(R)-lactate ligase VanO	VANCOMYCIN
+assembly.fasta	contig_135	4083	5313	-	tet(40)	1-1221/1221	========/======	9/10	100.00	98.70	ncbi	NG_048141.1	tetracycline efflux MFS transporter Tet(40)	TETRACYCLINE
+assembly.fasta	contig_135	5458	7404	-	tet(O)	4-1920/1920	========/======	25/32	99.79	98.05	ncbi	NG_048267.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_13510	626079	626833	-	tet(W)	1172-1920/1920	......../======	4/6	39.01	98.81	ncbi	NG_048300.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_13723	17137	17783	+	tetA(46)	1-645/1725	======../......	21/36	36.41	92.02	ncbi	NG_048312.1	tetracycline efflux ABC transporter Tet(46) subunit A	TETRACYCLINE
+assembly.fasta	contig_1389	150416	151291	-	blaACI-1	1-855/855	========/======	16/23	99.88	97.26	ncbi	NG_048596.1	class A extended-spectrum beta-lactamase ACI-1	CEPHALOSPORIN
+assembly.fasta	contig_13915	19866	21827	-	tet(Q)	1-1923/1926	========/======	28/39	99.84	88.79	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_13915	22121	22759	-	erm(F)	181-801/801	...=====/======	14/22	77.28	95.79	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_13915	23710	23899	-	erm(F)	1-186/801	====..../......	3/4	23.22	97.37	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_1392	231571	232075	+	lnu(C)	1-495/495	========/======	7/10	100.00	97.03	ncbi	NG_047924.1	lincosamide nucleotidyltransferase Lnu(C)	LINCOSAMIDE
+assembly.fasta	contig_14092	1807	2894	+	tet(40)	142-1221/1221	.=======/======	7/8	88.45	98.81	ncbi	NG_048139.1	tetracycline efflux MFS transporter Tet(40)	TETRACYCLINE
+assembly.fasta	contig_14299	3486	4355	-	aadE	1-867/867	========/======	13/19	99.08	97.84	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_14453	8644	9411	+	erm(Q)	1-774/774	========/======	10/18	98.45	97.69	ncbi	NG_047835.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(Q)	MACROLIDE
+assembly.fasta	contig_1455	105181	105319	+	vanR-G	223-360/708	....====/......	1/1	19.49	78.42	ncbi	NG_048411.1	VanG-type vancomycin resistance DNA-binding response regulator VanR	VANCOMYCIN
+assembly.fasta	contig_14616	16197	18148	+	tet(O)	1-1920/1920	========/======	24/32	100.00	97.13	ncbi	NG_048262.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_14871	983	1121	+	vanO	264-402/1041	...===.........	0/0	13.35	76.98	ncbi	NG_048398.1	D-alanine--(R)-lactate ligase VanO	VANCOMYCIN
+assembly.fasta	contig_14889	15028	15630	-	tet(Q)	1-593/1926	=====.../......	8/10	30.79	98.34	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1623	298594	299200	+	tet(Q)	1-599/1926	=====.../......	5/8	31.10	97.86	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1649	244740	245345	+	tet(Q)	1-599/1926	=====.../......	5/7	31.10	98.84	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1669	691347	692223	+	aadE	1-867/867	========/======	9/10	100.00	98.63	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_17011	5066	7007	-	tet(O)	4-1920/1920	========/======	21/27	99.79	98.56	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_17061	7093	7599	-	tet(O)	4-506/1920	====..../......	8/8	26.09	98.03	ncbi	NG_048257.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_1740	58850	59071	+	tet(37)	1-222/327	===========....	0/0	67.89	76.58	ncbi	NG_048132.1	tetracycline resistance NADPH-dependent oxidoreductase Tet(37)	TETRACYCLINE
+assembly.fasta	contig_17430	1	759	+	tet(W)	1149-1904/1920	......../======	5/5	39.32	96.97	ncbi	NG_048284.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+

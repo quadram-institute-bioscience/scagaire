@@ -28,8 +28,10 @@ parser.add_argument('--results_type', '-t',  help='Format of input results. Defa
 
 # Output
 parser.add_argument('--output_file', '-o',  help='Output filename, defaults to STDOUT', type=str)
+parser.add_argument('--summary_file', '-s',  help='Output summary filename', default='gene_summary.tsv', type=str)
 
 # Advanced
+parser.add_argument('--overwrite_files', '-w', help='Silently overwrite output files if they already exist', default = False)
 parser.add_argument('--minimum_occurances', '-m', help='Minimum number of occurances of a gene in the database to use', default = 0,  type=int)
 parser.add_argument('--debug', action='store_true', help='Turn on debugging', default = False)
 parser.add_argument('--verbose', '-v', action='store_true', help='Turn on verbose output', default = False)

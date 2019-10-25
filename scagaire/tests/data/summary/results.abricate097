@@ -1,0 +1,806 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+S16-4092_1.fastq.gz	9170e512-d6fa-455a-bdfc-bf2f2507c294	1707	2068	blaI_of_Z	1-367/381	========/======	15/17	93.44	87.40	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ef03583a-ae1e-4530-9541-3cf30489b3e1	844	1205	blaI_of_Z	1-369/381	========/======	12/15	93.96	91.96	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7b7b0d1d-f154-4608-ab31-6ce7bdd097dc	2651	3020	blaI_of_Z	1-370/381	========/======	11/12	95.54	92.55	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	438df9fa-cd18-4e8e-9421-4fbb1217328d	105	476	blaI_of_Z	1-370/381	========/======	14/24	94.23	86.68	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2bf00309-c4d3-4a22-af2e-904a890b2e3c	1037	1400	blaI_of_Z	1-370/381	========/======	19/28	92.65	83.99	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d312f2ad-f990-4894-a26c-dbb7ecd81451	2392	2774	blaI_of_Z	1-370/381	========/======	22/31	94.75	84.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	458485d1-7e4b-45a9-b85c-0c4be7fcc99d	425	800	blaI_of_Z	1-375/381	========/======	13/21	95.80	85.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6acfe8ff-0b97-438f-9fc3-e9cad9a16cef	998	1364	blaI_of_Z	1-375/381	========/======	14/20	94.75	91.08	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c302d242-a011-4606-a67f-0a2f45241826	2696	3072	blaI_of_Z	1-375/381	========/======	14/22	95.80	88.89	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	211e3fd8-3f72-481e-8fac-2a52f6ef2fa1	243	619	blaI_of_Z	1-375/381	========/======	15/22	95.80	89.92	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fda15f0c-03c7-4851-928b-4e8f79ba450e	2003	2380	blaI_of_Z	1-375/381	========/======	16/21	96.06	90.70	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e8147c28-0ff3-4d02-96aa-c1eb41ca5f5a	973	1345	blaI_of_Z	1-375/381	========/======	16/24	95.01	87.56	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	cc32b088-707c-41a4-95f6-0ef4467b91d4	1203	1580	blaI_of_Z	1-375/381	========/======	16/27	95.28	84.61	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c0ee31b0-b7b7-480e-a6eb-4b1ae747f7aa	2078	2445	blaI_of_Z	1-375/381	========/======	17/25	94.23	89.06	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	3df72b87-de0a-469a-a3ca-73994a609ea0	1477	1845	blaI_of_Z	1-375/381	========/======	17/26	94.23	86.23	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	14f2e53a-8710-4829-8d8f-6fa0f9e86f18	1040	1402	blaI_of_Z	1-375/381	========/======	20/32	92.65	87.53	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	af92ac70-9cab-44bd-80dd-e0cfff767eba	158	529	blaI_of_Z	1-375/381	========/======	7/15	96.06	91.08	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6f4e19c2-0da3-483c-9ea6-ec064db5b428	497	860	blaI_of_Z	1-376/381	========/======	10/14	95.28	92.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5fd50e5c-d986-4ee0-bd85-ad987cc75027	993	1363	blaI_of_Z	1-376/381	========/======	11/17	95.80	88.74	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	85e36d92-090d-4dbf-b9a8-e56043e191d8	1427	1794	blaI_of_Z	1-376/381	========/======	11/18	95.28	91.08	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a4cee8ba-3421-48f0-a0b1-4ed7be6fb695	1275	1642	blaI_of_Z	1-376/381	========/======	12/16	95.54	86.84	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	265a4bcc-95db-4d9e-b0db-f97e899546dc	1545	1914	blaI_of_Z	1-376/381	========/======	13/20	95.28	87.73	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f4c9e4ea-8c50-4e50-b3cb-ecb3e5b54ad9	1821	2193	blaI_of_Z	1-376/381	========/======	13/21	95.54	87.01	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	78d9ab6c-897a-46fc-bd3d-b79cf7b9c8bf	899	1262	blaI_of_Z	1-376/381	========/======	13/22	94.23	88.98	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	521a9eab-3b75-435c-846d-7634fa114547	2648	3022	blaI_of_Z	1-376/381	========/======	14/17	96.33	90.36	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	baf926c1-9ae9-427c-8820-276f40b3bab8	232	613	blaI_of_Z	1-376/381	========/======	14/18	97.11	89.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a9074ba1-30af-43ef-861a-d4776ff2b5da	1252	1621	blaI_of_Z	1-376/381	========/======	14/22	95.01	90.36	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b087c397-88ef-4230-8798-fc35e6d875a9	1719	2099	blaI_of_Z	1-376/381	========/======	15/23	96.33	87.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	74150c21-f158-480f-b577-6dd8954f040e	1978	2350	blaI_of_Z	1-376/381	========/======	15/25	95.01	88.89	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1ed79577-d63c-4f9a-9f15-99e6f9828161	2902	3266	blaI_of_Z	1-376/381	========/======	15/29	93.44	87.79	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	53768728-9ceb-4913-a0ea-10c8bf2f9aba	747	1110	blaI_of_Z	1-376/381	========/======	16/22	94.23	90.55	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	bef5222d-d0fe-4b08-ab73-f2902ec8d64e	2545	2909	blaI_of_Z	1-376/381	========/======	16/25	93.96	89.03	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	8dd7cbdf-a834-47a5-87c6-137198d19f0c	666	1044	blaI_of_Z	1-376/381	========/======	16/25	95.80	88.97	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	475369ab-9aa1-43d9-8c89-267dfe5392c0	2061	2439	blaI_of_Z	1-376/381	========/======	16/25	95.80	90.26	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	3886e85d-dcd4-4749-b4db-171c9671c5d9	1560	1925	blaI_of_Z	1-376/381	========/======	16/28	93.70	85.71	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ad53a28f-4a72-4957-a3a1-aabed67c6dbd	2129	2504	blaI_of_Z	1-376/381	========/======	17/24	95.54	88.40	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	083c8cdc-d4f3-4e48-b046-569e125b18a9	845	1215	blaI_of_Z	1-376/381	========/======	17/33	93.70	88.72	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b97ed5a5-2419-4222-9467-023d817ecd07	2495	2869	blaI_of_Z	1-376/381	========/======	18/23	95.54	90.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	de8496a3-f05f-496d-a0f0-215aa57d971c	1219	1589	blaI_of_Z	1-376/381	========/======	18/27	94.49	86.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	014fd7e2-a97b-47ed-afc3-a56fc0e15c83	1923	2306	blaI_of_Z	1-376/381	========/======	21/36	95.01	85.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	78ac998c-fe66-42ce-a653-20017cc28d00	791	1162	blaI_of_Z	1-377/381	========/======	11/17	96.06	90.08	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	af7ac732-9b08-418d-91d0-471acc88fc14	799	1167	blaI_of_Z	1-377/381	========/======	11/18	95.54	91.36	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ef78e3b1-3bbf-426e-ae55-67f8b7f25a95	183	559	blaI_of_Z	1-377/381	========/======	12/14	97.11	88.02	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	cf0892a7-44fd-454f-8a2a-7a78ca83899e	921	1288	blaI_of_Z	1-377/381	========/======	12/15	95.80	91.58	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c78e949b-60b5-407e-a157-2840fc2518fd	2274	2649	blaI_of_Z	1-377/381	========/======	12/15	96.85	90.89	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b46f0910-4f86-4325-841f-10980add15fd	239	610	blaI_of_Z	1-377/381	========/======	12/17	96.06	90.60	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d3671a2b-edcb-42de-95dc-5ce028b3875a	2299	2667	blaI_of_Z	1-377/381	========/======	12/18	95.54	90.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	32202802-fa6f-4c41-a9fc-98d37f10d60a	256	633	blaI_of_Z	1-377/381	========/======	12/19	96.59	88.37	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	62ffd683-df50-4924-a194-bd52f3cf804c	1694	2064	blaI_of_Z	1-377/381	========/======	15/24	95.01	90.42	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	248a927d-4f8a-498c-b849-2568d2f65bf0	592	957	blaI_of_Z	1-377/381	========/======	15/25	94.23	88.02	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e6809f43-6746-43db-a420-6c90a9b88706	1123	1500	blaI_of_Z	1-377/381	========/======	17/27	95.54	87.72	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c955c5a3-0ebb-4fa0-8025-191e90e0d3c3	2871	3250	blaI_of_Z	1-377/381	========/======	18/23	96.33	88.46	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	48bb650a-1ee9-4775-bc75-efd438271496	438	818	blaI_of_Z	1-377/381	========/======	19/28	95.80	90.33	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6607a12c-a5d7-4a06-b301-a0c632ac6ec8	1822	2192	blaI_of_Z	1-377/381	========/======	6/6	97.38	94.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ed7c360f-7528-4f23-b596-3e6f7cb778ac	1459	1839	blaI_of_Z	1-378/381	========/======	10/11	98.16	92.99	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	132c0dbc-1785-4c9a-83ae-e86dcc4b19be	2435	2815	blaI_of_Z	1-378/381	========/======	15/17	97.38	92.53	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5bec0c61-2d4d-465e-ae43-0787463b610e	1506	1872	blaI_of_Z	1-378/381	========/======	17/25	94.49	88.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	3a10aed1-ef14-470d-bdf5-7caa0ce0e6f2	966	1332	blaI_of_Z	1-378/381	========/======	18/31	93.70	86.86	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	13b10a7e-6c00-469c-999c-e9d07e70d19a	1301	1669	blaI_of_Z	1-379/381	========/======	13/18	95.80	88.77	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a5360b57-5313-4035-993b-4cfb3eab7646	1457	1833	blaI_of_Z	1-380/381	========/======	12/13	97.64	90.39	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fd3a831a-9771-45d1-8c6a-066c0233d20f	1626	1993	blaI_of_Z	1-380/381	========/======	14/20	95.54	90.89	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fef4ec47-4549-4f00-91cc-c73ac4801919	552	931	blaI_of_Z	1-380/381	========/======	14/20	97.11	91.03	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4a145ed1-990a-4a59-a2c6-e71576658133	1117	1485	blaI_of_Z	1-380/381	========/======	14/23	95.28	89.90	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	80ac58cb-afcb-4881-987e-9c7bbf471209	540	910	blaI_of_Z	1-380/381	========/======	14/27	95.01	89.46	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e05eeb24-e105-482c-8bc6-5363becd149f	2044	2419	blaI_of_Z	1-380/381	========/======	16/26	95.80	86.19	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	53e95a7a-5764-4690-8245-3692986ae01c	1410	1783	blaI_of_Z	1-380/381	========/======	21/40	93.70	81.86	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	86456df1-2876-49d4-8907-f7771c6b4bda	1158	1534	blaI_of_Z	1-381/381	========/======	10/10	98.16	94.01	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	efe5c3e6-89a7-4ebe-b6a3-c982d66d66c4	899	1276	blaI_of_Z	1-381/381	========/======	10/13	97.90	90.42	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fd1efaa6-7c73-4943-a07d-3a55adccca2d	1045	1426	blaI_of_Z	1-381/381	========/======	10/13	98.43	92.01	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	22398605-a0b5-4465-893b-823f56770dc3	1004	1376	blaI_of_Z	1-381/381	========/======	10/14	97.11	92.19	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6d3aeb58-1a09-4e0b-83de-c6520ffa02cc	2963	3327	blaI_of_Z	1-381/381	========/======	10/18	95.54	90.58	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	859ca959-0588-4aed-8323-eb595a31df80	1449	1822	blaI_of_Z	1-381/381	========/======	11/11	97.64	94.26	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	77abe9a8-c650-41b4-a05b-7226d213f60c	136	515	blaI_of_Z	1-381/381	========/======	11/11	98.43	94.30	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	83445d89-f751-4f85-8abe-b773a256ed0d	2005	2380	blaI_of_Z	1-381/381	========/======	11/13	97.64	92.21	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f9d22be4-0eec-41f4-8c16-5711c28f19fb	1581	1951	blaI_of_Z	1-381/381	========/======	11/14	96.85	92.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	46a78ce1-772e-4bff-a007-f8eaec4ded0f	752	1137	blaI_of_Z	1-381/381	========/======	11/15	98.69	89.00	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	92ff8f92-104d-4b56-82c3-3167cc723c7e	1563	1931	blaI_of_Z	1-381/381	========/======	11/16	96.33	89.82	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f857992c-ddc6-4cae-b9ea-cbf888a6f9f0	1255	1629	blaI_of_Z	1-381/381	========/======	11/16	97.11	90.67	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	9e17fc16-7032-4414-920b-11380992c7e5	971	1342	blaI_of_Z	1-381/381	========/======	11/17	96.59	91.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	86886a3e-5a86-4443-b35b-05bc9eca4930	1359	1736	blaI_of_Z	1-381/381	========/======	11/17	97.38	89.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	244722b3-7338-4f93-9fdd-b41c03610a43	2096	2469	blaI_of_Z	1-381/381	========/======	11/19	96.59	89.41	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	62e9bba8-a19d-417c-8262-2026b840f885	1877	2259	blaI_of_Z	1-381/381	========/======	11/20	97.64	88.78	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4b209fd4-6a19-4235-8b0c-af07b1dd115f	567	940	blaI_of_Z	1-381/381	========/======	11/21	96.33	88.40	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a986b3ea-e223-49f4-a6b3-bc147d784d20	912	1293	blaI_of_Z	1-381/381	========/======	12/13	98.43	93.56	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6c2110fb-405b-436c-86ac-8909481a2624	1509	1891	blaI_of_Z	1-381/381	========/======	12/14	98.43	92.03	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2f23cf48-2b80-4d9b-98d7-92a32a6161ef	1676	2047	blaI_of_Z	1-381/381	========/======	12/15	96.85	90.62	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	03720ed8-9b45-41c5-be0a-2f97996ae3f7	1693	2068	blaI_of_Z	1-381/381	========/======	12/15	97.38	91.45	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5fd657df-43a2-4fa0-996d-0214e7a4e6a3	2371	2753	blaI_of_Z	1-381/381	========/======	12/16	98.16	89.74	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	9abc0f11-0eb3-4ad2-b1e4-4f40d8a02e34	2523	2907	blaI_of_Z	1-381/381	========/======	12/16	98.43	92.58	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	8688471c-d8e1-4165-a1c8-710ca2d927a2	769	1140	blaI_of_Z	1-381/381	========/======	12/17	96.59	89.61	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4937365a-8fdf-41aa-ab79-a1b8cc2524ab	1284	1663	blaI_of_Z	1-381/381	========/======	12/17	97.64	90.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	036c20a9-95aa-436c-8815-30f10d891aca	1793	2154	blaI_of_Z	1-381/381	========/======	12/21	94.75	89.27	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e6147bc8-fa01-41e2-9424-f1a99ccc5b49	1533	1909	blaI_of_Z	1-381/381	========/======	12/22	96.59	88.72	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1a3f02da-5627-46f6-9887-c09eba37cda9	2042	2416	blaI_of_Z	1-381/381	========/======	13/14	97.38	91.17	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	9e3db6bc-6c9a-4cba-921d-37b7b1726be9	2031	2407	blaI_of_Z	1-381/381	========/======	13/16	97.38	90.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	51e784ab-0b97-4a44-a9c2-fac12126fcec	2542	2915	blaI_of_Z	1-381/381	========/======	13/17	96.85	91.71	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7d0cc411-4907-4890-b2de-4ed4d1a9370b	279	652	blaI_of_Z	1-381/381	========/======	13/17	96.85	93.00	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	35f8b40e-4370-4b68-b3cb-a8594f1693d2	1569	1944	blaI_of_Z	1-381/381	========/======	13/17	97.11	90.18	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ed688493-d1e9-41f0-985f-34acad1ec6bf	2429	2808	blaI_of_Z	1-381/381	========/======	13/17	97.64	89.20	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c513d14e-9387-45e4-91e3-a51de4f8fc2b	284	660	blaI_of_Z	1-381/381	========/======	13/18	97.11	88.92	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	901d9401-abb8-4d3b-bf45-aefcd0a08f87	2158	2538	blaI_of_Z	1-381/381	========/======	13/18	97.64	90.00	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e3b6d19c-fdb4-47f7-a0fa-e93f973da324	2674	3057	blaI_of_Z	1-381/381	========/======	13/19	97.90	89.54	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c699e409-2a01-4fbd-affe-3bb4639014f9	1844	2214	blaI_of_Z	1-381/381	========/======	13/20	96.06	91.19	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7a2e64af-23d1-4aaf-8192-e5a893ced6d7	813	1185	blaI_of_Z	1-381/381	========/======	13/20	96.33	88.63	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e20bbeda-ad3b-45d9-b3df-b31791163aaf	2853	3225	blaI_of_Z	1-381/381	========/======	13/20	96.33	89.41	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	47e77c28-64c7-462d-b23d-ea97128a8382	382	758	blaI_of_Z	1-381/381	========/======	13/20	96.85	88.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ba32a46c-a2ed-4e13-a2f3-5efe765687f1	118	487	blaI_of_Z	1-381/381	========/======	13/21	95.80	89.12	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	53e47905-5bfb-4762-8b42-c6c83da18d61	251	622	blaI_of_Z	1-381/381	========/======	13/23	95.80	89.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	8d33d6f2-64cd-4cf5-8416-a1009b4b94f9	1705	2078	blaI_of_Z	1-381/381	========/======	13/23	96.06	89.72	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6b98bbbb-42e2-4a08-a115-47601b897854	2775	3152	blaI_of_Z	1-381/381	========/======	14/15	97.64	91.47	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c7ff10d5-a451-4f0f-9c40-b23419a79fee	346	712	blaI_of_Z	1-381/381	========/======	14/16	96.06	91.10	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e9ff4566-70aa-47b5-89ec-20e2be401a6a	875	1253	blaI_of_Z	1-381/381	========/======	14/16	97.64	91.24	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a05f2f27-7bad-47a6-9a5b-47e9110c747a	695	1069	blaI_of_Z	1-381/381	========/======	14/18	96.85	91.21	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	538ea0a0-bec6-45f4-add5-d8aa8cd02554	982	1366	blaI_of_Z	1-381/381	========/======	14/18	98.16	90.56	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	941f2b7f-93ca-40b3-ac01-21d8ada604fc	1258	1631	blaI_of_Z	1-381/381	========/======	14/19	96.59	89.66	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7a678853-8bc9-43ff-be7f-73b1deddd6a5	2965	3338	blaI_of_Z	1-381/381	========/======	14/19	96.59	90.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d34fe9e4-cbdb-4a17-a042-f2d9095f90bc	1378	1755	blaI_of_Z	1-381/381	========/======	14/19	97.11	88.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2a0d9828-a879-475e-aa5f-a0a305bfc924	2163	2531	blaI_of_Z	1-381/381	========/======	14/20	95.80	89.87	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e5cc47d9-77bb-4bb5-910e-bcf9535fcf4b	527	903	blaI_of_Z	1-381/381	========/======	14/20	96.85	90.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6686287d-ca7c-4968-b076-5f5eb39dd5c1	2309	2687	blaI_of_Z	1-381/381	========/======	14/20	97.11	90.77	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2b1d55c5-b584-44dd-a4f8-93bd231c507a	242	611	blaI_of_Z	1-381/381	========/======	14/21	95.80	91.19	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	123a16ba-4e1c-461c-94ba-241aa014158f	1766	2147	blaI_of_Z	1-381/381	========/======	14/21	97.38	90.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	73140b05-7886-4002-b736-3f7cbc45f84e	2277	2660	blaI_of_Z	1-381/381	========/======	14/21	97.64	89.57	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ecb6ea9d-8aec-4c66-a524-75ca6b5ae4fa	1891	2257	blaI_of_Z	1-381/381	========/======	14/22	95.28	89.35	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	681a9baf-6453-4fdd-8d77-0865cf3e1f3f	2533	2903	blaI_of_Z	1-381/381	========/======	14/22	95.80	90.18	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d9512734-fa09-4fd9-8da9-3bf95ed9f5c5	644	1026	blaI_of_Z	1-381/381	========/======	14/22	97.38	84.48	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b0f121d7-2231-4474-8f17-b261c3d85c29	1103	1478	blaI_of_Z	1-381/381	========/======	14/23	96.33	90.51	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b8b14e46-b9df-4b2d-acd7-5e610d417b31	1215	1588	blaI_of_Z	1-381/381	========/======	14/25	95.80	89.23	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	3527bb24-d9e9-4c45-a89d-1c585fc799b4	1517	1897	blaI_of_Z	1-381/381	========/======	15/16	97.90	89.72	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	3ffef79d-1ed4-4251-8f52-fd4903bc6bd8	486	857	blaI_of_Z	1-381/381	========/======	15/19	96.33	89.38	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5781f5f4-84c8-4733-b926-1bd5870db0e1	1503	1884	blaI_of_Z	1-381/381	========/======	15/19	97.64	88.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	da46622a-4d8d-495f-b479-900c0fa9b769	2539	2923	blaI_of_Z	1-381/381	========/======	15/20	97.90	89.82	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	30c2cc17-fe2d-4a92-8c44-bd0db68b255f	1091	1465	blaI_of_Z	1-381/381	========/======	15/22	96.33	86.63	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7a3877f3-ae40-438e-a53a-5a02c9e098b5	4045	4439	blaI_of_Z	1-381/381	========/======	15/22	98.95	86.22	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1b1cea0d-a7fc-41af-89b8-b69969e67c15	343	704	blaI_of_Z	1-381/381	========/======	15/23	94.49	87.47	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	483cc672-c295-4ac6-bb4d-eb9f3ec2a124	777	1140	blaI_of_Z	1-381/381	========/======	15/23	94.75	90.10	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	02fdf542-34b0-4eb1-aeaa-7d57f6ba95b0	2828	3198	blaI_of_Z	1-381/381	========/======	15/24	95.54	86.08	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7f4cd91b-8c46-436a-b97d-ef7ce72d5bb5	1897	2267	blaI_of_Z	1-381/381	========/======	15/24	95.54	88.92	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5e1f7362-828d-46cc-b2e7-9ea6e1e23577	2177	2551	blaI_of_Z	1-381/381	========/======	15/24	96.06	87.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2deaedd0-e47b-4ead-8dff-18bfcc257032	1282	1653	blaI_of_Z	1-381/381	========/======	15/25	95.54	85.86	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	074d72ae-dd87-4da7-8686-bdca04672d78	638	1011	blaI_of_Z	1-381/381	========/======	15/25	95.80	87.69	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a2b58c20-0775-4531-b0a0-325f2c82aa86	1936	2317	blaI_of_Z	1-381/381	========/======	15/25	96.85	89.34	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	88c71351-873e-4106-9fea-c87c1002b819	1190	1564	blaI_of_Z	1-381/381	========/======	15/26	95.80	88.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c001ce84-0a43-4bc3-a65b-11f8e84a1751	964	1344	blaI_of_Z	1-381/381	========/======	15/26	96.59	89.59	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	70da4ccf-e8a3-46ca-a385-6212d4dc48fe	1495	1864	blaI_of_Z	1-381/381	========/======	15/27	95.01	86.63	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1d85d181-73c1-4784-a5aa-c38922b5a72e	2606	2986	blaI_of_Z	1-381/381	========/======	15/28	96.33	82.03	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	304993c6-b282-419b-a7c7-c620490eef26	3097	3482	blaI_of_Z	1-381/381	========/======	15/29	96.85	86.18	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2b36a88a-ac54-414d-9502-346b6683203e	136	485	blaI_of_Z	1-381/381	========/======	15/37	91.08	84.64	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ec9c22c1-0d55-4ba9-b560-44bf45090576	1228	1601	blaI_of_Z	1-381/381	========/======	16/19	96.59	90.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	80b59437-537f-4505-b4d2-4e287dd85370	1817	2193	blaI_of_Z	1-381/381	========/======	16/20	96.85	88.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a588d210-2d94-487d-ab61-5189ad190244	2009	2399	blaI_of_Z	1-381/381	========/======	16/20	98.69	91.16	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4719ed52-66cc-403d-b961-5826387b7758	2139	2518	blaI_of_Z	1-381/381	========/======	16/23	96.85	89.29	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	0b1fd497-8b17-4678-86b8-39848a99bba8	2417	2781	blaI_of_Z	1-381/381	========/======	16/24	94.75	88.05	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d558568b-4836-499a-90f0-ed41315f3065	1596	1967	blaI_of_Z	1-381/381	========/======	16/25	95.54	87.66	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2b530785-0eef-4183-8d09-a44ca36d422d	2323	2698	blaI_of_Z	1-381/381	========/======	16/25	96.06	90.54	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	0accdf05-7875-4367-83b2-dffeb48e9c24	1832	2219	blaI_of_Z	1-381/381	========/======	16/25	97.64	87.66	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f4a0db49-f8fa-431b-80f3-a9d8b1b1f355	2008	2377	blaI_of_Z	1-381/381	========/======	16/27	95.01	87.40	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	90ed546b-f125-4e7c-ab5d-beaa07d46a52	535	914	blaI_of_Z	1-381/381	========/======	16/27	96.33	88.33	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	69e31388-506f-4df4-808e-8ef518951056	658	1024	blaI_of_Z	1-381/381	========/======	16/28	94.49	88.92	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	243d39ee-91a9-4955-a99f-bed33f805a81	2066	2423	blaI_of_Z	1-381/381	========/======	16/37	92.13	85.57	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	32e8a4fd-78f7-429c-b194-ff1f55d4b982	1488	1862	blaI_of_Z	1-381/381	========/======	17/20	96.59	89.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	78f72fc1-c61d-4871-a1a5-077b75217278	1894	2265	blaI_of_Z	1-381/381	========/======	17/21	96.06	89.92	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e1270ea7-c7ce-4488-a1cd-cfcaa1dac32c	1131	1513	blaI_of_Z	1-381/381	========/======	17/22	97.38	86.77	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6ec06992-61b7-4b25-ac85-e64c7a24b3cd	1015	1383	blaI_of_Z	1-381/381	========/======	17/24	95.28	89.92	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1ac17e42-9ff4-4ac0-a4fc-e08e277d35c2	1015	1387	blaI_of_Z	1-381/381	========/======	17/24	95.80	89.97	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	8d6396d9-8492-4e63-9f78-c82167c893fa	921	1301	blaI_of_Z	1-381/381	========/======	17/26	96.59	88.07	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	33042ada-b8c0-4471-a0b2-19811c6123c1	2381	2761	blaI_of_Z	1-381/381	========/======	17/26	96.59	89.59	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f12cc398-2237-4422-8789-d1fbef9352fe	258	627	blaI_of_Z	1-381/381	========/======	17/27	95.01	86.12	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	24b11c34-167b-4e6d-a50a-ab15cb0c4d95	2648	3029	blaI_of_Z	1-381/381	========/======	17/27	96.59	86.58	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f76cf8af-d4a4-46dc-9e4e-c2b9b8025fdf	1947	2322	blaI_of_Z	1-381/381	========/======	17/31	95.28	86.29	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	845a5a6c-e0a1-42c3-af65-8fb8a9e99d4c	2091	2463	blaI_of_Z	1-381/381	========/======	17/34	94.49	87.06	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	23dacee5-9bab-43d8-8cd2-77a5554beb05	1584	1961	blaI_of_Z	1-381/381	========/======	18/19	97.11	92.03	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5368c328-5076-4d0a-8683-e57811c30cfd	1908	2281	blaI_of_Z	1-381/381	========/======	18/21	96.33	89.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	22276ed5-5b3a-4164-a9c6-9b328cc1a03b	1931	2311	blaI_of_Z	1-381/381	========/======	18/22	97.11	90.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ddbcb3b9-c152-4458-8872-888ebb4553ac	2488	2868	blaI_of_Z	1-381/381	========/======	18/22	97.11	90.82	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d899084f-dc7f-439a-9822-764389c14dca	178	548	blaI_of_Z	1-381/381	========/======	18/24	95.54	89.17	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f4fa929a-141f-435d-8dc9-9dd21863123f	106	474	blaI_of_Z	1-381/381	========/======	18/26	95.01	84.79	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	31d2bb1d-314e-4971-b0ac-15d254d85e24	1224	1611	blaI_of_Z	1-381/381	========/======	18/27	97.38	89.45	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	90af97d7-841b-403f-9385-d1a5f0c38381	1620	1993	blaI_of_Z	1-381/381	========/======	18/29	95.28	84.44	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	173b90ca-ce2d-4e90-8d0e-2379b8211f84	573	937	blaI_of_Z	1-381/381	========/======	18/32	93.70	82.78	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a7d8f215-3ee5-4c27-aeb5-8a623203a159	1600	1965	blaI_of_Z	1-381/381	========/======	18/33	93.70	82.56	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7bee05b9-57ab-44fe-b548-33afaa43c4d6	1403	1770	blaI_of_Z	1-381/381	========/======	19/23	95.28	88.60	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c43bd1b5-045e-497d-ab89-2920bf95cc57	1108	1479	blaI_of_Z	1-381/381	========/======	19/29	95.01	83.12	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	de7a4521-e4a4-47c9-80a7-3525f05dd888	1087	1465	blaI_of_Z	1-381/381	========/======	19/30	95.80	87.09	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e3ae250d-3b96-4969-81e8-e307de178ff7	662	1035	blaI_of_Z	1-381/381	========/======	20/27	95.54	88.23	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e41463fb-cf0c-4b0c-abb3-5c5bd154439c	1344	1739	blaI_of_Z	1-381/381	========/======	20/35	97.38	85.96	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	bcc4b86f-4d14-4cdf-8a4d-264c2067332b	205	576	blaI_of_Z	1-381/381	========/======	22/37	93.96	81.27	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	98884898-78e1-4901-9332-83c5d1a0b0ec	1901	2278	blaI_of_Z	1-381/381	========/======	6/9	98.43	94.27	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e8810037-e6dd-4e52-8fdd-62f4b5c5004a	741	1113	blaI_of_Z	1-381/381	========/======	8/10	97.64	93.45	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2c52bd90-5f91-41ea-84ae-bb3dbbd63665	2673	3050	blaI_of_Z	1-381/381	========/======	8/13	97.90	90.93	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c6ab3b00-54fb-4213-b91c-b3b81ea5a7a4	651	1027	blaI_of_Z	1-381/381	========/======	8/8	98.43	92.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	10f0bac0-737c-4bff-9a61-707f7ad561ce	1643	2019	blaI_of_Z	1-381/381	========/======	8/8	98.43	94.78	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ba3415fe-dc6e-4664-80b3-a74d170197d2	2387	2763	blaI_of_Z	1-381/381	========/======	9/16	97.38	89.15	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	46fafb53-7392-4544-a094-14d42ba09042	659	1040	blaI_of_Z	1-381/381	========/======	9/17	97.90	89.23	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fd9e3583-ac96-4fe6-97db-3c4f3e712e8c	1536	1901	blaI_of_Z	10-375/381	========/======	14/20	93.44	84.57	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	39c7afc3-d2a7-42e1-b505-9d68bec6c0c2	2102	2471	blaI_of_Z	10-381/381	========/======	12/18	95.01	92.37	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	64761e19-845a-4f42-94db-8187b28989bd	1930	2295	blaI_of_Z	10-381/381	========/======	12/20	94.23	89.97	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	590bdae2-2f3f-40a9-96d5-350089703d71	1375	1727	blaI_of_Z	10-381/381	========/======	13/23	92.13	86.90	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	579a417e-93f7-43ba-9491-62213c5e03e7	1572	1935	blaI_of_Z	10-381/381	========/======	15/20	93.96	90.48	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	3562a75f-a663-4753-84e8-d399f33de9d2	717	1090	blaI_of_Z	10-381/381	========/======	15/20	95.28	90.08	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	46040fbb-812e-4de2-93ee-c9a3bad55bd8	1575	1957	blaI_of_Z	10-381/381	========/======	17/25	95.80	87.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4018b819-c3e4-44c6-9486-f4030d8c19dd	2308	2679	blaI_of_Z	10-381/381	========/======	18/26	94.23	85.45	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	12ba65ab-a770-45c9-bd7b-be57b4d8317d	222	598	blaI_of_Z	10-381/381	========/======	19/29	94.49	85.09	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4eb4c565-e443-4c83-8be6-a0e6effac4b8	2317	2685	blaI_of_Z	12-381/381	========/======	15/19	94.49	88.39	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f26d7f5c-68e1-485f-855f-a36b9a49fa10	4858	5213	blaI_of_Z	12-381/381	========/======	17/28	91.60	82.76	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	c76c8a2f-0089-4ca5-928c-4f0620fd17ff	2821	3184	blaI_of_Z	13-381/381	========/======	17/25	92.91	87.60	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	160fc004-79fa-4127-b69b-177b1dd9f379	403	764	blaI_of_Z	14-375/381	========/======	12/16	92.91	89.46	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	324d2973-d821-4b9d-bfd0-08010b4a9b4d	1670	2022	blaI_of_Z	14-375/381	========/======	16/25	90.55	85.68	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	955e6a41-bc84-45bb-9c04-ebc37fc8cc89	367	724	blaI_of_Z	14-376/381	========/======	21/31	90.55	85.37	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5f59f9f3-add3-41a2-8fcb-642d42955cc9	1224	1579	blaI_of_Z	14-380/381	========/======	11/17	92.65	90.00	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1228ba4e-fd22-495e-9068-aa5979742d4e	2143	2502	blaI_of_Z	14-381/381	========/======	14/18	93.18	91.69	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	de563fba-94b2-43a3-a4f9-fb357416ad31	436	810	blaI_of_Z	14-381/381	========/======	15/29	93.70	86.01	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	905c4eb4-4827-47ca-a3c3-1816faa62990	958	1308	blaI_of_Z	14-381/381	========/======	16/31	90.29	87.73	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ab255aba-39df-41c7-bf50-3bfe1ae036d9	2546	2899	blaI_of_Z	16-376/381	========/======	11/13	92.13	89.56	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	72d04412-6d8a-4145-864b-ff6bca1d491e	2435	2793	blaI_of_Z	16-381/381	========/======	13/23	92.13	87.43	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4af4df4f-f160-4594-b8bb-d7ac5f525e7e	1589	1947	blaI_of_Z	16-381/381	========/======	8/9	93.96	94.28	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b4132a6e-3b80-4721-9936-e254240844ed	2062	2410	blaI_of_Z	17-371/381	========/======	12/18	90.03	89.75	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	5bb8b061-9cdd-4a87-9062-1bfe394148af	1268	1625	blaI_of_Z	19-377/381	========/======	11/11	92.65	92.31	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f2f23ec1-fd57-4406-a2c5-bdd72c5c0e13	1825	2195	blaI_of_Z	2-381/381	========/======	18/33	94.23	84.69	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	90f73be4-f414-4c38-996e-274ad25c853d	2078	2451	blaI_of_Z	2-381/381	========/======	20/30	95.01	85.71	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	90dec632-e035-4a19-b5da-acef747e1503	2792	3144	blaI_of_Z	24-380/381	========/======	10/14	91.34	88.67	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	e17dc79c-d582-46d6-8418-7c5b9f372a42	107	455	blaI_of_Z	28-381/381	.=======/======	10/13	90.55	91.62	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	95e9d526-c680-48d7-8a7e-1cc408966bc6	1544	1901	blaI_of_Z	3-367/381	========/======	18/27	91.34	84.53	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fc0bf948-86ae-452d-845e-698361db9dd8	1577	1930	blaI_of_Z	3-375/381	========/======	12/23	92.39	89.07	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4f3a7721-bb42-4231-992d-b7f07d4c09c3	2204	2562	blaI_of_Z	3-375/381	========/======	15/20	93.44	88.30	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	917d514a-9ccd-4f30-bd91-a8e2dfe7348b	915	1294	blaI_of_Z	3-381/381	========/======	11/13	97.90	90.42	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	837274c2-84c6-44d9-b592-723d8d5783cb	177	536	blaI_of_Z	3-381/381	========/======	18/37	92.13	84.28	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1493ae00-c43a-45be-a751-66742a743f12	2350	2729	blaI_of_Z	3-381/381	========/======	19/21	96.85	85.90	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	02cc5ed5-e4cf-4d2c-a4f4-392c43286453	2420	2806	blaI_of_Z	3-381/381	========/======	20/28	96.85	87.66	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ffed45b6-459b-485c-934f-364cecde87ec	1241	1609	blaI_of_Z	4-381/381	========/======	12/23	95.01	89.87	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	58155b43-e543-47b1-81dc-7f628725fdc7	1335	1703	blaI_of_Z	5-375/381	========/======	17/30	93.18	86.75	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	094a2596-a4c1-490a-ac98-c2790cb0e7bb	1557	1928	blaI_of_Z	5-381/381	========/======	14/23	95.28	90.42	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2ea83ce5-6686-4592-92e7-140458d0249e	2751	3129	blaI_of_Z	5-381/381	========/======	24/42	93.70	77.19	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7a0f61b1-c849-497a-bc62-73b47a9036ed	420	791	blaI_of_Z	6-374/381	========/======	9/11	95.80	94.15	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d4e430bd-5fde-4b0f-8150-cf07a3b8255a	1433	1805	blaI_of_Z	6-376/381	========/======	13/16	95.54	90.53	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1588c61e-4be2-43a9-95fb-979a8318aaec	163	530	blaI_of_Z	6-381/381	========/======	10/12	96.06	91.53	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	85674963-7dca-4dbc-9b59-f02099b4faf0	1494	1870	blaI_of_Z	6-381/381	========/======	11/13	97.11	92.95	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4195e19b-2c2a-4a15-a85a-eeba6a2df22b	2666	3035	blaI_of_Z	6-381/381	========/======	11/14	96.06	90.00	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	4f64fbed-18e8-4594-8df6-6c59ef3cb72b	1946	2323	blaI_of_Z	6-381/381	========/======	12/18	96.59	91.97	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d92cfcb2-a656-473b-977b-577829710ae1	1504	1878	blaI_of_Z	6-381/381	========/======	14/19	96.06	89.61	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	0a8ae0e3-d526-486f-87d7-00d82b83ac1d	2421	2805	blaI_of_Z	6-381/381	========/======	14/19	97.38	89.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a5810252-9a13-4c9f-b098-3e48ea23e818	1502	1871	blaI_of_Z	6-381/381	========/======	15/18	95.54	90.58	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b66ab2a9-5054-4d05-879d-1117a8d34430	1209	1577	blaI_of_Z	6-381/381	========/======	15/19	95.28	90.05	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6492f264-e6de-40cf-a307-a098804eca41	1892	2267	blaI_of_Z	6-381/381	========/======	15/22	95.80	87.60	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	75cab90c-bc91-4341-9f22-f5d87ffd2d2f	1195	1566	blaI_of_Z	6-381/381	========/======	15/24	95.01	90.42	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	376d2e55-3d81-477d-afb9-7c7a0c3b3d77	644	1008	blaI_of_Z	6-381/381	========/======	20/29	93.44	86.49	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	2f865627-8ebb-4e93-b9f2-bfcd54249429	2124	2480	blaI_of_Z	6-381/381	========/======	20/31	92.13	85.34	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7d778cb4-4cdb-4628-bb26-c3ec19303cb5	751	1112	blaI_of_Z	7-376/381	========/======	11/14	94.23	93.03	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	84dc97e7-cf5e-4960-9776-9082c36ade5d	1912	2291	blaI_of_Z	7-376/381	========/======	20/30	94.49	84.36	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fc5f330b-3172-4af1-b41d-a59a3146981a	1078	1441	blaI_of_Z	7-380/381	========/======	13/18	94.49	86.51	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	692f853b-7990-4737-a53e-a0d0b0d8ddc6	2081	2439	blaI_of_Z	7-381/381	========/======	11/16	94.23	91.73	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	80b97fe2-fd67-49e9-88d6-c2b464c0b13d	1769	2131	blaI_of_Z	7-381/381	========/======	11/20	94.23	86.81	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1cdbf1f2-ae49-4591-87e6-8ea784b206ac	1109	1483	blaI_of_Z	7-381/381	========/======	12/12	96.85	91.60	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	6b41d1f0-83e0-4dce-a0f1-3722388d01ed	706	1078	blaI_of_Z	7-381/381	========/======	13/14	96.33	94.23	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	d0e118ba-f6f7-4110-a5d3-9a45c3755bba	886	1259	blaI_of_Z	7-381/381	========/======	14/19	95.80	92.71	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	1ca6ca6f-6191-41af-9574-47d21322dfe7	1280	1650	blaI_of_Z	7-381/381	========/======	14/22	95.01	89.84	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f459ffd9-5c18-4a02-8405-64ba9729cabc	1618	2001	blaI_of_Z	7-381/381	========/======	15/21	96.85	88.20	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	b9a5e44e-1d36-4ef2-9da3-aa13b0cc5f67	133	502	blaI_of_Z	7-381/381	========/======	15/29	93.96	88.63	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	fdc8949e-82d1-499b-90f3-9533dcde1cea	1117	1485	blaI_of_Z	7-381/381	========/======	17/30	93.70	84.75	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ffbde5fe-df6a-4422-9b1c-44d3b4d2976c	1123	1488	blaI_of_Z	7-381/381	========/======	19/25	93.96	87.21	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	96bb900f-46bb-486a-ad58-6c2532325088	518	876	blaI_of_Z	7-381/381	========/======	21/24	93.18	88.13	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	08e5f0dd-0b6e-4b36-8b78-5667b20f6b4f	1930	2307	blaI_of_Z	7-381/381	========/======	8/9	97.64	93.70	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	a04cf4d5-547c-4df7-8c83-8b03d9f72d85	2293	2654	blaI_of_Z	8-377/381	========/======	18/26	92.65	84.17	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	f1f4c5f4-2fc7-4c5d-8022-12685d3e6329	715	1074	blaI_of_Z	9-380/381	========/======	14/20	93.44	88.30	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7afd7f38-3972-4a9d-af03-743e64dabbce	609	1422	blaPC1	1-838/846	========/======	31/48	94.80	88.35	ncbi	NG_052065.1	BlaZ family penicillin-hydrolyzing class A beta-lactamase PC1
+S16-4092_1.fastq.gz	3c5ff751-0c9d-4ed8-bda4-ef0a1639767c	1623	3270	blaR1	1-1647/1758	========/======	56/79	91.47	89.92	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	00dcddc0-c9c4-4638-a921-6d2f0af87fd3	983	2622	blaR1	1-1654/1758	========/======	54/78	91.47	90.98	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	421194d4-8a50-4c07-8382-e60e4f9688bb	121	1762	blaR1	1-1655/1758	========/======	68/91	91.18	89.85	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	f4466730-d747-4dba-85c1-3f203692e37c	108	1764	blaR1	1-1667/1758	========/======	81/112	91.35	85.51	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	cf3ff431-60ee-4d0e-86dd-5420ea301b8c	1587	3275	blaR1	1-1681/1758	========/======	79/120	92.43	86.48	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	24ae520e-f222-44cc-9cb7-24050b016405	98	1757	blaR1	1-1712/1758	========/======	71/114	92.66	86.92	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1f45f4e7-f94b-4a96-82c4-86e4e8570a12	190	1904	blaR1	1-1746/1758	========/======	63/93	95.79	89.59	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2ed172fa-59c1-4d11-9cfb-a5fc2b265645	314	2012	blaR1	1-1747/1758	========/======	98/156	93.57	83.62	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	4018b819-c3e4-44c6-9486-f4030d8c19dd	567	2302	blaR1	1-1750/1758	========/======	60/82	96.81	89.41	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1ca6ca6f-6191-41af-9574-47d21322dfe7	1655	3358	blaR1	1-1750/1758	========/======	66/96	95.51	88.28	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	3562a75f-a663-4753-84e8-d399f33de9d2	1096	2813	blaR1	1-1750/1758	========/======	69/102	95.73	86.56	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	945f1230-a23f-446c-9a48-9f29587a35e7	1094	2850	blaR1	1-1751/1758	========/======	54/76	97.61	90.79	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2f0e1364-845a-499e-aa0e-f8b826767f12	177	1891	blaR1	1-1754/1758	========/======	58/97	95.90	88.84	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1811b142-8490-413c-95d4-950094ad7cf1	368	2115	blaR1	1-1754/1758	========/======	66/104	96.64	88.24	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ce171415-0039-42ac-9cb6-7be63d280570	315	2054	blaR1	1-1754/1758	========/======	70/102	96.47	89.04	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	3ffef79d-1ed4-4251-8f52-fd4903bc6bd8	851	2585	blaR1	1-1754/1758	========/======	78/123	95.73	85.27	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	438df9fa-cd18-4e8e-9421-4fbb1217328d	470	2192	blaR1	1-1754/1758	========/======	80/129	95.22	85.47	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	3379ad1d-b896-400e-9683-c529055e4b38	100	1832	blaR1	1-1756/1758	========/======	70/93	96.59	89.56	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	fda15f0c-03c7-4851-928b-4e8f79ba450e	244	2012	blaR1	1-1757/1758	========/======	63/98	97.50	87.53	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	a04cf4d5-547c-4df7-8c83-8b03d9f72d85	562	2293	blaR1	1-1757/1758	========/======	69/101	96.36	86.07	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	952d3b05-b06e-432b-98fa-b9a2562ca53f	149	1880	blaR1	1-1757/1758	========/======	71/113	96.02	87.06	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ad53a28f-4a72-4957-a3a1-aabed67c6dbd	387	2139	blaR1	1-1758/1758	========/======	50/81	97.55	90.98	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	91e1733f-24da-4969-af6c-a9e8b92dafa5	1710	3469	blaR1	1-1758/1758	========/======	52/80	97.78	90.33	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	d5375d7a-be8b-4c41-9e4e-36f16bd2c67e	151	1883	blaR1	1-1758/1758	========/======	55/79	97.04	90.81	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	98884898-78e1-4901-9332-83c5d1a0b0ec	160	1911	blaR1	1-1758/1758	========/======	59/94	97.16	87.68	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	845a5a6c-e0a1-42c3-af65-8fb8a9e99d4c	367	2101	blaR1	1-1758/1758	========/======	61/73	97.27	89.46	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	cf0892a7-44fd-454f-8a2a-7a78ca83899e	1278	2967	blaR1	1-1758/1758	========/======	62/84	95.68	90.20	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e6e9e127-22ed-45d7-9196-e3ff6b9731ad	252	1995	blaR1	1-1758/1758	========/======	62/94	96.93	90.10	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e3ae250d-3b96-4969-81e8-e307de178ff7	1025	2729	blaR1	1-1758/1758	========/======	63/105	95.51	88.34	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	22276ed5-5b3a-4164-a9c6-9b328cc1a03b	188	1941	blaR1	1-1758/1758	========/======	63/88	97.38	89.28	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	6793c5a9-9ea4-4e00-999d-bb3700482a63	675	2406	blaR1	1-1758/1758	========/======	64/84	96.87	90.21	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	116d5eb6-adc7-424e-81b9-41501371a312	373	2118	blaR1	1-1758/1758	========/======	64/94	96.99	89.61	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	af7ac732-9b08-418d-91d0-471acc88fc14	1157	2894	blaR1	1-1758/1758	========/======	66/100	96.59	89.21	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ba3415fe-dc6e-4664-80b3-a74d170197d2	681	2397	blaR1	1-1758/1758	========/======	66/107	95.79	89.78	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	808aab05-7ed6-43c0-96f6-12a8c094491a	529	2260	blaR1	1-1758/1758	========/======	66/92	96.64	89.89	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	a0a79ba5-46e9-46d1-a02b-b38fa418eb7e	1326	3078	blaR1	1-1758/1758	========/======	67/103	96.93	88.66	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1588c61e-4be2-43a9-95fb-979a8318aaec	525	2247	blaR1	1-1758/1758	========/======	67/93	96.36	89.65	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e20bbeda-ad3b-45d9-b3df-b31791163aaf	1096	2863	blaR1	1-1758/1758	========/======	70/124	96.76	86.85	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	74150c21-f158-480f-b577-6dd8954f040e	258	1988	blaR1	1-1758/1758	========/======	70/99	96.42	88.85	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	681a9baf-6453-4fdd-8d77-0865cf3e1f3f	816	2543	blaR1	1-1758/1758	========/======	73/100	96.30	89.24	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	15fb3cd8-a01b-45c4-b905-a1a67d3a9dc5	322	2083	blaR1	1-1758/1758	========/======	73/106	97.10	87.59	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	7a0f61b1-c849-497a-bc62-73b47a9036ed	786	2527	blaR1	1-1758/1758	========/======	75/102	96.64	89.23	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c0ee31b0-b7b7-480e-a6eb-4b1ae747f7aa	344	2087	blaR1	1-1758/1758	========/======	76/116	96.30	87.06	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	917d514a-9ccd-4f30-bd91-a8e2dfe7348b	1286	3052	blaR1	1-1758/1758	========/======	77/111	97.10	87.13	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ff308d41-beb4-4ddc-973d-f91e3fb81001	133	1854	blaR1	1-1758/1758	========/======	77/120	95.56	85.28	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	90f73be4-f414-4c38-996e-274ad25c853d	372	2087	blaR1	1-1758/1758	========/======	77/122	95.34	86.87	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1ed79577-d63c-4f9a-9f15-99e6f9828161	1165	2912	blaR1	1-1758/1758	========/======	81/112	96.53	86.79	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2ea83ce5-6686-4592-92e7-140458d0249e	1054	2757	blaR1	1-1758/1758	========/======	83/124	94.94	86.17	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c3403d95-f7bc-4cdb-aeb4-7d3f816b847c	1285	3019	blaR1	1-1758/1758	========/======	91/153	94.99	84.20	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	de8496a3-f05f-496d-a0f0-215aa57d971c	1579	3295	blaR1	11-1758/1758	========/======	82/133	94.77	85.10	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	5bec0c61-2d4d-465e-ae43-0787463b610e	1862	3518	blaR1	18-1758/1758	========/======	87/150	92.38	83.65	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	a5360b57-5313-4035-993b-4cfb3eab7646	1824	3472	blaR1	20-1757/1758	========/======	72/147	92.15	85.68	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	9abc0f11-0eb3-4ad2-b1e4-4f40d8a02e34	777	2533	blaR1	21-1758/1758	========/======	69/109	96.30	87.12	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	036c20a9-95aa-436c-8815-30f10d891aca	110	1803	blaR1	25-1758/1758	========/======	56/82	95.16	89.80	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	86456df1-2876-49d4-8907-f7771c6b4bda	1524	3229	blaR1	28-1758/1758	========/======	65/91	95.16	88.61	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c52ff1aa-21a9-4a17-9cc0-a3c136f5e3e9	946	2684	blaR1	3-1758/1758	========/======	52/69	97.44	91.36	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c6ab3b00-54fb-4213-b91c-b3b81ea5a7a4	1017	2743	blaR1	3-1758/1758	========/======	68/97	96.30	88.88	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	6145addc-fb4b-4f29-8293-844ef02510fc	238	1971	blaR1	4-1754/1758	========/======	58/95	96.42	89.61	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	a00e3ba8-b899-4e97-b33b-7c2526eb76bd	105	1805	blaR1	4-1756/1758	========/======	77/136	94.37	83.23	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	f02c4047-38c4-47c9-a0b1-3aae40e5eb3c	320	2041	blaR1	4-1758/1758	========/======	59/87	96.42	89.34	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	820de0ee-42be-4b50-8177-0798e5a87ce7	96	1736	blaR1	48-1708/1758	========/======	57/80	91.64	90.01	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	96bb900f-46bb-486a-ad58-6c2532325088	882	2517	blaR1	58-1738/1758	========/======	63/99	91.52	88.23	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	014fd7e2-a97b-47ed-afc3-a56fc0e15c83	109	1933	blaR1	58-1758/1758	========/======	91/212	94.25	80.42	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	7bee05b9-57ab-44fe-b548-33afaa43c4d6	1761	3486	blaR1	6-1757/1758	========/======	61/84	96.53	89.72	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	6f4e19c2-0da3-483c-9ea6-ec064db5b428	850	2559	blaR1	6-1758/1758	========/======	60/87	96.02	89.47	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2c52bd90-5f91-41ea-84ae-bb3dbbd63665	939	2683	blaR1	6-1758/1758	========/======	65/94	96.81	88.53	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	6686287d-ca7c-4968-b076-5f5eb39dd5c1	585	2319	blaR1	6-1758/1758	========/======	66/100	96.36	89.58	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	9c4886d8-5964-44e7-8a37-0aa8f7286781	343	2079	blaR1	6-1758/1758	========/======	75/102	96.36	89.14	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	d312f2ad-f990-4894-a26c-dbb7ecd81451	666	2402	blaR1	6-1758/1758	========/======	77/124	95.73	86.44	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2b36a88a-ac54-414d-9502-346b6683203e	475	2163	blaR1	6-1758/1758	========/======	87/144	93.80	84.72	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	b8ff4b3d-474e-40a0-8f49-aac9965e47f2	1424	3127	blaR1	7-1741/1758	========/======	62/85	95.39	89.73	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	bef5222d-d0fe-4b08-ab73-f2902ec8d64e	816	2555	blaR1	7-1758/1758	========/======	53/72	97.27	90.97	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	9943b7f9-aafc-4fbe-8acd-bcc9b7038a49	694	2423	blaR1	7-1758/1758	========/======	55/74	96.93	90.27	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	d6cb5624-f8b8-4491-b0b7-0b06354dfe77	1810	3505	blaR1	7-1758/1758	========/======	75/118	94.71	87.55	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	4719ed52-66cc-403d-b961-5826387b7758	438	2149	blaR1	7-1758/1758	========/======	78/130	94.82	86.09	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	12ba65ab-a770-45c9-bd7b-be57b4d8317d	606	2295	blaR1	8-1747/1758	========/======	87/124	94.03	85.48	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	51e784ab-0b97-4a44-a9c2-fac12126fcec	800	2552	blaR1	8-1758/1758	========/======	71/100	96.81	87.96	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	de26b718-3625-4991-b91b-843d9c84b4aa	1047	2677	blaR1-2	1-1665/1758	========/======	55/86	91.30	89.95	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	69f766c9-172d-404e-ae90-84dd6a439bb5	97	1739	blaR1-2	1-1667/1758	========/======	65/96	91.41	88.31	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	99b73368-d5a0-484e-b1e3-f8d57b2fb06a	1067	2761	blaR1-2	1-1707/1758	========/======	49/68	94.82	90.38	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e7b36d24-32c5-4268-9f66-b39ec45adc37	339	2080	blaR1-2	1-1741/1758	========/======	79/113	95.85	86.26	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1cdbf1f2-ae49-4591-87e6-8ea784b206ac	1487	3198	blaR1-2	1-1749/1758	========/======	67/111	95.28	88.63	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	88224b16-71d9-42e4-88c6-deb16b24eb47	152	1880	blaR1-2	1-1749/1758	========/======	69/98	96.13	89.21	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	84dc97e7-cf5e-4960-9776-9082c36ade5d	166	1910	blaR1-2	1-1751/1758	========/======	61/88	96.93	90.12	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	6b41d1f0-83e0-4dce-a0f1-3722388d01ed	1082	2807	blaR1-2	1-1752/1758	========/======	71/106	95.90	88.73	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	5d26b5cc-de00-4085-9050-c32c5f34a833	358	2100	blaR1-2	1-1754/1758	========/======	84/121	96.02	88.23	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	24b11c34-167b-4e6d-a50a-ab15cb0c4d95	934	2655	blaR1-2	1-1755/1758	========/======	86/135	95.05	84.50	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ed7c360f-7528-4f23-b596-3e6f7cb778ac	1830	3528	blaR1-2	1-1757/1758	========/======	77/116	94.99	88.30	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c78e949b-60b5-407e-a157-2840fc2518fd	526	2284	blaR1-2	1-1758/1758	========/======	51/71	98.01	91.64	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	3dfa50e5-83fe-45eb-9a74-fab7c6df9e60	1298	3018	blaR1-2	1-1758/1758	========/======	56/83	96.59	88.83	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	5197610e-04e3-44ac-a073-82451e2970ab	582	2299	blaR1-2	1-1758/1758	========/======	57/84	96.47	90.56	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e8810037-e6dd-4e52-8fdd-62f4b5c5004a	1103	2836	blaR1-2	1-1758/1758	========/======	57/98	96.53	89.14	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e910c3c8-326c-4f23-aff9-ed5f5e8c8816	1378	3118	blaR1-2	1-1758/1758	========/======	58/77	97.33	89.54	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	5e1f7362-828d-46cc-b2e7-9ea6e1e23577	406	2187	blaR1-2	1-1758/1758	========/======	59/86	98.24	88.69	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	baf926c1-9ae9-427c-8820-276f40b3bab8	603	2349	blaR1-2	1-1758/1758	========/======	61/87	97.21	89.31	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	3527bb24-d9e9-4c45-a89d-1c585fc799b4	1887	3627	blaR1-2	1-1758/1758	========/======	62/95	96.81	88.93	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ab45767b-4008-4675-b77e-a147426fe077	192	1937	blaR1-2	1-1758/1758	========/======	63/90	97.10	88.81	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	d3671a2b-edcb-42de-95dc-5ce028b3875a	584	2309	blaR1-2	1-1758/1758	========/======	63/96	96.36	89.61	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	304993c6-b282-419b-a7c7-c620490eef26	1365	3107	blaR1-2	1-1758/1758	========/======	64/91	96.99	88.20	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2b530785-0eef-4183-8d09-a44ca36d422d	588	2333	blaR1-2	1-1758/1758	========/======	65/86	97.21	91.03	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	83445d89-f751-4f85-8abe-b773a256ed0d	284	2015	blaR1-2	1-1758/1758	========/======	67/90	96.70	90.22	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e05eeb24-e105-482c-8bc6-5363becd149f	341	2054	blaR1-2	1-1758/1758	========/======	67/94	96.08	88.73	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	b97ed5a5-2419-4222-9467-023d817ecd07	773	2505	blaR1-2	1-1758/1758	========/======	67/97	96.53	87.57	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c8e8112c-2489-42a5-a97e-4298703274b6	1362	3099	blaR1-2	1-1758/1758	========/======	68/102	96.53	86.27	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	376d2e55-3d81-477d-afb9-7c7a0c3b3d77	1003	2722	blaR1-2	1-1758/1758	========/======	71/102	96.02	87.82	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ecb6ea9d-8aec-4c66-a524-75ca6b5ae4fa	172	1901	blaR1-2	1-1758/1758	========/======	71/128	95.56	85.78	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	b46f0910-4f86-4325-841f-10980add15fd	600	2327	blaR1-2	1-1758/1758	========/======	73/108	96.08	87.14	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	a588d210-2d94-487d-ab61-5189ad190244	267	2019	blaR1-2	1-1758/1758	========/======	76/99	97.04	87.53	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	244722b3-7338-4f93-9fdd-b41c03610a43	380	2106	blaR1-2	1-1758/1758	========/======	77/143	95.05	84.40	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	1b1cea0d-a7fc-41af-89b8-b69969e67c15	694	2424	blaR1-2	1-1758/1758	========/======	84/127	95.62	86.45	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	458485d1-7e4b-45a9-b85c-0c4be7fcc99d	790	2486	blaR1-2	1-1758/1758	========/======	87/133	94.48	86.84	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ab7b87d2-cce7-4a13-978e-8367f9260083	1395	3051	blaR1-2	14-1683/1758	========/======	85/131	90.90	84.09	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	f4c9e4ea-8c50-4e50-b3cb-ecb3e5b54ad9	109	1831	blaR1-2	25-1758/1758	========/======	82/135	94.48	86.86	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2bc194b7-5e08-45fc-90b5-743501e73431	105	1787	blaR1-2	6-1697/1758	========/======	61/81	93.69	89.93	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	c302d242-a011-4606-a67f-0a2f45241826	967	2706	blaR1-2	6-1758/1758	========/======	79/119	95.96	86.71	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	f2f23ec1-fd57-4406-a2c5-bdd72c5c0e13	2186	3929	blaR1-2	6-1758/1758	========/======	96/177	94.43	80.57	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	64761e19-845a-4f42-94db-8187b28989bd	269	1924	blaR1-2	62-1751/1758	========/======	57/80	92.89	89.38	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	80b59437-537f-4505-b4d2-4e287dd85370	2187	3848	blaR1-2	65-1754/1758	========/======	79/106	92.32	88.32	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	75cab90c-bc91-4341-9f22-f5d87ffd2d2f	1570	3267	blaR1-2	7-1748/1758	========/======	79/122	94.37	86.47	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	ba0c85da-ffa0-44dc-ad3a-88c625a626c2	276	1990	blaR1-2	7-1757/1758	========/======	72/112	95.39	87.65	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	f4a0db49-f8fa-431b-80f3-a9d8b1b1f355	296	2018	blaR1-2	7-1758/1758	========/======	75/109	95.73	86.55	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	2a0d9828-a879-475e-aa5f-a0a305bfc924	438	2173	blaR1-2	7-1758/1758	========/======	77/100	96.36	88.80	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	7a3877f3-ae40-438e-a53a-5a02c9e098b5	2302	4055	blaR1-2	7-1758/1758	========/======	81/126	96.13	86.78	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	73140b05-7886-4002-b736-3f7cbc45f84e	568	2287	blaR1-2	7-1758/1758	========/======	92/148	94.54	85.25	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	8c2d9567-7336-43e6-b345-1f798c455b83	100	1731	blaR1-2	8-1660/1758	========/======	70/111	90.27	85.98	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	7b5646d4-5f97-4949-9329-76313b05b749	111	1761	blaR1-2	8-1668/1758	========/======	52/68	92.26	90.12	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	d0185fa6-abb7-4ba7-97ec-3b53cd5f1415	133	1880	blaR1-2	8-1758/1758	========/======	73/111	96.36	87.98	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	123a16ba-4e1c-461c-94ba-241aa014158f	102	1776	blaR1-2	83-1758/1758	========/======	55/75	93.17	90.83	ncbi	NG_047537.1	beta-lactam sensor/signal transducer BlaR1
+S16-4092_1.fastq.gz	e2fc12f8-e60c-4e23-bffd-2ac45b9d72cd	937	1777	blaTEM-116	1-857/861	========/======	42/66	94.77	86.28	ncbi	NG_050162.1	class A broad-spectrum beta-lactamase TEM-116
+S16-4092_1.fastq.gz	0138cdf0-670a-4956-a7a6-942da77faa37	1426	2240	blaTEM-156	1-861/861	========/======	48/100	91.52	80.63	ncbi	NG_050200.1	class A beta-lactamase TEM-156
+S16-4092_1.fastq.gz	e3e49a78-e81d-4ebb-9b23-c0d55742e932	1279	2071	blaZ	1-802/846	========/======	35/55	91.02	84.73	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c7b4bdce-2eae-481e-9beb-d4d3d4eadf37	1153	1956	blaZ	1-818/846	========/======	32/38	93.62	92.41	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	95d73ae4-746d-495f-92db-2422d8d70692	527	1330	blaZ	1-819/846	========/======	31/39	93.62	92.42	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	6145addc-fb4b-4f29-8293-844ef02510fc	2075	2892	blaZ	1-824/846	========/======	33/54	93.85	90.80	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c8e8112c-2489-42a5-a97e-4298703274b6	445	1257	blaZ	1-825/846	========/======	37/58	93.38	89.86	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4d087f1d-4b4c-40fe-9513-287102eed88b	673	1477	blaZ	1-827/846	========/======	37/54	93.26	89.68	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d3538825-4858-4d65-bad5-bfb51403f541	2587	3403	blaZ	1-833/846	========/======	41/64	93.74	88.22	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7344655d-e5cc-445f-8027-a3192f6741a4	462	1283	blaZ	1-837/846	========/======	37/49	95.15	87.82	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	421194d4-8a50-4c07-8382-e60e4f9688bb	1868	2699	blaZ	1-838/846	========/======	28/38	96.45	92.62	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	a5bcd6c3-5f06-4960-b9af-fe80893f31fc	2466	3299	blaZ	1-843/846	========/======	21/29	97.40	93.32	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d219650a-cea0-4c5e-bb42-9348e089a894	959	1803	blaZ	1-843/846	========/======	22/38	97.52	93.63	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	db87c2ab-93f2-47ab-8a2b-10701660006e	2351	3165	blaZ	1-843/846	========/======	23/40	95.63	91.87	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4e84a6cb-55ba-4d4d-864f-8dbfbf93e94c	1729	2570	blaZ	1-843/846	========/======	24/33	97.64	92.67	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	456738e0-2a99-43e6-a1a7-5f9717d8cedf	1334	2168	blaZ	1-843/846	========/======	24/34	97.16	92.06	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	788d36f4-afc1-4963-bed5-96dfca7208de	1394	2227	blaZ	1-843/846	========/======	26/41	96.69	90.11	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	652c511f-d8b9-4fc4-9d27-b12e2e5b8719	812	1647	blaZ	1-843/846	========/======	27/37	97.04	92.31	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	17da4c71-0139-4b77-9e7d-16eb2ca46f24	735	1565	blaZ	1-843/846	========/======	27/40	96.57	91.25	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c7667107-7a97-4e53-bbb4-e74011c23426	1138	1963	blaZ	1-843/846	========/======	28/41	96.22	92.28	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e8a8aa19-4a04-4c41-8197-3ca80c04a687	133	966	blaZ	1-843/846	========/======	30/43	96.57	91.74	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	74c8b9f5-7733-43ee-b483-3b6f4feac80a	1572	2411	blaZ	1-843/846	========/======	30/45	96.81	89.93	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ddcc79f5-fdd9-4acb-b502-82c7b93d3e83	1716	2548	blaZ	1-843/846	========/======	30/48	96.22	92.81	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	91e1733f-24da-4969-af6c-a9e8b92dafa5	760	1597	blaZ	1-843/846	========/======	32/49	96.45	90.29	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b11aa8c9-8c87-4ff5-b479-2db9b5fd3146	1687	2521	blaZ	1-843/846	========/======	33/46	96.45	91.65	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d72926bb-816e-42fc-9aaa-e7afce21d6f1	546	1419	blaZ	1-843/846	========/======	33/57	98.11	90.19	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	38fa2a40-559c-4682-afab-c64402f4aceb	447	1275	blaZ	1-843/846	========/======	40/60	95.27	88.34	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	11595226-3b5a-412e-9b17-7cf8013fce9c	511	1327	blaZ	1-843/846	========/======	42/64	94.33	90.25	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e88d5718-7cb0-4e11-b3d2-bb667ca397eb	1342	2169	blaZ	1-843/846	========/======	43/63	95.04	86.62	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8aaa7203-b50e-40df-b7ba-4568f97d8824	2298	3123	blaZ	1-844/846	========/======	26/46	95.98	92.08	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2e59568f-8ff5-42df-b233-6657dbd7eb91	457	1286	blaZ	1-844/846	========/======	28/40	96.57	90.90	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4133ce03-62ed-4698-93a7-304bb416a974	238	1073	blaZ	1-844/846	========/======	32/50	96.34	90.29	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	a1467bb2-84ba-4dc3-b490-c00813de7be8	279	1108	blaZ	1-844/846	========/======	33/44	96.34	90.92	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	79a1957f-2c69-4793-b9f2-d0161da01d77	1609	2462	blaZ	1-844/846	========/======	34/60	96.81	86.92	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	0d298ef6-aed7-474b-8822-6a4545f3fb38	240	1072	blaZ	1-844/846	========/======	35/45	96.45	90.13	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	af203a2a-57e7-4a67-8496-6b0cd008a364	1427	2265	blaZ	1-844/846	========/======	36/51	96.45	91.00	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cbbb3dfb-7614-4e2f-ba0b-8910468b94bc	1249	2092	blaZ	1-844/846	========/======	39/56	96.45	90.83	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4c28d4d4-6841-426b-a547-37f8bf0f03c6	275	1093	blaZ	1-844/846	========/======	41/61	94.68	86.08	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	6518bde7-5940-4548-943b-97412650637d	1113	1921	blaZ	1-844/846	========/======	43/63	93.97	84.50	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fd686891-40a2-4500-adb0-57be28ac5fa6	270	1098	blaZ	1-845/846	========/======	24/46	96.22	90.58	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	52b54cdd-4218-48e6-9047-65b341439687	998	1828	blaZ	1-845/846	========/======	27/36	96.93	91.94	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cda66331-353e-479c-ad76-5a6a63df7038	1222	2073	blaZ	1-845/846	========/======	27/43	97.75	91.61	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	30d68f0e-5aad-44c0-9a19-e0246d7046b3	2322	3153	blaZ	1-845/846	========/======	37/55	95.86	89.95	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cf3ff431-60ee-4d0e-86dd-5420ea301b8c	647	1478	blaZ	1-845/846	========/======	39/63	95.39	89.19	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	646297ec-c021-4304-b0b9-f1688014144f	758	1606	blaZ	1-846/846	========/======	21/37	97.99	90.99	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2f11cc27-6c3e-4225-aae1-afc5a29e1ce2	115	954	blaZ	1-846/846	========/======	25/28	97.99	94.05	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8b5c749a-9cee-409c-9b19-f190981c8e5b	1527	2364	blaZ	1-846/846	========/======	27/40	97.16	91.53	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	dfa573f8-604a-4e02-b709-91cd7b9f598f	890	1730	blaZ	1-846/846	========/======	28/37	97.52	92.23	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1ed79577-d63c-4f9a-9f15-99e6f9828161	217	1055	blaZ	1-846/846	========/======	28/43	97.04	91.67	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b264b757-3c89-46b0-bfb4-518c1f7444da	1990	2822	blaZ	1-846/846	========/======	29/43	96.69	93.03	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	5ed71287-7a04-4f06-8083-ab3089a6776f	974	1814	blaZ	1-846/846	========/======	29/45	97.04	91.45	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cd68ba26-5788-4563-9fc4-d05c6a67e991	934	1773	blaZ	1-846/846	========/======	29/54	96.45	90.81	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	033079be-315e-4681-b68f-953e62cfd39b	109	949	blaZ	1-846/846	========/======	30/47	96.93	90.54	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c2916ca1-07f8-401f-b3fa-611c15d0b81f	1455	2297	blaZ	1-846/846	========/======	30/49	96.93	90.79	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e86186b1-07e1-4025-9c7c-96328052a81a	1786	2616	blaZ	1-846/846	========/======	31/45	96.45	91.17	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1a824d22-2138-4c14-a96f-75e446521cdd	411	1246	blaZ	1-846/846	========/======	31/48	96.57	89.36	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	304993c6-b282-419b-a7c7-c620490eef26	446	1262	blaZ	1-846/846	========/======	31/49	95.39	91.59	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f8666e24-ce39-4cb0-8e7b-7a8ba3660cba	1300	2123	blaZ	1-846/846	========/======	31/50	95.74	91.16	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1f45f4e7-f94b-4a96-82c4-86e4e8570a12	2012	2853	blaZ	1-846/846	========/======	31/50	96.81	91.37	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7c773159-668b-4a95-8194-18db5c7c767c	1668	2525	blaZ	1-846/846	========/======	32/44	98.11	91.99	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	070075b8-02b7-4f7a-8dbc-6ec76dc4ed15	947	1803	blaZ	1-846/846	========/======	32/45	97.99	89.02	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8ab2cba7-ae38-45d1-ac98-e9d9c385ee97	1032	1879	blaZ	1-846/846	========/======	32/46	97.40	90.58	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	3039b2e9-15c0-4051-ad37-381289174e34	156	970	blaZ	1-846/846	========/======	32/47	95.39	90.63	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	388db261-597e-4855-a400-88f9e1381fb3	120	961	blaZ	1-846/846	========/======	32/48	96.93	87.67	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	3146ab70-48d7-4c40-ae05-7ac9b4958d1c	804	1641	blaZ	1-846/846	========/======	33/42	97.04	92.47	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	abe52aaf-bdac-4ddd-b2a3-90d29dfe79a3	1046	1878	blaZ	1-846/846	========/======	33/43	96.69	90.94	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f5a5dbad-9db1-4be7-a101-a8761156bb40	928	1751	blaZ	1-846/846	========/======	33/46	95.98	90.09	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	345572d5-49b0-4b35-a0d5-b2f47a024f84	182	995	blaZ	1-846/846	========/======	33/52	95.04	90.19	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	945f1230-a23f-446c-9a48-9f29587a35e7	129	992	blaZ	1-846/846	========/======	33/52	97.99	91.71	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	06ef7b8c-55cc-4a8a-b376-4de9a1d3c7b3	1299	2119	blaZ	1-846/846	========/======	33/61	94.92	88.31	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	71503611-138b-47e9-8d3d-68dbd8a48e37	1902	2723	blaZ	1-846/846	========/======	33/62	94.92	87.98	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9651accb-df86-496e-b712-3f77a029f4b3	2357	3188	blaZ	1-846/846	========/======	34/46	96.45	90.14	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fedda5ed-1a46-466e-b901-0c9ec72c3e9b	386	1241	blaZ	1-846/846	========/======	34/48	97.75	89.49	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	473552c7-837b-4909-9734-d74dc7687cf8	992	1833	blaZ	1-846/846	========/======	34/50	96.81	91.02	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	81fdbbab-a4f5-440a-a829-88ce1d9e122b	738	1575	blaZ	1-846/846	========/======	34/52	96.45	91.47	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	116d5eb6-adc7-424e-81b9-41501371a312	2226	3069	blaZ	1-846/846	========/======	34/52	96.81	90.93	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f24226ac-79a8-4880-bdbb-890862d97895	1721	2562	blaZ	1-846/846	========/======	34/56	96.45	88.19	ncbi	NG_055997.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	64ca71a5-4410-4f37-943a-b65d299b9548	1157	2002	blaZ	1-846/846	========/======	35/46	97.28	90.10	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	dae12e12-cde5-4265-9005-46af044691f7	1249	2107	blaZ	1-846/846	========/======	35/49	97.87	90.88	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	59f5cb52-cc76-483d-9aa0-6866d3df4185	2005	2832	blaZ	1-846/846	========/======	35/58	95.51	89.03	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2d61d4ee-36aa-407f-a670-76719d29a556	261	1106	blaZ	1-846/846	========/======	35/62	96.34	90.08	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	984ad8d6-1bc8-4d86-b9b8-3d41a4330634	1079	1913	blaZ	1-846/846	========/======	36/59	95.86	87.93	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b75816a8-2070-48e4-ae78-48716df2c21c	689	1533	blaZ	1-846/846	========/======	37/49	97.04	87.82	ncbi	NG_055994.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d3e77c48-647c-4883-80a1-6e927ca71fce	619	1476	blaZ	1-846/846	========/======	37/60	97.16	86.28	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	336e1999-5316-4624-bce7-edf970260347	335	1164	blaZ	1-846/846	========/======	37/62	95.39	88.03	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7dcfa30d-40f0-49c0-8c90-65d3b6400a76	1316	2169	blaZ	1-846/846	========/======	39/50	97.52	89.26	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9892eb70-9d68-47e1-ad92-0a3ed1cccc09	218	1049	blaZ	1-846/846	========/======	39/56	95.86	89.27	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d0185fa6-abb7-4ba7-97ec-3b53cd5f1415	1981	2841	blaZ	1-846/846	========/======	39/67	96.93	88.28	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4d3e5a3c-a1b1-47fe-bf2a-71810e2e94af	1206	2059	blaZ	1-846/846	========/======	40/58	97.04	82.94	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c1a95b71-980d-482f-8a45-e635de70337a	1352	2190	blaZ	1-846/846	========/======	40/67	95.63	86.64	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	3ffef79d-1ed4-4251-8f52-fd4903bc6bd8	2689	3521	blaZ	1-846/846	========/======	41/59	95.74	87.11	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	84161ee0-ac91-4f9e-924e-ff4ba2a877d8	1715	2562	blaZ	1-846/846	========/======	41/62	96.45	88.50	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8c2d9567-7336-43e6-b345-1f798c455b83	1840	2695	blaZ	1-846/846	========/======	42/56	97.28	87.03	ncbi	NG_055994.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	5ee4b852-2b53-4341-a0a8-4b8c7bdea2f5	1674	2496	blaZ	1-846/846	========/======	42/69	94.56	88.26	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ff308d41-beb4-4ddc-973d-f91e3fb81001	1967	2791	blaZ	1-846/846	========/======	43/69	94.68	85.86	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fa8e506a-e3dc-49f9-955f-e375039c43bf	1250	2092	blaZ	1-846/846	========/======	43/73	95.51	80.59	ncbi	NG_055994.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	61ea6795-c8d2-4de4-af51-a5085ea30a3b	788	1612	blaZ	1-846/846	========/======	47/85	93.74	82.12	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4e4b1d66-0031-4073-b266-d53f3a34b1e9	1130	1973	blaZ	1-846/846	========/======	48/74	95.51	84.24	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c509c560-c6fd-46ad-9dd0-d7089b704caf	575	1405	blaZ	1-846/846	========/======	52/81	94.33	84.53	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	6ffa5d7a-e811-4a63-9138-02e2af470cd6	922	1843	blaZ	1-846/846	========/======	52/98	98.70	79.53	ncbi	NG_055999.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fe4ac4af-7b47-4a62-b2b8-a724449dc668	2156	2967	blaZ	12-846/846	========/======	23/33	95.39	93.21	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c118c693-b19e-479d-b4b0-4f2c938e910d	1785	2622	blaZ	12-846/846	========/======	33/61	95.27	89.62	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	5ec7b065-2a2f-4b75-9700-a668906ac83b	1231	2058	blaZ	14-843/846	========/======	34/52	94.92	88.66	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cbb44295-0dfd-4997-93f4-76a25b607301	1753	2572	blaZ	14-846/846	========/======	29/43	95.15	91.39	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	58b7d6cb-8474-4fe5-9e51-6891151de6a7	218	1046	blaZ	14-846/846	========/======	43/60	94.68	85.25	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	a33f0fff-4b5b-484a-a664-5b7728394e61	3026	3826	blaZ	15-846/846	========/======	49/77	91.96	85.38	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e170f98d-5cf3-42fa-a766-dbe994f75843	2330	3140	blaZ	18-843/846	========/======	35/51	93.74	88.03	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ab7b87d2-cce7-4a13-978e-8367f9260083	433	1259	blaZ	19-846/846	========/======	36/53	94.68	86.89	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fbe57aa3-a35a-42cf-b965-1a1e6881a21d	449	1278	blaZ	2-843/846	========/======	34/54	95.63	90.96	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	26ecaf7d-738e-4897-bb99-51b7080cc380	2497	3298	blaZ	2-843/846	========/======	39/78	92.55	87.69	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e910c3c8-326c-4f23-aff9-ed5f5e8c8816	429	1274	blaZ	2-846/846	========/======	22/31	98.11	95.01	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2ff2de66-cb8e-4e4d-9ee6-a0951ee20d9f	980	1824	blaZ	2-846/846	========/======	44/60	96.34	87.89	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2ee2cd1c-d158-4002-835d-5c863d2482a3	112	923	blaZ	25-836/846	========/======	29/48	93.14	89.11	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9a8ffccf-7a3a-4b9d-9f39-900b6d92b684	972	1798	blaZ	25-846/846	========/======	29/43	94.92	89.95	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	282e7298-debb-4add-871d-f1fd92a7fa5c	2436	3260	blaZ	3-834/846	========/======	28/41	95.51	91.05	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	389b3b63-cbee-4052-8d68-68eed794845b	1652	2475	blaZ	3-842/846	========/======	28/42	95.86	92.26	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8573ba99-96bc-4bd0-88dd-e45c2d0e4742	1222	2066	blaZ	3-846/846	========/======	26/33	97.87	92.92	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b8c889cc-9511-4f3e-942f-a1e4d7a6096a	1674	2485	blaZ	33-846/846	========/======	29/42	93.62	90.89	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4fbb8957-e61c-4d9b-b4cc-be14d2940f7f	1666	2480	blaZ	34-846/846	========/======	35/58	92.79	89.68	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d5375d7a-be8b-4c41-9e4e-36f16bd2c67e	1994	2808	blaZ	4-819/846	========/======	24/37	94.21	91.97	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	0736d884-7105-4940-9770-641d75be15b4	1206	2005	blaZ	4-824/846	========/======	34/47	93.03	92.09	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	578553b6-398e-4036-b30a-c555618b77e6	1168	1989	blaZ	4-836/846	========/======	43/77	93.26	84.64	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	dd190625-077e-46a4-9d9f-b5e3e203e08d	1631	2442	blaZ	4-840/846	========/======	32/53	94.33	89.42	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	36b09216-ed2e-4e9a-82cf-f8d9c1be4283	1223	2053	blaZ	4-843/846	========/======	22/31	96.93	94.24	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e3775243-173e-4fb4-b093-75d73ae6b5fb	1157	1989	blaZ	4-843/846	========/======	46/75	94.44	85.47	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	58635d50-a506-4681-9caa-1cdd410c8d30	1276	2109	blaZ	4-844/846	========/======	42/63	95.27	90.10	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	bddc7690-ea2e-4d2a-a91d-d372af01d5b6	1783	2617	blaZ	4-845/846	========/======	30/47	96.34	91.07	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	dc45fa7e-0676-4116-9078-c07880388d95	265	1099	blaZ	4-846/846	========/======	27/38	96.93	92.08	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	49e5f8b1-9520-4d3b-a26e-0a4a4339ca4d	444	1283	blaZ	4-846/846	========/======	27/41	97.04	91.88	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	961beec1-878e-484c-ac54-10b252876b45	1698	2542	blaZ	4-846/846	========/======	30/42	97.28	92.95	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1588c61e-4be2-43a9-95fb-979a8318aaec	2363	3196	blaZ	4-846/846	========/======	31/55	95.86	90.99	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	88224b16-71d9-42e4-88c6-deb16b24eb47	1990	2847	blaZ	4-846/846	========/======	32/49	97.64	91.54	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f9adbf17-3ffd-4363-a92d-7086cc7bfbcf	2803	3630	blaZ	4-846/846	========/======	33/49	95.86	91.28	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	6c5f85ce-17cb-44b9-980c-04a03ee7ed90	282	1108	blaZ	4-846/846	========/======	33/56	95.39	90.15	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	73a1e2d7-f33a-4b29-99ad-b78e05516a34	1356	2203	blaZ	4-846/846	========/======	36/45	97.28	93.32	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1e777e83-8772-4855-8c60-de5baaa9d5b7	1789	2633	blaZ	4-846/846	========/======	36/52	96.69	89.66	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1872bbe5-3944-4c81-a224-37fb9e1916aa	427	1250	blaZ	4-846/846	========/======	36/53	95.39	88.02	ncbi	NG_055997.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cad7e21b-dcff-4e47-be21-309e9ee273b0	1663	2494	blaZ	4-846/846	========/======	38/51	95.98	89.45	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	0fa77549-19d2-4a8e-a4c8-d65435ffb083	646	1473	blaZ	4-846/846	========/======	39/59	95.27	90.41	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f70866c9-cf66-4fff-9b0d-d20df92e8052	824	1675	blaZ	4-846/846	========/======	39/65	96.34	86.48	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	5d26b5cc-de00-4085-9050-c32c5f34a833	2215	3064	blaZ	4-846/846	========/======	40/63	96.34	86.45	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f46aa469-5e73-48ac-88fd-353774743454	1444	2271	blaZ	4-846/846	========/======	41/65	94.92	87.44	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	608b03cf-7f26-4080-b8ed-485e6b3a53ec	1005	1811	blaZ	4-846/846	========/======	43/60	93.97	87.84	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	caf4a3eb-f167-47fa-982f-a94a12166289	91	887	blaZ	45-845/846	========/======	35/50	91.49	90.29	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	745b34a5-8d67-4e18-892d-b1080b35f8bf	733	1511	blaZ	48-843/846	========/======	29/43	90.54	90.61	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7b5646d4-5f97-4949-9329-76313b05b749	1876	2690	blaZ	5-833/846	========/======	38/64	93.38	89.34	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c534c524-8daa-4759-a819-88e645d52307	1750	2577	blaZ	5-836/846	========/======	30/38	95.86	92.58	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	dd28441c-21d9-43dc-8a1e-511688ec51fc	733	1554	blaZ	5-836/846	========/======	33/46	95.04	91.29	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	99b73368-d5a0-484e-b1e3-f8d57b2fb06a	103	960	blaZ	5-837/846	========/======	33/55	96.69	90.26	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ae1056ef-ffb4-4fe8-8894-9a66f6fcb119	886	1703	blaZ	5-841/846	========/======	41/55	94.56	86.20	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d4ce5570-d123-4b0d-b093-4f92e00929e5	1444	2258	blaZ	5-842/846	========/======	27/39	95.39	90.54	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cc98f446-4523-40fd-9608-3803d5129adb	1450	2253	blaZ	5-842/846	========/======	35/68	93.03	86.78	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1f6428ff-d1fc-457c-acb3-16884b77262d	1683	2508	blaZ	5-843/846	========/======	26/45	95.74	90.99	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	86e143cf-60dc-4195-b6de-3e194527d48f	1303	2134	blaZ	5-843/846	========/======	28/41	96.34	91.82	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ac3d9f4f-f99e-45a0-88b4-b3632c90f103	2075	2905	blaZ	5-843/846	========/======	31/42	96.22	92.41	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	3dfa50e5-83fe-45eb-9a74-fab7c6df9e60	382	1183	blaZ	5-843/846	========/======	31/53	93.85	90.20	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	aafc01e2-06d9-42f2-80e1-e5d653a2aba2	863	1676	blaZ	5-843/846	========/======	32/53	94.56	88.86	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	585b325d-de01-4c5c-ae06-a68b7353b2ea	1431	2264	blaZ	5-843/846	========/======	34/45	96.22	90.92	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ab421cdf-4a05-4949-a585-e71b5e24907c	2327	3139	blaZ	5-843/846	========/======	34/52	94.56	89.55	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2ab41e33-f141-488e-8512-0c2367a1277f	725	1547	blaZ	5-843/846	========/======	35/54	95.04	88.93	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ba0c85da-ffa0-44dc-ad3a-88c625a626c2	2105	2944	blaZ	5-843/846	========/======	36/51	96.22	89.94	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7ca37ede-6e72-4f26-aa3f-c2f0d581461b	2167	2983	blaZ	5-843/846	========/======	38/58	94.44	90.55	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7b86c066-3eb1-46e2-bdd1-e7cf4bb9eff0	644	1458	blaZ	5-843/846	========/======	38/70	93.62	86.54	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	e20bbeda-ad3b-45d9-b3df-b31791163aaf	141	988	blaZ	5-844/846	========/======	28/38	97.52	93.51	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	75bd1195-7bb3-4b92-a374-d40d1635eef1	2114	2929	blaZ	5-844/846	========/======	28/40	95.51	92.57	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	6cc72788-0f91-4704-93c4-68a6cc3865b5	1518	2374	blaZ	5-844/846	========/======	31/41	97.87	90.79	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4877ba6b-cf4c-4a5c-83b4-1cb4f1c6c9a2	1416	2210	blaZ	5-844/846	========/======	32/63	92.91	87.87	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	55bafe14-aab5-4c91-8b5f-88274fddefc9	1568	2390	blaZ	5-844/846	========/======	35/53	95.15	89.28	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7d632410-6687-41d1-b11d-86923d119efe	693	1542	blaZ	5-844/846	========/======	36/54	96.69	89.79	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7aca0fbe-faeb-4445-86fa-ab46e4e5f1fb	758	1579	blaZ	5-844/846	========/======	41/70	94.09	88.57	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	0c986d71-a5ef-439f-b47f-6ccd014dbfaf	644	1468	blaZ	5-845/846	========/======	34/50	95.51	87.41	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	a0a79ba5-46e9-46d1-a02b-b38fa418eb7e	389	1220	blaZ	5-845/846	========/======	36/53	95.74	90.73	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	72c6578b-8cc7-4287-85a2-9e41a28bd2e1	1094	1941	blaZ	5-846/846	========/======	28/40	97.52	92.60	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	85b0b1fb-72a1-4dec-b1f9-6c12dd8b3ec9	386	1203	blaZ	5-846/846	========/======	29/46	95.39	90.50	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	eb821d51-cfed-49cb-82a4-4b167d73cc79	1281	2096	blaZ	5-846/846	========/======	29/48	95.15	89.10	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ce505dd5-4ce0-4187-b688-5b492a3b7e7b	289	1126	blaZ	5-846/846	========/======	29/48	96.45	91.44	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9af52cca-74f0-4cb9-9227-8685690d9174	2412	3241	blaZ	5-846/846	========/======	30/40	96.45	90.77	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	dcb4abff-500c-4948-b142-170a4e7fd5fb	383	1227	blaZ	5-846/846	========/======	30/43	97.16	91.79	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d93908d1-a0d9-4b1d-9c39-268db8d76fa0	1259	2089	blaZ	5-846/846	========/======	30/47	96.10	92.21	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	ae0ca871-f4d6-419a-b8cd-3241c435c0dc	943	1775	blaZ	5-846/846	========/======	31/47	96.22	91.29	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	76b9c918-f1fe-4929-808b-47f6f7310581	1297	2132	blaZ	5-846/846	========/======	31/48	96.34	91.31	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	3c5ff751-0c9d-4ed8-bda4-ef0a1639767c	686	1513	blaZ	5-846/846	========/======	32/50	95.74	89.65	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	39eca953-8cbf-46fc-be7f-faf1a93ff0f5	379	1206	blaZ	5-846/846	========/======	33/44	96.10	89.38	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	eb6e39c7-d54a-4362-b13d-b87a651d1c42	1310	2145	blaZ	5-846/846	========/======	33/44	96.57	90.13	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d109b2b2-8894-4cd7-be08-1c6ae9f6f4e4	1277	2104	blaZ	5-846/846	========/======	33/52	95.63	90.36	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b8ff4b3d-474e-40a0-8f49-aac9965e47f2	476	1303	blaZ	5-846/846	========/======	34/46	95.98	90.68	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	c6d876df-9d49-4da0-a56a-f91ca3a4b776	538	1389	blaZ	5-846/846	========/======	34/46	97.40	91.26	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9cfed3a2-345c-4220-b807-f6f04b4c9cb1	1100	1954	blaZ	5-846/846	========/======	34/47	97.52	89.68	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	de26b718-3625-4991-b91b-843d9c84b4aa	117	935	blaZ	5-846/846	========/======	34/49	95.27	88.42	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	94e37b9d-4f50-4b53-a2c4-440067ec9aa4	1836	2662	blaZ	5-846/846	========/======	34/49	95.74	90.80	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	24ae520e-f222-44cc-9cb7-24050b016405	1864	2694	blaZ	5-846/846	========/======	34/53	95.74	89.22	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f2ff6527-72ba-4b63-9f14-24f2d680ac8e	747	1579	blaZ	5-846/846	========/======	35/51	95.98	89.69	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	46a6fb8a-bb27-481d-8b87-7b0ded08fcc5	1341	2174	blaZ	5-846/846	========/======	35/58	95.63	87.08	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	51948b99-481b-47f5-a3ed-39f3254e053f	917	1756	blaZ	5-846/846	========/======	35/58	95.98	86.90	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9ddb9261-aed1-44f7-9c1a-23a6b0a42a70	531	1373	blaZ	5-846/846	========/======	36/49	96.69	89.97	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fda9d242-cf8a-470d-a57f-bf050a82bc8a	737	1575	blaZ	5-846/846	========/======	36/51	96.34	90.88	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b2a4a922-532f-471e-8198-7472741346d9	2553	3391	blaZ	5-846/846	========/======	36/59	95.86	88.85	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9ca2c7fb-45ed-4422-89ad-3552d2891012	802	1619	blaZ	5-846/846	========/======	36/64	94.33	87.94	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	952d3b05-b06e-432b-98fa-b9a2562ca53f	1985	2829	blaZ	5-846/846	========/======	37/53	96.57	91.38	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2e09c8dc-4a1e-44ed-8a2a-cad12356391a	1813	2650	blaZ	5-846/846	========/======	38/54	96.10	89.04	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	a0a99dd7-3aa7-4107-a18c-6ebdb07600e3	362	1178	blaZ	5-846/846	========/======	39/69	93.97	86.00	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	caa6bdae-c119-4166-94f8-41cef642aede	887	1727	blaZ	5-846/846	========/======	40/53	96.34	86.75	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f23e9e41-b45e-4227-b02f-574177b90858	1774	2597	blaZ	5-846/846	========/======	40/64	94.68	83.58	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	458485d1-7e4b-45a9-b85c-0c4be7fcc99d	2592	3449	blaZ	5-846/846	========/======	40/70	96.34	83.95	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f0e34140-ff6a-4f93-bd2b-f71b0591865d	1413	2253	blaZ	5-846/846	========/======	42/59	95.98	87.49	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7a3877f3-ae40-438e-a53a-5a02c9e098b5	1325	2186	blaZ	5-846/846	========/======	42/72	96.45	86.82	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f4466730-d747-4dba-85c1-3f203692e37c	1866	2709	blaZ	5-846/846	========/======	43/70	95.51	86.56	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	98c97a43-5042-4870-8b47-2f62e204c5c4	2155	2970	blaZ	5-846/846	========/======	45/76	93.50	84.20	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b8715058-d971-49d2-8dc5-470316a5857f	790	1586	blaZ	51-846/846	========/======	36/49	91.25	89.16	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	cc748fe0-21b6-48e9-8299-74af625fe001	244	1076	blaZ	6-844/846	========/======	34/62	95.15	87.20	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	9b21a674-2018-4a8c-92ee-5ff4e87d2f20	452	1284	blaZ	6-846/846	========/======	25/34	96.93	93.56	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	fdcf1e9f-9f0b-4825-b468-b246e0e6a4de	1420	2241	blaZ	6-846/846	========/======	25/39	95.98	92.60	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	1219c93f-33aa-4460-89c6-bd814d6a5adb	585	1427	blaZ	6-846/846	========/======	26/48	96.69	90.19	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8f5ab8b1-32d0-4b7c-9352-40a92eaebc7f	1507	2331	blaZ	6-846/846	========/======	27/44	95.86	90.88	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	611521d0-ebab-401b-990e-7acb27a22412	1703	2529	blaZ	6-846/846	========/======	28/44	95.98	92.64	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	7657c7ff-b65c-4865-8742-f0975bef176c	893	1700	blaZ	6-846/846	========/======	28/57	94.09	90.27	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b5d4868d-1eda-4a55-a921-634ddc69472a	1259	2099	blaZ	6-846/846	========/======	32/48	96.57	89.71	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	53a9c84a-b6b3-4473-99c8-6fc16e4234c0	144	990	blaZ	6-846/846	========/======	35/50	96.81	90.91	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	363baa80-176b-42ae-9b06-23aec91d6673	818	1655	blaZ	6-846/846	========/======	35/53	96.10	90.30	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2945ed19-76e8-4b51-909d-eb7eb40d40df	829	1677	blaZ	6-846/846	========/======	37/52	96.81	88.52	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d6cb5624-f8b8-4491-b0b7-0b06354dfe77	859	1697	blaZ	6-846/846	========/======	38/56	95.98	88.94	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	f7de855c-8dfb-4b54-91bc-c2d88626d01a	2074	2905	blaZ	6-846/846	========/======	38/73	94.56	84.19	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	2ea83ce5-6686-4592-92e7-140458d0249e	110	944	blaZ	6-846/846	========/======	39/58	95.63	88.00	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	3b0b21af-fefb-4669-9ad1-4957bcbf5d54	1237	2054	blaZ	6-846/846	========/======	39/67	94.09	88.41	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	a539be6e-1e14-4d85-8956-0d2260ca3fd0	807	1651	blaZ	6-846/846	========/======	41/52	96.57	89.53	ncbi	NG_055997.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	85819ac7-ffcc-4ff8-83ee-f65d6b8dabcf	449	1264	blaZ	6-846/846	========/======	42/61	94.33	86.73	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	d0812980-bedc-46c9-89ea-ba9f9f385f2d	1762	2560	blaZ	6-846/846	========/======	45/76	92.43	82.40	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	20dbb1ae-e554-4235-8f6a-97c5fffa8dcf	992	1840	blaZ	6-846/846	========/======	46/72	95.63	83.88	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4d7e0f24-4ad4-4636-a774-6aa35a66dfe0	244	1077	blaZ	6-846/846	========/======	48/67	95.04	83.93	ncbi	NG_047533.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	4c89e849-9fe3-4c23-a569-256038109c51	540	1377	blaZ	7-843/846	========/======	33/53	95.86	90.86	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	eee6c655-44fa-4e40-981e-2380c7427c74	584	1432	blaZ	7-846/846	========/======	33/39	97.52	89.47	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	8597a016-d7ac-42ab-a8c6-3b642505b022	335	1165	blaZ	8-846/846	========/======	30/46	95.98	92.31	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	b536833e-d0db-4b02-9108-173bdb108d75	676	1483	blaZ	9-843/846	========/======	26/41	94.68	91.81	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+S16-4092_1.fastq.gz	bc347eb0-1f50-433c-ab64-493ec3e94442	222	940	erm(B)	1-728/738	========/======	29/35	95.66	91.50	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	23782b85-9c94-4273-9540-f9b69ef4967a	3241	3968	erm(B)	1-731/738	========/======	29/51	95.39	88.87	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	13981a98-66e6-4164-8964-5fa90bc23941	1982	2697	erm(B)	1-734/738	========/======	26/44	95.26	90.63	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	7fb05a91-e6d0-4894-a545-2e1b23fc0bae	903	1629	erm(B)	1-735/738	========/======	41/62	94.85	84.25	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	e1b046ed-3df7-41cd-991f-b88f664e6445	1439	2167	erm(B)	1-737/738	========/======	18/24	97.70	93.83	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	c2316475-ec90-4bc4-a4f8-d06e6b3c3457	632	1360	erm(B)	1-738/738	========/======	23/35	97.02	92.94	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	3d5487ef-64b9-4836-9964-257cd41b63ed	415	1149	erm(B)	1-738/738	========/======	23/37	97.29	89.67	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	7c460307-89b4-49ad-b1be-61dee21d1d43	382	1113	erm(B)	1-738/738	========/======	24/32	97.43	92.81	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	d549e402-5ca2-4899-b628-e6c8f67e2d00	1134	1867	erm(B)	1-738/738	========/======	26/38	97.15	91.52	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	3dac5574-a9ae-4e33-b5fa-07eec27769ba	472	1192	erm(B)	1-738/738	========/======	29/53	95.26	89.02	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	0db0ec1f-6c06-4a79-8bca-94ccdfa7079e	1576	2301	erm(B)	1-738/738	========/======	31/58	95.26	87.65	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	6dd5ba45-130f-4532-9cc4-4a0b5b1872df	997	1754	erm(B)	1-738/738	========/======	37/64	97.02	85.26	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	34eba70e-a250-4787-b217-eb9df8d2cb91	624	1356	erm(B)	1-747/747	========/======	46/66	94.65	84.61	ncbi	NG_047842.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	d00c4251-d468-4ede-9e81-ca67152d530f	589	1293	erm(B)	24-722/738	========/======	51/74	90.11	81.06	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	c5d7e651-3d85-4748-a3a1-58b218376e96	1022	1722	erm(B)	5-738/738	========/======	31/57	93.36	87.67	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	84d663f7-da38-4317-a7ca-2965ea74464e	876	1591	erm(B)	8-738/738	========/======	45/87	92.14	78.49	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+S16-4092_1.fastq.gz	6c42136d-67a8-4a0b-8639-98ece1514d32	209	612	fosB-Saur	1-403/420	========/======	13/23	93.33	90.84	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	c4a14c99-145d-4169-aa8c-1db5739401d2	512	941	fosB-Saur	1-416/420	========/======	16/26	97.62	91.51	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	971d2ad5-ad1c-488f-b36d-6eb2c34dc62a	2582	2979	fosB-Saur	1-417/420	========/======	19/31	93.33	89.36	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	363edae8-93d0-4b3e-b39a-aa1225de4fcd	825	1237	fosB-Saur	1-418/420	========/======	16/21	96.43	92.25	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	8b897a18-38b0-41b8-ba93-aaf9db386231	767	1175	fosB-Saur	1-418/420	========/======	8/11	97.14	94.51	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	0dac31ac-7046-4bb5-8f71-a210b2c72650	1533	1948	fosB-Saur	1-419/420	========/======	11/17	97.38	92.72	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	9e529115-b183-4ad4-a5da-61f61db5f5af	1102	1507	fosB-Saur	1-419/420	========/======	14/19	95.95	90.52	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	c2c813d7-3889-4100-a75d-3a0544566760	109	516	fosB-Saur	1-419/420	========/======	15/21	95.95	93.40	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	265c27a9-fd6b-48d2-b210-fb30b81f41ca	465	891	fosB-Saur	1-419/420	========/======	15/24	97.86	91.03	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	e93a9ff1-513c-45f3-9333-e39c6cb753dc	1682	2086	fosB-Saur	1-419/420	========/======	21/30	94.52	88.06	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	cc22d994-203e-4bff-90bc-c0d540955f49	543	931	fosB-Saur	1-419/420	========/======	26/52	90.00	80.00	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	0fd09182-ed51-4d7b-a21b-e4067b40fc16	1167	1590	fosB-Saur	1-419/420	========/======	9/11	99.05	95.08	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	2f324daf-29b5-4694-ac8d-a935e50f5a32	2234	2651	fosB-Saur	1-420/420	========/======	10/16	97.86	94.38	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	b7e5a671-325b-45ec-993d-4609bac61fce	1023	1438	fosB-Saur	1-420/420	========/======	11/12	98.10	91.75	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	f29c474b-3bc6-42d1-ba65-4e8231bfc6b6	1924	2335	fosB-Saur	1-420/420	========/======	11/16	97.14	94.34	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	e3d26c4b-8d49-4da3-9ab1-6cb73b23d24f	1104	1525	fosB-Saur	1-420/420	========/======	11/18	98.10	91.39	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	1f35c763-43b1-4cb0-9d6c-abdee388ee9d	970	1394	fosB-Saur	1-420/420	========/======	11/19	98.33	92.59	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	cf424c4d-b33c-4c85-b9d1-f6b881fa016f	766	1190	fosB-Saur	1-420/420	========/======	12/21	98.10	90.76	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	e646fd47-34c5-43e3-9f75-87d5ff9b6be2	1567	1978	fosB-Saur	1-420/420	========/======	13/16	97.14	91.51	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	6abe3261-ce83-4885-aae0-b9465c34e4ef	412	832	fosB-Saur	1-420/420	========/======	13/23	97.38	92.36	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	88aa926e-789a-45dc-b45e-bb90a77e7e7e	2537	2972	fosB-Saur	1-420/420	========/======	13/24	99.05	92.05	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	9435d89b-cb0e-46cf-b8eb-9fc969fcb82d	1727	2152	fosB-Saur	1-420/420	========/======	14/16	98.81	93.27	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	bf0d0beb-f6ee-45d9-8add-8a7bfa4689b6	711	1128	fosB-Saur	1-420/420	========/======	14/18	97.62	93.69	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	f6678e68-2848-4554-98a5-62a0153bc113	223	629	fosB-Saur	1-420/420	========/======	15/25	95.48	90.84	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	8bfdfd74-739e-48c2-957a-384fd8e9d6a7	661	1069	fosB-Saur	1-420/420	========/======	15/25	95.71	91.57	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	4585fc27-8233-426a-ba93-3b4cec8c1aca	2102	2503	fosB-Saur	1-420/420	========/======	15/30	94.29	88.97	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	8032af90-0bab-40bc-a9b0-afea03defb25	204	622	fosB-Saur	1-420/420	========/======	16/21	97.38	88.84	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	0aa1d3d9-e51c-4f02-8ad8-aef5fb67bc91	1241	1652	fosB-Saur	1-420/420	========/======	17/22	96.43	90.63	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	f45a2d28-44a3-424d-8b6d-ca34a277adff	342	751	fosB-Saur	1-420/420	========/======	17/32	95.00	87.01	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	26a43540-198b-4b10-9bb3-a5225688ea6f	2064	2480	fosB-Saur	1-420/420	========/======	18/23	96.90	91.16	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	5639fc87-1113-4210-976d-58bc12a44653	622	1046	fosB-Saur	1-420/420	========/======	18/23	97.86	85.48	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	de8862cb-50f9-4046-8544-b9e834c61025	1247	1651	fosB-Saur	1-420/420	========/======	18/25	95.24	91.53	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	969bff59-09c4-43b8-a113-33c0a9290b31	1058	1463	fosB-Saur	1-420/420	========/======	18/28	95.00	90.63	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	0f9a7439-3b5a-49dd-96d8-85679a91f734	327	754	fosB-Saur	1-420/420	========/======	18/30	97.38	87.93	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	2c76b13e-2c51-41f6-9ed6-7cc1513b4967	183	578	fosB-Saur	1-420/420	========/======	18/34	93.10	86.82	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	a2b7171b-2417-46d7-b165-a81e0ac83060	1997	2396	fosB-Saur	1-420/420	========/======	18/34	93.57	87.59	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	a30a0280-6fdb-4ff2-93b8-05c20e5954c2	2719	3145	fosB-Saur	1-420/420	========/======	18/37	96.43	86.42	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	e2a3a654-8896-4306-9773-c93f6cebd65c	1087	1481	fosB-Saur	1-420/420	========/======	19/31	93.33	90.31	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	44e7ee2e-58a1-4ab1-9886-1f406a1aa167	3514	3911	fosB-Saur	1-420/420	========/======	20/30	93.81	91.27	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	394a583b-55f4-4e5f-8c8e-8e4d054396d6	1447	1862	fosB-Saur	1-420/420	========/======	21/32	95.71	86.87	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	784ff703-818c-4e6c-8cae-94af72004751	1305	1730	fosB-Saur	1-420/420	========/======	22/32	96.90	85.19	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	9e4c2206-6c34-40db-b112-0ee2acc30854	1578	1986	fosB-Saur	1-420/420	========/======	22/33	94.76	86.31	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	949caccb-b5bf-4067-b4f0-3dcba825cdd4	1652	2078	fosB-Saur	1-420/420	========/======	26/45	95.48	82.51	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	5d8b26d8-c181-4048-b3e9-ca675c8738ea	1692	2111	fosB-Saur	1-420/420	========/======	7/10	98.81	96.47	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	f7c71b3a-c98c-4031-b769-f4e43d65a66c	2488	2903	fosB-Saur	1-420/420	========/======	8/8	98.57	95.97	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	5fe3b9c2-2ab6-40ff-87b2-675b8b01f4df	688	1106	fosB-Saur	1-420/420	========/======	9/13	98.33	94.84	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	7d825080-37e8-4d9b-9ab7-7cea3ecf2a72	1900	2328	fosB-Saur	1-420/420	========/======	9/15	99.29	94.44	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	a0bb3623-7614-4e15-8aa6-1513f0d3ca72	1183	1600	fosB-Saur	1-420/420	========/======	9/18	97.62	93.69	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	a5d2d37e-1b25-4d48-9b75-7efd590f1bbe	124	541	fosB-Saur	11-419/420	========/======	17/41	93.57	85.25	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	8a07a2d4-7816-49c2-b31e-6c0398de76ad	2288	2691	fosB-Saur	14-419/420	========/======	16/22	93.81	90.39	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	8b47e6ff-4706-4688-acc6-e3ec099113de	1355	1760	fosB-Saur	14-420/420	========/======	22/37	92.38	85.18	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	aae5ba7f-525e-461d-8c5f-8641da99d990	862	1253	fosB-Saur	2-419/420	========/======	18/36	92.14	85.34	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	d037cd54-48c6-4e42-8b72-657942b11b5c	1298	1719	fosB-Saur	2-420/420	========/======	17/31	96.43	87.61	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	6151ca92-5651-42d0-bb18-fccedbc17e64	328	751	fosB-Saur	2-420/420	========/======	19/25	97.38	90.09	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	f2f7cb9a-9b8a-44c9-abda-06537c99855f	1237	1667	fosB-Saur	3-420/420	========/======	16/21	98.57	88.97	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	ba9de11f-6a30-4e3c-a6ed-24d3296d0f92	578	973	fosB-Saur	4-419/420	========/======	25/38	92.14	83.53	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	b69f231b-ea67-4662-8bca-10234d173f15	2643	3058	fosB-Saur	5-416/420	========/======	19/24	95.71	89.20	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	ac8969b0-978d-49df-a58e-9b917189b98c	705	1123	fosB-Saur	5-420/420	========/======	24/37	95.00	84.63	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	61b1c2c9-850b-4c3f-b0b3-c5aac9aeb251	2182	2608	fosB-Saur	6-420/420	========/======	21/28	96.90	88.74	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	7ad8909b-fe50-49a9-ab5f-00e207be1568	698	1116	fosB-Saur	7-417/420	========/======	19/30	95.24	88.14	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+S16-4092_1.fastq.gz	cfba0125-6a4c-4e0e-9da1-f1bef25b2f1d	1929	2527	fusC	1-630/639	========/======	23/39	93.11	89.91	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	69c80c25-7980-4d40-9e19-cfeb5543e8ef	914	1519	fusC	1-630/639	========/======	25/36	93.90	89.78	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	675e541e-8653-4eae-bb06-bb928731677c	1563	2196	fusC	1-635/639	========/======	20/27	97.18	91.36	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	9d609651-7852-40a8-a1bb-d1baf62f9cd0	741	1373	fusC	1-635/639	========/======	23/34	96.56	89.71	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	57b24a2f-252d-42f2-8361-d0549e60a5fd	1666	2295	fusC	1-635/639	========/======	24/31	96.56	91.97	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	8e135a22-435c-483f-b33b-40dcdfa86a0f	503	1137	fusC	1-635/639	========/======	28/38	96.40	90.67	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	9fb484bd-356f-429b-96f5-7624568d1d9e	1482	2101	fusC	1-636/639	========/======	19/30	95.93	91.91	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	76e5dc8b-4624-4a96-ae88-7fd51e34a188	863	1484	fusC	1-636/639	========/======	27/46	94.84	87.42	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	b76d4a6e-2170-4d46-a65c-bf8225f0779e	146	762	fusC	1-636/639	========/======	29/47	94.37	87.23	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	b54646e0-05d6-44bc-b325-cf6b6755f81c	2936	3563	fusC	1-637/639	========/======	22/37	96.09	89.40	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	a09bba77-7e35-4006-bce9-b01e26043c14	1022	1633	fusC	1-637/639	========/======	22/43	94.37	88.55	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	1ef541d4-48f8-470d-8729-2d37708598dd	957	1583	fusC	1-637/639	========/======	24/36	96.09	91.39	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	3c258cca-1baf-41ed-aedc-5ac1dbce547a	455	1097	fusC	1-638/639	========/======	20/31	97.81	91.92	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	33a98b7c-aa23-4a34-910c-9e8eb216e7d0	976	1611	fusC	1-639/639	========/======	18/21	98.12	93.36	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	a386f355-2e8b-4371-b797-a5a8b6451aaa	1821	2449	fusC	1-639/639	========/======	19/22	97.50	94.88	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	b89a12d6-34f6-4f38-9270-68a79f1c6ec8	1166	1801	fusC	1-639/639	========/======	19/31	97.34	90.50	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	b643ff19-ea7e-42ae-b5ed-f4d38c202343	1287	1927	fusC	1-639/639	========/======	20/24	98.28	91.26	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	29d2a388-31b9-40f3-aae3-0fa528290c3f	2133	2760	fusC	1-639/639	========/======	20/25	97.18	93.19	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	8d7f52be-9a4d-4a9f-879e-4252247ec8e0	1256	1887	fusC	1-639/639	========/======	20/29	97.18	90.61	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	fcd54511-5ee1-4b1d-b1d6-aa7cf08f8fb3	1608	2244	fusC	1-639/639	========/======	22/30	97.50	92.65	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	20f0fd72-4689-4ad7-af85-c16408b4a2f8	809	1445	fusC	1-639/639	========/======	22/36	97.03	91.92	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	2d556ddd-aa73-48c1-8b5f-b0639d4d7788	588	1231	fusC	1-639/639	========/======	23/35	97.65	90.59	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	548b2741-a439-49a2-9874-7bce17261de7	2853	3473	fusC	1-639/639	========/======	24/34	95.93	91.81	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	1abf01de-271e-4bfc-a34a-126520e300df	2428	3062	fusC	1-639/639	========/======	24/36	96.87	91.45	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	705926b8-463c-4eb8-9688-01fa7239f41a	1841	2474	fusC	1-639/639	========/======	26/33	97.03	91.27	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	9cc1a5a1-ecf8-41ca-a35f-6127516f50be	1376	2022	fusC	1-639/639	========/======	26/36	97.81	88.81	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	e95c87ed-39c1-4937-a4bc-0632d95c1e4c	1608	2250	fusC	1-639/639	========/======	27/46	96.71	89.61	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	d05f05a4-e1ae-4e86-a7f6-15ec9fa1747f	2922	3560	fusC	1-639/639	========/======	28/36	97.18	91.93	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	0077967d-7100-4a14-8b7c-5094756f25eb	976	1607	fusC	1-639/639	========/======	28/39	96.40	88.86	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	225b0036-9967-480c-967b-33d98acadc8b	2428	3087	fusC	1-639/639	========/======	28/41	98.44	88.21	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	94021842-1039-4fa6-abf7-697094d2a4f8	124	758	fusC	1-639/639	========/======	28/42	96.40	90.73	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	7138d575-fdb3-46de-9cfb-c14c35e0d6c9	1679	2294	fusC	1-639/639	========/======	28/47	94.52	85.87	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	c60d9b1c-a88b-40aa-8c54-7d794bb5d1fc	605	1217	fusC	1-639/639	========/======	29/60	93.27	86.74	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	824e02dc-97d5-44c3-ab62-9400f1e34d0a	207	854	fusC	1-639/639	========/======	30/49	96.87	86.83	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	007d28b4-818d-416e-9f0c-710596610a0b	1431	2051	fusC	1-639/639	========/======	30/52	94.52	83.08	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	47aa9a19-ea9b-4812-97a6-febbd876b498	5	626	fusC	1-639/639	========/======	31/47	94.99	87.77	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	c63dc722-53b0-4b0f-b4ab-76777a07ec28	2773	3401	fusC	1-639/639	========/======	41/60	94.52	83.89	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	5751e5e9-0428-4983-a238-eefda13aa768	1282	1938	fusC	1-639/639	========/======	42/64	96.40	84.41	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	c62bafc3-48bd-4322-99cc-ff72148273bf	712	1307	fusC	1-639/639	========/======	44/65	91.55	79.54	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	5b442058-fdd0-42ae-b09d-9345abd996ae	2437	3042	fusC	4-639/639	========/======	27/44	93.74	89.42	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	c7cfd769-6a83-486c-9524-28053f7a74d8	1229	1854	fusC	5-639/639	========/======	22/31	96.24	90.09	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	0ee3ffb1-06f5-4b2c-89eb-e94149af3154	566	1191	fusC	9-639/639	========/======	17/19	96.87	93.73	ncbi	NG_050413.1	fusidic acid resistance EF-G-binding protein FusC
+S16-4092_1.fastq.gz	841e5ea2-ed0b-4564-9b5a-560bec7435ff	102	1963	mecA	1-1893/2007	========/======	71/107	90.88	90.83	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	bdccfcff-4c8e-4ae8-81e0-f13bf960bec0	1153	3129	mecA	1-1997/2007	========/======	75/106	96.36	90.44	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	fbbf25d3-30b8-492f-95b1-20cecfdf6fe4	616	2626	mecA	1-2003/2007	========/======	61/82	97.96	93.51	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	bd153b5e-cc49-4267-bed4-77c3c5552770	306	2303	mecA	1-2004/2007	========/======	55/76	97.81	93.28	ncbi	NG_047939.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	1f4d1669-da1c-47d9-ba6c-7f956940266b	603	2582	mecA	1-2007/2007	========/======	81/131	96.06	90.00	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	4ee8b204-e17f-4cf6-85e2-88a6e52949cf	1013	2873	mecA	105-2007/2007	========/======	77/114	90.93	88.29	ncbi	NG_047940.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	844f8b52-73a3-4466-b524-b6e09d76a61f	1388	3367	mecA	4-2007/2007	========/======	71/114	96.41	90.97	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	5814a2b9-c1a7-4aba-8703-356d60ab0eb2	944	2822	mecA	5-1883/2007	========/======	64/88	91.43	93.92	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	bcbb8fc6-ed39-44dc-9cb3-730985349d5e	1215	3205	mecA	5-2002/2007	========/======	68/103	96.81	89.74	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	733c7e5a-ebdc-4f6b-ac5f-05adbf9dd9ce	192	2174	mecA	5-2002/2007	========/======	70/107	96.51	91.63	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	b9a6f8ce-6aee-4b3c-ba0e-c9f7225fd61b	452	2410	mecA	5-2002/2007	========/======	87/137	95.17	88.13	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	55f8be87-291a-4cc8-8576-54243e4271f6	2306	4212	mecA	5-2003/2007	========/======	121/202	92.28	80.38	ncbi	NG_047936.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	40480f7b-1629-4bb5-bc87-484cb7e9b1b5	797	2776	mecA	5-2007/2007	========/======	56/75	97.36	93.35	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	edf3c002-4a47-4e33-a846-0ef75071e554	872	2855	mecA	5-2007/2007	========/======	65/103	96.76	91.30	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	e2672eaa-65c4-4c5f-b163-7f908209d0a8	1218	3223	mecA	5-2007/2007	========/======	80/121	96.86	89.30	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	74d34e44-e18c-4723-b74e-e10bb924226a	2243	4197	mecA	5-2007/2007	========/======	83/126	95.47	88.54	ncbi	NG_047937.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	8d06c069-4bfa-4e0b-ab4b-9378706bdf61	107	2083	mecA	9-2007/2007	========/======	71/104	96.46	91.13	ncbi	NG_047939.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+S16-4092_1.fastq.gz	eb078cfb-162a-4f6e-9fe8-82f8767296f0	983	2235	tet(38)	1-1249/1353	========/=====.	33/52	90.54	92.87	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	4cedb3d8-666d-4e34-a63b-4507043f7edf	104	1418	tet(38)	1-1317/1353	========/======	47/70	94.68	90.08	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	6825d58f-361e-46c0-8a9e-fb5dcc75d233	591	1948	tet(38)	1-1338/1353	========/======	61/102	95.86	85.70	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	78b2e9ed-342a-44d8-9088-c3d2ebb5434f	1393	2712	tet(38)	1-1345/1353	========/======	53/95	94.97	89.13	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	47eb73fa-b3eb-4f1c-bebe-9ce79f9a968d	464	1779	tet(38)	1-1348/1353	========/======	48/74	95.71	89.48	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	915619d6-81ef-4823-ae97-620be1fe179c	570	1918	tet(38)	1-1349/1353	========/======	35/56	97.63	93.32	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	29c813e8-f7bf-4a25-8303-e4e0671c9409	2073	3410	tet(38)	1-1349/1353	========/======	42/75	96.53	91.24	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	09b65ce2-c07a-41e4-8eba-4ef9d6db1d45	1065	2405	tet(38)	1-1349/1353	========/======	44/54	97.41	92.27	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	702196b6-66e4-4072-be91-e6c2df3067cf	1011	2326	tet(38)	1-1349/1353	========/======	55/93	95.05	88.18	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	50897447-f77e-4f68-89e9-a42d43f1c986	1567	2886	tet(38)	1-1349/1353	========/======	56/85	95.49	88.53	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	c8ba3c90-c30c-4d0c-b30f-abe5cc9cdcc1	853	2160	tet(38)	1-1349/1353	========/======	57/93	94.75	89.09	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	063864c9-bb1f-46cc-8c43-14db75609839	333	1676	tet(38)	1-1350/1353	========/======	24/36	98.23	94.80	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	2e252a8b-9d36-4352-a249-d729a34aa147	1424	2768	tet(38)	1-1350/1353	========/======	41/61	97.34	92.38	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	8ddd28ca-9f7c-4efe-8892-cf194fc8009c	127	1473	tet(38)	1-1350/1353	========/======	42/63	97.34	92.75	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	0a1a49e3-3cb1-4a3a-8e40-b20841b9c08c	1589	2920	tet(38)	1-1350/1353	========/======	43/68	96.60	91.64	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	497a1ac0-3b2e-4a08-ae92-5c2843f98dea	895	2236	tet(38)	1-1350/1353	========/======	47/74	96.75	88.58	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	f36da273-fdbf-4b64-93a8-de98d985dd61	365	1697	tet(38)	1-1350/1353	========/======	64/109	95.12	85.53	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	55b062c6-a91c-4e26-93c6-8ccff8c9559c	2172	3519	tet(38)	1-1353/1353	========/======	30/39	98.37	94.31	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	cf92295f-5c27-406e-94b0-bcb3103fea16	1159	2512	tet(38)	1-1353/1353	========/======	31/43	98.45	93.09	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	a72f871b-ac14-459c-a777-f422bbb2c56d	173	1521	tet(38)	1-1353/1353	========/======	39/54	97.86	92.67	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	cb7b38dd-740e-4453-a1e8-857e745d09ed	1770	3110	tet(38)	1-1353/1353	========/======	40/60	97.34	92.08	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	958ad799-acc3-4b71-9119-cbd207d19d13	806	2149	tet(38)	1-1353/1353	========/======	44/63	97.34	91.81	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	817ee363-25da-4685-bf0d-4a488f7bd9ad	439	1781	tet(38)	1-1353/1353	========/======	45/62	97.34	90.94	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	3c12830f-a1de-41c5-bbfd-843cbd907949	126	1464	tet(38)	1-1353/1353	========/======	45/70	96.90	90.22	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	d17f3856-8181-4f7b-810a-ab872e565193	570	1881	tet(38)	1-1353/1353	========/======	47/81	95.49	88.13	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	75b61cd1-c438-499b-8d5e-d9827d518391	997	2314	tet(38)	1-1353/1353	========/======	48/79	95.79	89.24	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	a21ab572-f857-4c62-99a5-870810a2f494	311	1653	tet(38)	1-1353/1353	========/======	51/82	96.60	90.21	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	5cae4c08-3bc4-4a07-b1d1-b559d6152a65	250	1605	tet(38)	1-1353/1353	========/======	53/83	97.04	89.47	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	5dea8973-5849-4725-80f0-b7c4a9d5e667	1188	2526	tet(38)	1-1353/1353	========/======	54/92	96.08	87.36	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	30c0550d-e190-43f2-9cfa-bb5bba66f82b	1584	2944	tet(38)	1-1353/1353	========/======	57/90	96.97	88.52	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	4eddb325-c8d6-4e18-ac2f-3ebf88ff4fa6	366	1745	tet(38)	1-1353/1353	========/======	59/105	97.12	88.23	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	c6a185c8-4e93-4658-bb2c-001082e87a83	382	1736	tet(38)	1-1353/1353	========/======	62/96	96.53	85.38	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	8f7eb234-970c-4ffa-86da-a87bb7291709	301	1645	tet(38)	1-1353/1353	========/======	66/104	95.86	85.94	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	0bc72df1-37d3-4a86-9d3f-59aaa06eeb5c	1409	2713	tet(38)	18-1349/1353	========/======	71/135	92.46	80.66	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	98292d31-0fb8-48d5-9977-75dc161b8f70	1816	3146	tet(38)	2-1349/1353	========/======	59/77	96.16	88.53	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	91ded824-35e3-439d-8c41-8cc825af9a1a	624	1961	tet(38)	2-1353/1353	========/======	55/74	96.67	87.92	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	a6c2fe99-2d1e-431f-a828-0b9f000ef15e	880	2231	tet(38)	5-1353/1353	========/======	48/63	97.49	91.17	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	f11d01fd-82f7-4824-8538-c02a393664b6	981	2351	tet(38)	6-1353/1353	========/======	51/77	97.63	90.70	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	06ed8d47-533f-45ec-85f1-34bf8349a4f8	1372	2720	tet(38)	7-1353/1353	========/======	41/56	97.56	92.30	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)
+S16-4092_1.fastq.gz	23782b85-9c94-4273-9540-f9b69ef4967a	264	2143	tet(M)	1-1918/1920	========/======	80/114	95.94	89.72	ncbi	NG_048237.1	tetracycline resistance ribosomal protection protein Tet(M)
+S16-4092_1.fastq.gz	b3e88a2f-a4fb-444c-846c-a567450ce87c	305	2149	tet(M)	1-1920/1920	========/======	82/149	94.17	86.15	ncbi	NG_048237.1	tetracycline resistance ribosomal protection protein Tet(M)
+S16-4092_1.fastq.gz	37ad5c7f-dfd2-472c-910c-46b7eebe7ca5	589	2462	tet(M)	1-1920/1920	========/======	86/134	95.31	86.91	ncbi	NG_048237.1	tetracycline resistance ribosomal protection protein Tet(M)
+S16-4092_1.fastq.gz	f3ac3fd4-ccc3-430a-8a63-b792ebc747e8	100	1941	tet(M)	54-1920/1920	========/======	80/135	93.07	87.56	ncbi	NG_048237.1	tetracycline resistance ribosomal protection protein Tet(M)
+S16-4092_1.fastq.gz	1d2a37b6-e3cf-48b5-b484-4a9d920787a6	139	2030	tet(M)	9-1916/1920	========/======	71/92	96.56	90.60	ncbi	NG_048237.1	tetracycline resistance ribosomal protection protein Tet(M)
