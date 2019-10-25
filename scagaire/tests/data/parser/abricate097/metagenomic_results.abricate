@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+S16-4092_1.fastq.gz	9170e512-d6fa-455a-bdfc-bf2f2507c294	1707	2068	blaI_of_Z	1-367/381	========/======	15/17	93.44	87.40	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	ef03583a-ae1e-4530-9541-3cf30489b3e1	844	1205	blaI_of_Z	1-369/381	========/======	12/15	93.96	91.96	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	7b7b0d1d-f154-4608-ab31-6ce7bdd097dc	2651	3020	blaI_of_Z	1-370/381	========/======	11/12	95.54	92.55	ncbi	NG_047499.1	penicillinase repressor BlaI
+S16-4092_1.fastq.gz	438df9fa-cd18-4e8e-9421-4fbb1217328d	105	476	blaI_of_Z	1-370/381	========/======	14/24	94.23	86.68	ncbi	NG_047499.1	penicillinase repressor BlaI

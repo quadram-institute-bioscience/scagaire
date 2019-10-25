@@ -1,6 +1,6 @@
 import os
 import subprocess
-from scagaire.parser.Abricate import Abricate
+from scagaire.parser.Abricate098 import Abricate098
 from tempfile import mkstemp
 
 class AbricateAmrResults:
@@ -21,7 +21,7 @@ class AbricateAmrResults:
             print("Run Abricate to find AMR genes\t"+ cmd)
         subprocess.check_output(cmd, shell=True)
         
-        ab_parser = Abricate(abricate_output, self.verbose)
+        ab_parser = Abricate098(abricate_output, self.verbose)
         os.remove(abricate_output)
         if self.verbose:
             print(str(ab_parser))

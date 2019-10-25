@@ -2,23 +2,22 @@ import csv
 import re
 import os
 from tempfile import mkstemp
-from scagaire.AbricateResult import AbricateResult
+from scagaire.AbricateResult097 import AbricateResult097
 from scagaire.parser.AmrParser import AmrParser
 
-class Abricate(AmrParser):
+class Abricate097(AmrParser):
     def __init__(self, input_file, verbose):
         self.input_file = input_file
         self.verbose = verbose
 
-        self.minimum_num_columns = 14
-        self.default_header = [ '#FILE', 'SEQUENCE', 'START', 'END', 'STRAND', 'GENE', 'COVERAGE', 'COVERAGE_MAP', 'GAPS', '%COVERAGE', '%IDENTITY', 'DATABASE', 'ACCESSION', 'PRODUCT', 'RESISTANCE']
+        self.minimum_num_columns = 13
+        self.default_header = [ '#FILE', 'SEQUENCE', 'START', 'END', 'GENE', 'COVERAGE', 'COVERAGE_MAP', 'GAPS', '%COVERAGE', '%IDENTITY', 'DATABASE', 'ACCESSION', 'PRODUCT']
         self.header = self.default_header
         self.column_to_variable_mapping = {
             '#FILE': 'file', 
             'SEQUENCE': 'sequence', 
             'START': 'start', 
             'END': 'end', 
-            'STRAND': 'strand', 
             'GENE': 'gene', 
             'COVERAGE': 'coverage', 
             'COVERAGE_MAP': 'coverage_map', 
@@ -27,8 +26,7 @@ class Abricate(AmrParser):
             '%IDENTITY': 'perc_identity', 
             'DATABASE': 'database', 
             'ACCESSION': 'accession', 
-            'PRODUCT': 'product', 
-            'RESISTANCE': 'resistance'
+            'PRODUCT': 'product'
         }
         self.results = self.populate_results()
         
@@ -41,7 +39,7 @@ class Abricate(AmrParser):
         for row in file_contents:
             if len(row)< self.minimum_num_columns:
                 continue
-            ab_result = AbricateResult(header = self.default_header)
+            ab_result = AbricateResult097(header = self.default_header)
             for index, value in enumerate(row):
                 if self.header[index] in self.column_to_variable_mapping:
                     variable_name = self.column_to_variable_mapping[self.header[index]]

@@ -2919,10 +2919,6 @@ Haemophilus influenzae	catD	1	abricate_ncbi_auto	20191021
 Haemophilus influenzae	aph(3'')-Ib	3	abricate_ncbi_auto	20191021
 Haemophilus influenzae	aph(6)-Id	3	abricate_ncbi_auto	20191021
 Haemophilus influenzae	blaTEM-95	2	abricate_ncbi_auto	20191021
-Helicobacter pylori	aph(3')-IIIa	10	abricate_ncbi_auto	20191022
-Helicobacter pylori	catA1	5	abricate_ncbi_auto	20191022
-Helicobacter pylori	aac(3)-I	4	abricate_ncbi_auto	20191022
-Helicobacter pylori	catA13	21	abricate_ncbi_auto	20191022
 Legionella pneumophila	aph(9)-Ia	93	abricate_ncbi_auto	20191022
 Legionella pneumophila	blaOXA-29	106	abricate_ncbi_auto	20191022
 Legionella pneumophila	blaTEM-116	1	abricate_ncbi_auto	20191022
@@ -2932,11 +2928,6 @@ Legionella pneumophila	blaTEM-181	2	abricate_ncbi_auto	20191022
 Legionella pneumophila	blaM-1	1	abricate_ncbi_auto	20191022
 Legionella pneumophila	aph(3'')-Ib	1	abricate_ncbi_auto	20191022
 Legionella pneumophila	aph(6)-Id	1	abricate_ncbi_auto	20191022
-Leptospira interrogans	aph(3')-IIa	5	abricate_ncbi_auto	20191022
-Leptospira interrogans	ant(9)-Ia	1	abricate_ncbi_auto	20191022
-Leptospira interrogans	aph(3')-IIIa	2	abricate_ncbi_auto	20191022
-Leptospira interrogans	blaTEM-116	2	abricate_ncbi_auto	20191022
-Mycobacterium leprae	aac(2')-Ie	6	abricate_ncbi_auto	20191022
 Staphylococcus aureus	tet(38)	10588	abricate_ncbi_auto	20191022
 Staphylococcus aureus	mecA	8136	abricate_ncbi_auto	20191022
 Staphylococcus aureus	tet(M)	1397	abricate_ncbi_auto	20191022

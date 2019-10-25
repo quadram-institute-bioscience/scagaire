@@ -1,5 +1,5 @@
 
-class AbricateResult:
+class AbricateResult098:
     def __init__(self, header = []):
         self.file          = None
         self.sequence      = None
