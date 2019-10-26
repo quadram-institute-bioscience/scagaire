@@ -21,7 +21,7 @@ class ScagaireDownload:
         self.min_coverage = options.min_coverage
         self.min_identity = options.min_identity
         self.downloads_directory = options.downloads_directory
-        self.abricate_database = options.abricate_database
+        self.abricate_database = self.parse_abricate_database(options.abricate_database)
         self.verbose = options.verbose
         self.debug = options.debug
         self.minimum_distance = options.minimum_distance
@@ -36,6 +36,9 @@ class ScagaireDownload:
             self.mash_database = str(pkg_resources.resource_filename( __name__, 'data/refseq_reference_20191018.msh'))
         
         self.directories_to_cleanup = []
+        
+    def parse_abricate_database(self, abricate_str):
+        return abricate_str.split(",")
 
     def run(self):
         download_directory = self.downloads_directory
@@ -44,9 +47,11 @@ class ScagaireDownload:
         
         input_files = self.find_input_files(download_directory)
         filtered_input_files = self.remove_species_mismatch(input_files, self.species)
-        files_to_amr_results = self.amr_for_input_files(filtered_input_files)
-        gene_to_freq = self.aggregate_amr_results(files_to_amr_results)
-        SpeciesDatabase(self.output_file, self.species, self.abricate_database ).output_genes_to_freq_file(gene_to_freq)
+        
+        for ab_database in self.abricate_database:
+            files_to_amr_results = self.amr_for_input_files(filtered_input_files, ab_database)
+            gene_to_freq = self.aggregate_amr_results(files_to_amr_results)
+            SpeciesDatabase(self.output_file, self.species, self.ab_database ).output_genes_to_freq_file(gene_to_freq)
         
     def aggregate_amr_results(self, files_to_amr_results):
         gene_to_freq = {}
@@ -110,10 +115,10 @@ class ScagaireDownload:
                 
         return filtered_input_files
         
-    def amr_for_input_files(self, input_files):
+    def amr_for_input_files(self, input_files, database):
         files_to_amr_results = {}
         for f in input_files:
-            amr = AbricateAmrResults(f, self.abricate_database, self.min_coverage, self.min_identity, self.threads, self.verbose ).get_amr_results()
+            amr = AbricateAmrResults(f, database, self.min_coverage, self.min_identity, self.threads, self.verbose ).get_amr_results()
             files_to_amr_results[f] = amr
         return files_to_amr_results
         

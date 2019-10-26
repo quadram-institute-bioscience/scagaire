@@ -9,7 +9,7 @@ data_dir = os.path.join(test_modules_dir, 'data','species_database')
 
 class TestSpeciesDatabase(unittest.TestCase):
     
-    def test_header_only(self):
+    def test_normal(self):
         s = SpeciesDatabase('outputfile', 'genus species', 'ncbi', fixed_time = '20101010')
         s.output_genes_to_freq_file({'abc': 5, 'efg':10, 'zzz123':1})
         self.assertTrue(os.path.exists('outputfile'))

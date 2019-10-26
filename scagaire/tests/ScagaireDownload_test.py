@@ -39,7 +39,7 @@ class TestScagaireDownload(unittest.TestCase):
         filtered_input_files = g.remove_species_mismatch(input_files, 'Salmonella enterica')
         self.assertEqual([os.path.basename(f) for f in filtered_input_files ], ['xdr_genomic.fna.gz'])
         
-        files_to_amr_results = g.amr_for_input_files(filtered_input_files)
+        files_to_amr_results = g.amr_for_input_files(filtered_input_files, 'ncbi')
         amr_results = [f for f in files_to_amr_results.values()][0]
         self.assertEqual(sorted([a.gene for a in amr_results]), ['blaCTX-M-15', 'blaTEM-1', 'qnrS1'])
         

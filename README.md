@@ -181,7 +181,7 @@ optional arguments:
   --refseq_category {all,reference,representative}
                         Quality of the assemblies (default: all)
   --abricate_database ABRICATE_DATABASE
-                        Abricate database (default: ncbi)
+                        Abricate database. Multiple databases can be passed in comma separated (default: ncbi)
   --min_coverage MIN_COVERAGE
                         Min percentage coverage over AMR gene (default: 95)
   --min_identity MIN_IDENTITY
@@ -207,7 +207,7 @@ __downloads_directory__: If you have already downloaded the NCBI genomes using n
 
 __refseq_category__: Dont change this because you will probably make everything stop working.
 
-__abricate_database__: You can choose the gene prediction database to use such as card, resfinder, argannot or ncbi (default). You should be careful when changing it away from the default, because the database bundled uses the ncbi names and other databases can have subtle changes.
+__abricate_database__: You can choose the gene prediction database to use such as card, resfinder, argannot or ncbi (default). You should be careful as each database is different. You can provide multiple databases in a comma separated list (within quotes).
 
 __min_coverage__: The minimum coverage required over a gene to say its present.
 

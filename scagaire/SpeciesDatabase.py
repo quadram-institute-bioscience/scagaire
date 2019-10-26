@@ -12,9 +12,9 @@ class SpeciesDatabase:
 
     #Campylobacter jejuni	blaOXA-785	6	manual_ncbi_website	20191008
     def output_genes_to_freq_file(self, gene_to_freq):
-        with open(self.output_file, "w") as out_fh:
+        with open(self.output_file, "a+") as out_fh:
             for gene, freq in gene_to_freq.items():
-                gene_results = [self.species, gene, str(freq), 'abricate_' + self.database + '_auto']
+                gene_results = [self.species, gene, str(freq), 'abricate' + "\t"+ self.database + "\t" +'auto']
                 
                 if self.fixed_time is None:
                     gene_results.append(datetime.today().strftime('%Y%m%d'))

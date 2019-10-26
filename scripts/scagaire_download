@@ -33,7 +33,7 @@ parser.add_argument('--output_directory', '-i', help='Working output directory',
 parser.add_argument('--minimum_distance',  help='Mash minimum distance threshold', default = 0.1, type=float)
 parser.add_argument('--downloads_directory',  help='Use this directory of NCBI genomes instead of downloading', type=str)
 parser.add_argument('--refseq_category',  help='Quality of the assemblies', type=str, default='all', choices=['all','reference','representative'])
-parser.add_argument('--abricate_database',  help='Abricate database', default = 'ncbi', type=str)
+parser.add_argument('--abricate_database',  help='Abricate database.Multiple databases comma separated', default = 'ncbi', type=str)
 parser.add_argument('--min_coverage',  help='Min percentage coverage over AMR gene', default = 95, type=int)
 parser.add_argument('--min_identity',  help='Min percentage identity over AMR gene', default = 95, type=int)
 parser.add_argument('--debug', action='store_true', help='Turn on debugging', default = False)
