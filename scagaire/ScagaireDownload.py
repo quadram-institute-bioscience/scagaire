@@ -51,7 +51,7 @@ class ScagaireDownload:
         for ab_database in self.abricate_database:
             files_to_amr_results = self.amr_for_input_files(filtered_input_files, ab_database)
             gene_to_freq = self.aggregate_amr_results(files_to_amr_results)
-            SpeciesDatabase(self.output_file, self.species, self.ab_database ).output_genes_to_freq_file(gene_to_freq)
+            SpeciesDatabase(self.output_file, self.species, ab_database ).output_genes_to_freq_file(gene_to_freq)
         
     def aggregate_amr_results(self, files_to_amr_results):
         gene_to_freq = {}
