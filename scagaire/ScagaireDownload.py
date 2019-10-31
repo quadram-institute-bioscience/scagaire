@@ -33,7 +33,7 @@ class ScagaireDownload:
             os.makedirs(self.output_directory)
             
         if self.mash_database is None:
-            self.mash_database = str(pkg_resources.resource_filename( __name__, 'data/refseq_reference_20191018.msh'))
+            self.mash_database = str(pkg_resources.resource_filename( __name__, 'data/refseq_reference_20191031.msh'))
         
         self.directories_to_cleanup = []
         

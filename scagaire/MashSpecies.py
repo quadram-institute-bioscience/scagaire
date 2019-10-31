@@ -16,7 +16,7 @@ class MashSpecies:
         
         if len(mash_output) > 0:
             sketch_match = mash_output.decode().split('/')
-            species = sketch_match[1] + " " + sketch_match[2]
+            species = sketch_match[0] + " " + sketch_match[1]
             return species
         return None
         
