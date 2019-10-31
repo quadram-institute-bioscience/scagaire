@@ -22,6 +22,7 @@ class AbricateAmrResults:
         subprocess.check_output(cmd, shell=True)
         
         ab_parser = Abricate098(abricate_output, self.verbose)
+        os.close(fd)
         os.remove(abricate_output)
         if self.verbose:
             print(str(ab_parser))
