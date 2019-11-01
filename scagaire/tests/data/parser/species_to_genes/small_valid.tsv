@@ -1,4 +1,4 @@
-GenusSpecies	Gene	Occurances
-Acinetobacter baumannii	aac(2')-Ib	85
-Acinetobacter baumannii	aac(3)-I	1144
-Salmonella enterica	aac(3)-II	18
+GenusSpecies	Gene	Occurances	Program	Database
+Acinetobacter baumannii	aac(2')-Ib	85	arbricate	resfinder
+Acinetobacter baumannii	aac(3)-I	1144	arbricate	resfinder
+Salmonella enterica	aac(3)-II	18	arbricate	resfinder

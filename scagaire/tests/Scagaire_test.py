@@ -16,7 +16,8 @@ class TestOptions:
         self.summary_file = summary_file
         self.overwrite_files = overwrite_files
         self.species = species
-        self.database = None
+        self.database_name = 'ncbi'
+        self.database_file = None
         self.verbose = False
 
 class TestScagaire(unittest.TestCase):

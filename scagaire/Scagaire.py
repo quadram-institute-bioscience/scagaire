@@ -11,15 +11,16 @@ class Scagaire:
     def __init__(self, options):
         self.verbose = options.verbose
         self.input_file = options.input_file
-        self.database = options.database
+        self.database_file = options.database_file
+        self.database_name = options.database_name
         self.minimum_occurances = options.minimum_occurances
         self.output_file = options.output_file
         self.results_type = options.results_type
         self.summary_file = options.summary_file
         self.overwrite_files = options.overwrite_files
         
-        if self.database is None:
-            self.database = str(pkg_resources.resource_filename( __name__, 'data/species_to_genes.tsv'))
+        if self.database_file is None:
+            self.database_file = str(pkg_resources.resource_filename( __name__, 'data/species_to_genes.tsv'))
             
         self.config_file = os.path.join(str(pkg_resources.resource_filename( __name__, 'data/')), 'config.json')
         self.species = self.parse_species(options.species)
@@ -62,9 +63,9 @@ class Scagaire:
                 output_fh.write(species + "\t" + "no_results\t0" + "\n")
 
     def run(self):
-        filter_results =  FilterResults(self.input_file, self.database, self.minimum_occurances, self.results_type, self.verbose)
+        filter_results =  FilterResults(self.input_file, self.database_file, self.minimum_occurances, self.results_type, self.database_name, self.verbose)
         
-        sg = SpeciesToGenes(self.database, self.verbose)
+        sg = SpeciesToGenes(self.database_file, self.database_name, self.verbose)
         for spec in self.species:
         
             if spec not in sg.all_species():

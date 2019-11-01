@@ -5,8 +5,9 @@ from tempfile import mkstemp
 from scagaire.SpeciesGenes import SpeciesGenes
 
 class SpeciesToGenes:
-    def __init__(self, input_file, verbose):
+    def __init__(self, input_file, database_name, verbose):
         self.input_file = input_file
+        self.database_name = database_name
         self.verbose = verbose
         self.minimum_num_columns = 3
 
@@ -32,13 +33,13 @@ class SpeciesToGenes:
         for row in file_contents:
             if len(row)< self.minimum_num_columns:
                 continue
-            results.append(SpeciesGenes(str(row[0]), str(row[1]), int(row[2])))
+            results.append(SpeciesGenes(str(row[0]), str(row[1]), int(row[2]), str(row[4])))
         return results
     
     def all_species(self):
         return sorted(list(set([s.species for s in self.species_to_genes])))
         
     def filter_by_species(self, query):
-        return [s for s in self.species_to_genes if s.species == query]
+        return [s for s in self.species_to_genes if s.species == query and s.database_name == self.database_name]
             
             
