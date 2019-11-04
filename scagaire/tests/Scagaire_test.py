@@ -17,7 +17,7 @@ class TestOptions:
         self.overwrite_files = overwrite_files
         self.species = species
         self.database_name = 'ncbi'
-        self.database_file = None
+        self.database_file = os.path.join(data_dir, 'database.tsv')
         self.verbose = False
 
 class TestScagaire(unittest.TestCase):

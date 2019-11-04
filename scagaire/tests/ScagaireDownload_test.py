@@ -34,7 +34,8 @@ class TestScagaireDownload(unittest.TestCase):
         )
         
         input_files = g.find_input_files(data_dir)
-        self.assertEqual([os.path.basename(f) for f in input_files ], ['xdr_genomic.fna.gz'])
+        gzbasenames = [os.path.basename(f) for f in input_files ]
+        self.assertEqual(gzbasenames, ['xdr_genomic.fna.gz'])
         
         filtered_input_files = g.remove_species_mismatch(input_files, 'Salmonella enterica')
         self.assertEqual([os.path.basename(f) for f in filtered_input_files ], ['xdr_genomic.fna.gz'])
