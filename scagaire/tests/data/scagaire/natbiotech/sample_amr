@@ -1,0 +1,43 @@
+Sample	Cultured_organisms	AMR_genes
+S1	Escherichia coli	TEM-4	sul1 	mphA 	dfrA17	aadA5	TEM-176	ACT-5 
+S2	Klebsiella pneumoniae	oqxB	oqxA	InuA	tetM
+S3	Pseudomonas aeruginosa	OXA-50	catB7	mefA	mel	APH(3’)-llb
+S4	Serratia marcescens	AAC(6’)-lc	mel	oqxB
+S5	Klebsiella oxytoca	OXY-4-1 	oqxB 	APH(3')-Ia	vgaC 
+S6	Staphylococcus aureus	tet38 
+S7	Haemophilus influenzae	tetM 	tetO	IsaC 
+S8	Moraxella catarrhalis	mefA	mel 	tetM
+S9	Pseudomonas aeruginosa,Escherichia coli	ermC 	TEM-4	sul1	aadA2	AAC(3’)-lla mphA	dfrA12	AAC(3’)-llc	tetC 
+S10	NA	mefA	tetM	mel	tetO
+S11	NA	mefA	mel	TEM-4	tetC
+S12	NA	TEM-4	tetM	mel	mefA	TEM-34
+S13	Serratia marcescens	AAC(6’)-lc	oqxB
+S14	Staphylococcus aureus	tet38 	tetM 	mel 	tetQ
+S15	Staphylococcus aureus	tet38 	mefA	mel	tetM 	tetW	TEM-4
+S16	Staphylococcus aureus	tet38 	mecA 	tetM 	ErmB 	tetC	TEM-4
+S17	NA	tetM	mel	mefA	TEM-4	tetC	tetQ	ErmF	CfxA3
+S18	Haemophilus influenzae	TEM-4	TEM-105 	tetM 	TEM-198	TEM-15 	TEM-70 	TEM-95
+S19	NA	mel	mefA	tetM	tetW	TEM-4	ErmX
+S20	Haemophilus influenzae	tetO	mefA	tetM	mel
+S21	NA	mel	mefA	tetM	tet32
+S22	NA	tetM	mel	tetQ	mefA
+S23	Haemophilus influenzae	tetM	mel	mefA	TEM-4
+S24	Haemophilus influenzae	mel	tetM	mefA	tetO	tetD	tet32	tetW	tetA
+S25	Haemophilus influenzae	mefA	mel	TEM-4
+S26	Moraxella catarrhalis	mel	mefA	tetO	tetM	tetC
+S27	Haemophilus influenzae,Staphylococcus aureus	ermT	tet38	tetM	mefA
+S28	NA	mel	TEM-4	mefA	tetM	tetC	lsaC
+S29	Pseudomonas aeruginosa	OXA-50	TEM-4	catB7	tet38
+S30	Pseudomonas aeruginosa	OXA-50	catB7	TEM-4	tetC
+S31	NA	TEM-4	tetC
+S32	NA	TEM-4	AAC(3)-lla	AAC(3)-llc	vgaC	TEM-1
+S33	NA	mel	mefA	tetC
+S34	NA	tetM	lsaA	TEM-4	ErmB	tetC
+S35	Escherichia coli	TEM-4	TEM-2	TEM-84	ACT-5	tetC	TEM-20	TEM-16	TEM-80
+S36	Haemophilus influenzae	mefA	ErmB	Mel	TEM-4	tetM
+S37	Pseudomonas aeruginosa	catB7	OXA-50	TEM-4
+S38	Pseudomonas aeruginosa,Staphylococcus aureus	TEM-4	tetC	tet38
+S39	Haemophilus influenzae	mefA	mel	TEM-4	tetC
+S40	Staphylococcus aureus	mecA	tet38	tetC	TEM-4
+S41	Staphylococcus aureus,Haemophilus influenzae	TEM-4	tetC	TEM-112 TEM-84	AAC(3)-llc TEM-141
+			

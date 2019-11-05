@@ -9,7 +9,7 @@ data_dir = os.path.join(test_modules_dir, 'data','parser','species_to_genes')
 class TestSpeciesToGenes(unittest.TestCase):
     
     def test_small_valid(self):
-        a = SpeciesToGenes(os.path.join(data_dir, 'small_valid.tsv'), 'resfinder',False )
+        a = SpeciesToGenes(os.path.join(data_dir, 'small_valid.tsv'), False )
         
         output_strs = [ str(s) for s in a.species_to_genes]
         
@@ -19,9 +19,9 @@ class TestSpeciesToGenes(unittest.TestCase):
             'Salmonella enterica\taac(3)-II\t18\tresfinder'])
             
         self.assertEqual(a.all_species(), ['Acinetobacter baumannii', 'Salmonella enterica'])
-        self.assertEqual([ str(s) for s in a.filter_by_species('Salmonella enterica')], 
+        self.assertEqual([ str(s) for s in a.filter_by_species('Salmonella enterica', 'resfinder')], 
             ['Salmonella enterica\taac(3)-II\t18\tresfinder'])
-        self.assertEqual([ str(s) for s in a.filter_by_species('Acinetobacter baumannii')], 
+        self.assertEqual([ str(s) for s in a.filter_by_species('Acinetobacter baumannii', 'resfinder')], 
             ["Acinetobacter baumannii\taac(2')-Ib\t85\tresfinder", 
             'Acinetobacter baumannii\taac(3)-I\t1144\tresfinder'])
         

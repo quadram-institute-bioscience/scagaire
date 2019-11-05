@@ -65,7 +65,7 @@ class Scagaire:
     def run(self):
         filter_results =  FilterResults(self.input_file, self.database_file, self.minimum_occurances, self.results_type, self.database_name, self.verbose)
         
-        sg = SpeciesToGenes(self.database_file, self.database_name, self.verbose)
+        sg = SpeciesToGenes(self.database_file, self.verbose)
         for spec in self.species:
         
             if spec not in sg.all_species():

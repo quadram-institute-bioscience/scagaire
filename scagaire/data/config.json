@@ -9,16 +9,25 @@
             "Listeria monocytogenes", 
             "Salmonella enterica",
             "Vibrio cholerae"],
-        "respiratory": ["Escherichia coli", 
-            "Haemophilus influenzae", 
-            "Klebsiella pneumoniae", 
-            "Pseudomonas aeruginosa", 
-            "Legionella pneumophila", 
-            "Mycobacterium tuberculosis", 
-            "Streptococcus pneumoniae"],
+        "respiratory": ["Enterobacter aerogenes",
+            "Enterobacter cloacae",
+            "Escherichia coli",
+            "Haemophilus influenzae",
+            "Klebsiella oxytoca",
+            "Klebsiella pneumoniae",
+            "Moraxella catarrhalis",
+            "Proteus mirabilis",
+            "Pseudomonas aeruginosa",
+            "Serratia marcescens",
+            "Staphylococcus aureus",
+            "Streptococcus pneumoniae",
+            "Streptococcus pyogenes"],
         "skin": ["Mycobacterium leprae", 
             "Pseudomonas aeruginosa", 
             "Staphylococcus aureus", 
             "Streptococcus agalactiae"]
     }
 }
+
+
+

@@ -16,7 +16,7 @@ class FilterResults:
 
     def filter_by_species(self, species):
         all_results = IdentifyResults(self.results_filename, self.results_type, self.verbose).get_results()
-        species_genes = SpeciesToGenes(self.database_filename, self.database_name, self.verbose).filter_by_species(species)
+        species_genes = SpeciesToGenes(self.database_filename, self.verbose).filter_by_species(species, self.database_name)
     
         # put the gene names in a dictionary for quick lookup 
         # and filter out low occuring genes.
