@@ -24,7 +24,7 @@ parser.add_argument('input_file', help='Input file of AMR results from Abricate 
 
 # Inputs
 parser.add_argument('--database_file', '-d',  help='Database file of species to genes. Defaults to bundled', type=str )
-parser.add_argument('--database_name', '-d',  help='Database name from abricate',  choices=['argannot','card','ncbi', 'plasmidfinder', 'resfinder', 'vfdb'], default = 'resfinder', type=str )
+parser.add_argument('--database_name', '-n',  help='Database name from abricate',  choices=['argannot','card','ncbi', 'plasmidfinder', 'resfinder', 'vfdb'], default = 'resfinder', type=str )
 parser.add_argument('--results_type', '-t',  help='Format of input results. Defaults to automatically detecting format.', choices=['abricate','rgi','staramr'], type=str )
 
 # Output
