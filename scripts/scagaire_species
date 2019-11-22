@@ -9,14 +9,16 @@ from scagaire.ScagaireSpecies import ScagaireSpecies
 
 version = ''
 try:
-	version = pkg_resources.get_distribution("scagaire").version
+    version = pkg_resources.get_distribution("scagaire").version
 except pkg_resources.DistributionNotFound:
-	version = 'x.y.z'
+    version = 'x.y.z'
 
 parser = argparse.ArgumentParser(
-	description = 'List all available species',
-	usage = 'scagaire_species [options]',
+    description = 'List all available species',
+    usage = 'scagaire_species [options]',
     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument('--overview', '-o', action='store_true', help='Print out an overview of the database', default = False)
+parser.add_argument('--detailed', '-d', action='store_true', help='Turn on detailed output', default = False)
 parser.add_argument('--debug', action='store_true', help='Turn on debugging', default = False)
 parser.add_argument('--verbose', '-v', action='store_true', help='Turn on verbose output', default = False)
 parser.add_argument('--version', action='version', version=str(version))
@@ -28,7 +30,7 @@ if options.debug:
     pr = cProfile.Profile()
     pr.enable()
     
-    ScagaireSpecies(options.verbose).print_all()
+    ScagaireSpecies(options.verbose, options.detailed, options.overview).print_all()
     
     pr.disable()
     s = io.StringIO()
@@ -37,4 +39,4 @@ if options.debug:
     ps.print_stats()
     print(s.getvalue())
 else:
-    ScagaireSpecies(options.verbose).print_all()
+    ScagaireSpecies(options.verbose, options.detailed, options.overview).print_all()

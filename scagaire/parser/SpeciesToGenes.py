@@ -38,6 +38,29 @@ class SpeciesToGenes:
     def all_species(self):
         return sorted(list(set([s.species for s in self.species_to_genes])))
         
+    def all_databases(self):
+        return sorted(list(set([s.database_name for s in self.species_to_genes])))
+        
+    def all_genes(self):
+        return sorted(list(set([s.gene for s in self.species_to_genes])))    
+        
+    def num_of_all_species(self):
+        return len(self.all_species())
+        
+    def num_of_all_databases(self):
+        return len(self.all_databases())
+        
+    def num_of_all_genes(self):
+        return len(self.all_genes())
+    
+    def sum_of_occurances(self):
+        return sum([s.occurances for s in self.species_to_genes])
+        
+    def species_databases(self, query):
+        specific_species = [s for s in self.species_to_genes if s.species == query]
+        databases = sorted(list(set([s.database_name for s in specific_species])))
+        return databases
+        
     def filter_by_species(self, query, database_name):
         return [s for s in self.species_to_genes if s.species == query and s.database_name == database_name]
             
