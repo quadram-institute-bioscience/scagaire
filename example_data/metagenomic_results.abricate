@@ -1,0 +1,138 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+assembly.fasta	contig_10165	108800	110741	+	tet(M)	1-1920/1920	========/======	36/40	99.53	97.18	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE
+assembly.fasta	contig_10292	15287	15881	-	tet(Q)	1-588/1926	=====.../......	5/7	30.53	97.98	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_10429	1149	3084	-	tet(O)	1-1920/1920	========/======	40/50	99.11	92.78	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_10738	51134	51741	+	tet(Q)	1-599/1926	=====.../......	7/9	31.10	98.52	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1087	111225	111448	+	catB1	321-544/630	.......=/=====.	2/2	35.40	76.00	ncbi	NG_047600.1	type B-1 chloramphenicol O-acetyltransferase CatB1	CHLORAMPHENICOL
+assembly.fasta	contig_11158	172290	172900	+	tet(Q)	1-599/1926	=====.../......	7/12	31.10	97.55	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1132	6542	8473	-	tet(M)	1-1920/1920	========/======	26/34	99.43	97.84	ncbi	NG_048229.1	tetracycline resistance ribosomal protection protein Tet(M)	TETRACYCLINE
+assembly.fasta	contig_11429	1	770	+	tet(W)	1171-1904/1920	......../======	35/58	37.66	86.56	ncbi	NG_048286.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_1240	27606	29554	+	tet(O)	1-1920/1920	========/======	23/31	99.95	98.41	ncbi	NG_048255.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_12401	594	1782	+	tet(X)	1-1167/1167	========/======	19/22	100.00	98.07	ncbi	NG_048304.1	tetracycline-inactivating monooxygenase Tet(X)	TETRACYCLINE
+assembly.fasta	contig_12401	1997	2723	-	erm(F)	95-801/801	.=======/======	18/24	88.01	96.57	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_12566	356936	358885	-	tet(Q)	1-1923/1926	========/======	19/29	99.79	98.36	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_12602	14577	15805	+	mef(A)	5-1221/1227	========/======	15/18	98.94	96.10	ncbi	NG_047970.1	macrolide efflux MFS transporter Mef(A)	MACROLIDE
+assembly.fasta	contig_12602	15880	16456	+	spw	236-810/810	....====/======	4/4	70.86	86.85	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw	AMINOGLYCOSIDE
+assembly.fasta	contig_12602	17284	19229	+	tet(Q)	1-1926/1926	========/======	19/24	99.90	98.10	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_12817	10073	10273	+	vanU-G	1-200/228	========/=====.	1/1	87.72	79.10	ncbi	NG_048466.1	glycopeptide resistance transcriptional regulator VanU	VANCOMYCIN
+assembly.fasta	contig_12817	10300	11018	+	vanR-G	1-705/708	========/======	15/22	99.01	78.01	ncbi	NG_048411.1	VanG-type vancomycin resistance DNA-binding response regulator VanR	VANCOMYCIN
+assembly.fasta	contig_12817	12994	13822	+	vanW-G	27-846/846	========/======	15/25	95.98	82.08	ncbi	NG_048471.1	glycopeptide resistance accessory protein VanW-G	VANCOMYCIN
+assembly.fasta	contig_12817	13833	14882	+	vanG	12-1050/1050	========/======	10/15	98.76	91.25	ncbi	NG_048369.1	D-alanine--D-serine ligase VanG	VANCOMYCIN
+assembly.fasta	contig_12817	14879	15643	+	vanXY-G2	1-754/765	========/======	8/11	98.56	90.85	ncbi	NG_048502.1	D-Ala-D-Ala dipeptidase/D-Ala-D-Ala carboxypeptidase VanXY-G2	VANCOMYCIN
+assembly.fasta	contig_1282	2858	3074	-	tet(O)	1-217/1920	==.............	0/0	11.30	98.16	ncbi	NG_048261.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_1288	293921	295862	+	tet(O)	1-1920/1920	========/======	18/24	99.95	98.66	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_12920	28259	29176	-	cepA	1-903/903	========/======	11/15	100.00	98.15	ncbi	NG_047625.1	CepA family class A extended-spectrum beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_13002	658804	659572	-	aad9	10-766/777	========/======	10/12	97.43	75.94	ncbi	NG_047322.1	ANT(9) family aminoglycoside nucleotidyltransferase	AMINOGLYCOSIDE
+assembly.fasta	contig_13084	40478	40608	+	vanO	272-402/1041	...===.........	0/0	12.58	78.63	ncbi	NG_048398.1	D-alanine--(R)-lactate ligase VanO	VANCOMYCIN
+assembly.fasta	contig_135	4083	5313	-	tet(40)	1-1221/1221	========/======	9/10	100.00	98.70	ncbi	NG_048141.1	tetracycline efflux MFS transporter Tet(40)	TETRACYCLINE
+assembly.fasta	contig_135	5458	7404	-	tet(O)	4-1920/1920	========/======	25/32	99.79	98.05	ncbi	NG_048267.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_13510	626079	626833	-	tet(W)	1172-1920/1920	......../======	4/6	39.01	98.81	ncbi	NG_048300.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_13723	17137	17783	+	tetA(46)	1-645/1725	======../......	21/36	36.41	92.02	ncbi	NG_048312.1	tetracycline efflux ABC transporter Tet(46) subunit A	TETRACYCLINE
+assembly.fasta	contig_1389	150416	151291	-	blaACI-1	1-855/855	========/======	16/23	99.88	97.26	ncbi	NG_048596.1	class A extended-spectrum beta-lactamase ACI-1	CEPHALOSPORIN
+assembly.fasta	contig_13915	19866	21827	-	tet(Q)	1-1923/1926	========/======	28/39	99.84	88.79	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_13915	22121	22759	-	erm(F)	181-801/801	...=====/======	14/22	77.28	95.79	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_13915	23710	23899	-	erm(F)	1-186/801	====..../......	3/4	23.22	97.37	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_1392	231571	232075	+	lnu(C)	1-495/495	========/======	7/10	100.00	97.03	ncbi	NG_047924.1	lincosamide nucleotidyltransferase Lnu(C)	LINCOSAMIDE
+assembly.fasta	contig_13966	20448	20575	+	vanO	274-401/1041	...===.........	0/0	12.30	78.12	ncbi	NG_048398.1	D-alanine--(R)-lactate ligase VanO	VANCOMYCIN
+assembly.fasta	contig_14013	121203	122097	-	cblA	1-891/891	========/======	3/4	100.00	99.22	ncbi	NG_047624.1	CblA family class A beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_14092	1807	2894	+	tet(40)	142-1221/1221	.=======/======	7/8	88.45	98.81	ncbi	NG_048139.1	tetracycline efflux MFS transporter Tet(40)	TETRACYCLINE
+assembly.fasta	contig_14299	3486	4355	-	aadE	1-867/867	========/======	13/19	99.08	97.84	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_14453	8644	9411	+	erm(Q)	1-774/774	========/======	10/18	98.45	97.69	ncbi	NG_047835.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(Q)	MACROLIDE
+assembly.fasta	contig_1455	105181	105319	+	vanR-G	223-360/708	....====/......	1/1	19.49	78.42	ncbi	NG_048411.1	VanG-type vancomycin resistance DNA-binding response regulator VanR	VANCOMYCIN
+assembly.fasta	contig_14616	16197	18148	+	tet(O)	1-1920/1920	========/======	24/32	100.00	97.13	ncbi	NG_048262.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_14871	983	1121	+	vanO	264-402/1041	...===.........	0/0	13.35	76.98	ncbi	NG_048398.1	D-alanine--(R)-lactate ligase VanO	VANCOMYCIN
+assembly.fasta	contig_14889	15028	15630	-	tet(Q)	1-593/1926	=====.../......	8/10	30.79	98.34	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_15255	1616	3571	+	tet(32)	4-1920/1920	========/======	28/41	99.79	97.09	ncbi	NG_048125.1	tetracycline resistance ribosomal protection protein Tet(32)	TETRACYCLINE
+assembly.fasta	contig_1534	16758	17510	-	tet(W)	1154-1919/1920	......../======	24/35	38.65	85.20	ncbi	NG_048300.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_1565	1494	2363	+	aadE	1-867/867	========/======	11/17	99.19	97.95	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_1608	173215	173442	+	taeA	1264-1490/1947	......../.==...	5/5	11.56	75.22	ncbi	NG_063829.1	ABC-F type ribosomal protection protein TaeA	TIAMULIN
+assembly.fasta	contig_1623	298594	299200	+	tet(Q)	1-599/1926	=====.../......	5/8	31.10	97.86	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1649	244740	245345	+	tet(Q)	1-599/1926	=====.../......	5/7	31.10	98.84	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_1669	691347	692223	+	aadE	1-867/867	========/======	9/10	100.00	98.63	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_17011	5066	7007	-	tet(O)	4-1920/1920	========/======	21/27	99.79	98.56	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_17061	7093	7599	-	tet(O)	4-506/1920	====..../......	8/8	26.09	98.03	ncbi	NG_048257.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_1740	58850	59071	+	tet(37)	1-222/327	===========....	0/0	67.89	76.58	ncbi	NG_048132.1	tetracycline resistance NADPH-dependent oxidoreductase Tet(37)	TETRACYCLINE
+assembly.fasta	contig_17430	1	759	+	tet(W)	1149-1904/1920	......../======	5/5	39.32	96.97	ncbi	NG_048284.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_17485	58798	60076	+	tetA(P)	1-1263/1263	========/======	17/20	99.84	98.36	ncbi	NG_048316.1	tetracycline efflux MFS transporter TetA(P)	TETRACYCLINE
+assembly.fasta	contig_17485	60060	62035	+	tetB(P)	1-1959/1959	========/======	28/35	99.54	96.78	ncbi	NG_048319.1	tetracycline resistance ribosomal protection protein TetB(P)	TETRACYCLINE
+assembly.fasta	contig_1822	57862	58362	+	dfrF	1-495/495	========/======	5/6	100.00	98.80	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF	TRIMETHOPRIM
+assembly.fasta	contig_1936	18721	19913	+	tet(X)	1-1167/1167	========/======	22/26	100.00	97.65	ncbi	NG_048304.1	tetracycline-inactivating monooxygenase Tet(X)	TETRACYCLINE
+assembly.fasta	contig_1936	20130	20954	-	erm(F)	1-801/801	========/======	19/24	100.00	96.85	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_2017	77056	78248	+	tet(X)	1-1167/1167	========/======	19/26	100.00	97.40	ncbi	NG_048304.1	tetracycline-inactivating monooxygenase Tet(X)	TETRACYCLINE
+assembly.fasta	contig_2017	78464	79281	-	erm(F)	1-801/801	========/======	15/21	99.75	97.32	ncbi	NG_047825.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)	MACROLIDE
+assembly.fasta	contig_2061	141977	142799	+	cepA	77-890/903	.=======/======	7/9	90.14	76.55	ncbi	NG_047627.1	CepA family class A extended-spectrum beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_2230	15270	15870	-	tet(Q)	1-593/1926	=====.../......	6/8	30.79	98.67	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_2392	24896	25124	+	vanU-G	1-228/228	========/======	1/1	100.00	77.29	ncbi	NG_048466.1	glycopeptide resistance transcriptional regulator VanU	VANCOMYCIN
+assembly.fasta	contig_2392	25127	25836	+	vanR-G	1-705/708	========/======	12/15	98.87	77.62	ncbi	NG_048411.1	VanG-type vancomycin resistance DNA-binding response regulator VanR	VANCOMYCIN
+assembly.fasta	contig_2392	27847	28035	+	vanW-G	26-215/846	====..../......	2/3	22.22	79.58	ncbi	NG_048468.1	glycopeptide resistance accessory protein VanW-G	VANCOMYCIN
+assembly.fasta	contig_2486	1	774	+	tet(W)	1153-1920/1920	......../======	5/6	40.00	99.22	ncbi	NG_055990.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_261	39427	40190	+	aad9	1-777/777	========/======	27/51	95.88	88.94	ncbi	NG_047322.1	ANT(9) family aminoglycoside nucleotidyltransferase	AMINOGLYCOSIDE
+assembly.fasta	contig_2787	19453	19956	-	lnu(C)	1-495/495	========/======	5/9	100.00	97.42	ncbi	NG_047924.1	lincosamide nucleotidyltransferase Lnu(C)	LINCOSAMIDE
+assembly.fasta	contig_2787	21444	22227	-	aad9	1-777/777	========/======	9/9	99.87	98.73	ncbi	NG_047322.1	ANT(9) family aminoglycoside nucleotidyltransferase	AMINOGLYCOSIDE
+assembly.fasta	contig_2803	62309	62641	-	tet(32)	1592-1920/1920	......../...===	3/4	17.14	96.70	ncbi	NG_048125.1	tetracycline resistance ribosomal protection protein Tet(32)	TETRACYCLINE
+assembly.fasta	contig_2803	62637	63392	-	tet(W)	1152-1891/1920	......../======	26/42	37.86	90.64	ncbi	NG_048300.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_2831	1	774	+	tet(W)	1152-1920/1920	......../======	5/7	40.00	98.97	ncbi	NG_048291.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_3047	17563	18382	-	cepA	79-893/903	.=======/======	12/13	89.81	79.73	ncbi	NG_047625.1	CepA family class A extended-spectrum beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_3179	1128	3073	-	tet(O)	1-1920/1920	========/======	23/28	99.95	98.00	ncbi	NG_048267.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_319	151438	151601	-	vanS-D	930-1092/1146	......../...===	1/1	14.22	76.83	ncbi	NG_048426.1	VanD-type vancomycin resistance histidine kinase VanS	VANCOMYCIN
+assembly.fasta	contig_3239	2304	4213	-	tet(O)	4-1920/1920	========/======	31/53	98.28	96.08	ncbi	NG_048267.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_3250	17795	19755	-	tet(Q)	1-1923/1926	========/======	27/38	99.84	97.91	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_327	1626478	1627215	-	tet(W)	1187-1920/1920	......../======	2/4	38.23	99.32	ncbi	NG_048297.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_334	77718	79659	-	tet(W)	1-1920/1920	========/======	22/26	99.90	98.41	ncbi	NG_048290.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_3411	12616	13436	+	cepA	79-893/903	.=======/======	12/12	89.92	79.85	ncbi	NG_047625.1	CepA family class A extended-spectrum beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_3632	73122	73963	-	aph(6)-Id	1-837/837	========/======	4/5	100.00	99.29	ncbi	NG_047464.1	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+assembly.fasta	contig_3632	73963	74240	-	aph(3'')-Ib	528-804/804	......../.=====	1/1	34.45	99.64	ncbi	NG_047413.1	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+assembly.fasta	contig_3632	74318	74800	-	dfrA14	1-474/474	========/======	5/9	100.00	98.14	ncbi	NG_047696.1	trimethoprim-resistant dihydrofolate reductase DfrA14	TRIMETHOPRIM
+assembly.fasta	contig_3632	74817	75349	-	aph(3'')-Ib	2-532/804	========/==....	3/4	65.92	98.88	ncbi	NG_047413.1	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+assembly.fasta	contig_3632	75412	76229	-	sul2	1-816/816	========/======	2/2	100.00	99.76	ncbi	NG_051852.1	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+assembly.fasta	contig_3934	311446	312210	-	aad9	10-766/777	========/======	5/8	97.43	76.08	ncbi	NG_047322.1	ANT(9) family aminoglycoside nucleotidyltransferase	AMINOGLYCOSIDE
+assembly.fasta	contig_4000	2013813	2014583	-	tet(W)	1156-1920/1920	......../======	5/6	39.84	98.96	ncbi	NG_048290.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_4013	450	2407	+	tet(Q)	1-1926/1926	========/======	23/32	100.00	98.21	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_4020	1	777	+	tet(W)	1150-1920/1920	......../======	7/8	40.10	98.84	ncbi	NG_048286.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_409	1617	3571	+	tet(32)	1-1920/1920	========/======	25/37	99.95	97.50	ncbi	NG_048125.1	tetracycline resistance ribosomal protection protein Tet(32)	TETRACYCLINE
+assembly.fasta	contig_427	21554	22320	-	erm(B)	1-747/747	========/======	14/22	99.87	96.48	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	MACROLIDE
+assembly.fasta	contig_4365	370672	371278	+	tet(Q)	1-599/1926	=====.../......	6/8	31.10	98.35	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_4530	3	775	+	tet(W)	1153-1920/1920	......../======	4/5	40.00	97.41	ncbi	NG_048284.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_4543	101820	102431	+	tet(Q)	1-602/1926	=====.../......	8/10	31.26	98.20	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_4728	1	770	+	tet(W)	1156-1920/1920	......../======	5/7	39.79	98.96	ncbi	NG_048286.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_4753	9305	9990	-	vanR-Cd	1-696/702	========/======	10/16	97.29	76.25	ncbi	NG_061618.1	VanG-Cd-type vancomycin resistance DNA-binding response regulator VanS	VANCOMYCIN
+assembly.fasta	contig_4778	6402	6533	+	vanO	280-411/1041	....==.........	0/0	12.68	77.27	ncbi	NG_048398.1	D-alanine--(R)-lactate ligase VanO	VANCOMYCIN
+assembly.fasta	contig_4857	22647	23525	-	aadE	1-867/867	========/======	10/12	100.00	98.52	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_4868	63639	64245	+	tet(Q)	1-599/1926	=====.../......	6/8	31.10	98.68	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_4913	30233	31197	-	cfxA6	5-963/963	========/======	5/6	99.58	99.07	ncbi	NG_064793.1	class A broad-spectrum beta-lactamase CfxA6	BETA-LACTAM
+assembly.fasta	contig_4935	15274	15869	-	tet(Q)	1-588/1926	=====.../......	6/8	30.53	98.15	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_5036	2074	4028	-	tet(Q)	1-1923/1926	========/======	23/32	99.84	98.26	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_5095	14716	15587	+	aadE	1-867/867	========/======	12/15	99.42	98.18	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_5295	17642	18521	-	aadE	1-867/867	========/======	10/13	100.00	98.30	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_5409	785572	786178	+	tet(Q)	1-599/1926	=====.../......	6/8	31.10	98.19	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_541	961399	962009	+	tet(Q)	1-602/1926	=====.../......	7/9	31.26	98.20	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_5430	5548	7489	+	tet(O)	1-1920/1920	========/======	19/24	99.95	98.20	ncbi	NG_048267.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_5478	36851	37614	+	erm(B)	4-747/747	========/======	16/22	99.46	96.73	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	MACROLIDE
+assembly.fasta	contig_605	1272159	1272794	-	catA13	1-624/624	========/======	11/16	99.68	94.36	ncbi	NG_047588.1	type A-13 chloramphenicol O-acetyltransferase	CHLORAMPHENICOL
+assembly.fasta	contig_6069	498715	499937	+	mef(En2)	1-1206/1206	========/======	15/19	99.92	98.28	ncbi	NG_047980.1	macrolide efflux MFS transporter Mef(En2)	MACROLIDE
+assembly.fasta	contig_6069	499962	500480	+	lnu(AN2)	1-513/513	========/======	6/6	100.00	98.84	ncbi	NG_047920.1	lincosamide nucleotidyltransferase Lnu(AN2)	LINCOSAMIDE
+assembly.fasta	contig_6125	38853	39484	-	catA13	1-624/624	========/======	12/18	99.20	96.86	ncbi	NG_047588.1	type A-13 chloramphenicol O-acetyltransferase	CHLORAMPHENICOL
+assembly.fasta	contig_6283	1	262	-	tet(W)	1-274/1923	==....../......	7/16	13.52	89.86	ncbi	NG_048295.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_650	46130	47008	+	aadE	1-867/867	========/======	13/16	99.77	98.18	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE	STREPTOMYCIN
+assembly.fasta	contig_680	346362	346446	-	cfr(C)	1056-1140/1140	.............==	0/0	7.46	100.00	ncbi	NG_060579.1	23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr(C)	MACROLIDE/LINCOSAMIDE/STREPTOGRAMIN
+assembly.fasta	contig_680	346588	347398	-	aph(3')-IIIa	1-795/795	========/======	13/16	100.00	97.90	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa	AMIKACIN/KANAMYCIN
+assembly.fasta	contig_680	347495	348045	-	sat4	1-541/543	========/======	7/10	99.63	98.19	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4	STREPTOTHRICIN
+assembly.fasta	contig_680	348042	348963	-	ant(6)-Ia	1-909/909	========/======	10/13	100.00	95.99	ncbi	NG_047395.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia	STREPTOMYCIN
+assembly.fasta	contig_7009	187498	188104	+	tet(Q)	1-599/1926	=====.../......	6/8	31.10	97.86	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_7221	116977	117585	+	tet(Q)	1-599/1965	=====.../......	7/10	30.48	97.70	ncbi	NG_048271.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_7588	1	244	+	tet(W)	1677-1920/1920	......../....==	2/2	12.66	99.18	ncbi	NG_048297.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_7601	9523	10291	-	tet(W)	1157-1920/1920	......../======	6/7	39.74	93.25	ncbi	NG_055990.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_7695	19150	19905	-	tet(W)	1150-1904/1920	......../======	5/7	39.17	99.08	ncbi	NG_048297.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_7855	15281	15876	-	tet(Q)	1-587/1926	=====.../......	7/9	30.48	98.49	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_800	8779	8854	+	tet(W)	1-76/1920	=..............	0/0	3.96	100.00	ncbi	NG_048297.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_8118	24328	24866	-	aac(6')-Im	1-537/537	========/======	7/8	99.44	98.16	ncbi	NG_047306.1	aminoglycoside N-acetyltransferase AAC(6')-Im	AMIKACIN/KANAMYCIN/TOBRAMYCIN
+assembly.fasta	contig_8118	24914	25811	-	aph(2'')-IIa	1-898/900	========/======	10/10	99.22	98.78	ncbi	NG_047400.1	aminoglycoside O-phosphotransferase APH(2'')-IIa	AMIKACIN/GENTAMICIN/KANAMYCIN/TOBRAMYCIN
+assembly.fasta	contig_8279	13149	13277	+	car(A)	562-690/1656	....==../......	2/2	7.73	80.00	ncbi	NG_047561.1	ABC-F type ribosomal protection protein Car(A)	MACROLIDE
+assembly.fasta	contig_86	2641628	2642776	+	blaEC	1-1134/1134	========/======	14/17	99.91	98.09	ncbi	NG_047494.1	BlaEC family class C beta-lactamase	BETA-LACTAM
+assembly.fasta	contig_863	118497	119086	+	tet(Q)	1-581/1926	=====.../......	7/9	30.17	97.80	ncbi	NG_048270.1	tetracycline resistance ribosomal protection protein Tet(Q)	TETRACYCLINE
+assembly.fasta	contig_9064	142419	143389	+	cfxA_gen	9-966/966	========/======	10/13	99.17	98.56	ncbi	NG_047634.1	CfxA family class A broad-spectrum beta-lactamase	BETA-LACTAM
+assembly.fasta	contig_9460	17147	19074	+	tet(O)	1-1920/1920	========/======	27/38	99.22	97.48	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_9473	17322	19268	+	tet(O)	1-1920/1920	========/======	21/27	100.00	98.36	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+assembly.fasta	contig_9737	36415	37184	-	tet(W)	1155-1920/1920	......../======	3/4	39.90	95.71	ncbi	NG_048300.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE
+assembly.fasta	contig_9899	109685	109836	-	cblA	658-809/891	...........===.	0/0	17.06	75.66	ncbi	NG_047624.1	CblA family class A beta-lactamase	CEPHALOSPORIN
+assembly.fasta	contig_9949	3459	4087	-	catP	1-624/624	========/======	4/7	99.84	82.38	ncbi	NG_047623.1	type A-11 chloramphenicol O-acetyltransferase CatP	CHLORAMPHENICOL
