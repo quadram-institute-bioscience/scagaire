@@ -1,14 +1,15 @@
 # Scagaire
 [![Build Status](https://travis-ci.org/quadram-institute-bioscience/scagaire.svg?branch=master)](https://travis-ci.org/quadram-institute-bioscience/scagaire)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-brightgreen.svg)](https://github.com/quadram-institute-bioscience/scagaire/blob/master/LICENSE)
-[![codecov](https://codecov.io/gh/andrewjpage/scagaire/branch/master/graph/badge.svg)](https://codecov.io/gh/andrewjpage/scagaire)
-[![Docker Pulls](https://img.shields.io/docker/pulls/andrewjpage/scagaire.svg)](https://hub.docker.com/r/andrewjpage/scagaire)  
+[![codecov](https://codecov.io/gh/quadram-institute-bioscience/scagaire/branch/master/graph/badge.svg)](https://codecov.io/gh/quadram-institute-bioscience/scagaire)
+[![Docker Pulls](https://img.shields.io/docker/pulls/quadraminstitute/scagaire.svg)](https://hub.docker.com/r/quadraminstitute/scagaire)  
 
 # Contents
   * [Introduction](#introduction)
   * [Installation](#installation)
 	* [Conda](#conda)
     * [Docker](#docker)
+    * [Galaxy](#galaxy)
   * [Usage](#usage)
   * [License](#license)
   * [Feedback/Issues](#feedbackissues)
@@ -44,12 +45,12 @@ pip install git+git://github.com/quadram-institute-bioscience/scagaire.git
 Install [Docker](https://www.docker.com/).  There is a docker container which gets automatically built from the latest version of Scagaire. To install it:
 
 ```
-docker pull andrewjpage/scagaire
+docker pull quadraminstitute/scagaire
 ```
 
 To use it you would use a command such as this (substituting in your filename/directories), using the example file in this repository:
 ```
-docker run --rm -it -v /path/to/example_data:/example_data andrewjpage/scagaire scagaire xxxxx
+docker run --rm -it -v /path/to/example_data:/example_data quadraminstitute/scagaire scagaire xxxxx
 ```
 
 # Usage
@@ -228,23 +229,21 @@ __version__: Print the version of the software and exit. If the version is 'x.y.
 # Method
 The public archives of NCBI and EBI contain hundreds of thousands of bacterial pathogen isolates. Most are derived from short read sequencing data and have been assembled de novo with SKEASA [ref]. We can use this genomic information to survey the AMR gene landscape in the public domain. We focus only on acquired genes causing resistance rather than point mutations. There is substantial sampling bias in the underlying datasets towards pathogens which cause more serious illness in humans, so it must be treated with a pinch of salt. We downloaded the top 14 more frequently sequenced pathogens.
 
-Database of AMR genes found in each Species/Genus
+## Database of AMR genes found in each Species/Genus
 Manual download from NCBI
 The NCBI Pathogen detection browser (https://www.ncbi.nlm.nih.gov/pathogens/) contains a curated database of genome assemblies to AMR genes with a primary focus on bacterial pathogens causing foodborne illness. The AMR profiles for each Genus/Species were downloaded as spreadsheets and summarised into AMR gene occurrence frequencies.  The database used to predict the AMR genes was AMRFinderPlus (https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/).
 
-Automatic download from NCBI
+## Automatic download from NCBI
 As many important pathogens are missing from the NCBI pathogen detection browser, a software tool is provided to automatically constructed a database of any given species. For a given species, all genome assemblies (draft and complete) are downloaded using ncbi-genome-download [ref] (version) in FASTA format. 
 
 The taxonomic classification is set by the researcher who uploads the original genome data and so is subject to labelling errors, thus we check the species of each assembly against a database of high quality, manually curated, reference genomes. This high quality database consists of 120 (accessed 2019-10-21) genomes, covering the most important pathogens, and is downloaded by ncbi-genome-download (version). The genomes used to create a combined mash [ref](version xxx) sketch with default parameters.  Each assembly to be checked is compared to the high quality database, with the species with the lowest distance (closest match) compared (maximum distance <= 0.1). If there is a mismatch, the assembly is removed from further consideration. 
 
 Abricate [ref](version) is used to predict AMR genes for each assembly which captures both plasmids and the chromosome.  A gene is said to be present if the coverage and identity are greater than or equal to 95% (user configurable) to allow for variation, but in practice virtually all genes are near 100% identical.  These AMR genes are summerised and their frequency of occurrence counted. If a gene appears more than once within an assembly, it is only counted once. This summary is outputted to a database of the species, gene and number of occurrences.
 
-
 Given a set of AMR gene predictions from tools such as StarAMR, Abricate or RGI (CARD), and a pathogen (species/genus) of interest, scagaire will filter the list of predictions to include only those which have been observed in the same species/genus.  Rarely observed genes can additionally be filtered (default is any gene observed at least once). This removes background resistance genes of bacteria which are not of interest.   
 
 # License
 Scagaire is free software, licensed under [GPLv3](https://raw.githubusercontent.com/quadram-institute-bioscience/scagaire/master/VERSION/LICENSE).
-
 
 # Feedback/Issues
 Please report any issues or to provide feedback please go to the [issues page](https://github.com/quadram-institute-bioscience/scagaire/issues). If you make improvements to the software, add databases or extend profiles, please send us the changes though a [pull request](https://github.com/quadram-institute-bioscience/scagaire/pulls) so that the whole community may benefit from your work.
@@ -254,5 +253,5 @@ Please report any issues or to provide feedback please go to the [issues page](h
 
 # Citation
 Scagaire,
-Andrew J Page, Justin O'Grady
+Andrew J Page, Thanh Le Viet, Justin O'Grady
 https://github.com/quadram-institute-bioscience/scagaire
