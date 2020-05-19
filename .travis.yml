@@ -16,7 +16,7 @@ install:
   - conda config --add channels bioconda
   - conda config --add channels conda-forge
   - conda update -q conda
-  - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION 
+  - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION mash abricate ncbi-genome-download
   - source activate test-environment
   - python3 setup.py install
 before_script:
