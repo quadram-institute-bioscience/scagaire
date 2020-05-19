@@ -17,7 +17,8 @@
 
 
 ## Introduction
-Scagaire allows you to take in AMR gene predictions from a metagenomic sample and filter them by pathogen.
+Scagaire allows you to take in gene predictions from a metagenomic sample and filter them by bacterial/pathogenic species. This allows you to focus only on medically relevant pathogens, and the resistance found within, rather than on resistance in commensals.    We can use the information from the public databses to perform a genomic information to survey the AMR gene landscape in the public domain. We focus only on acquired genes causing resistance rather than point mutations, plasmids and virulence factors. It comes bundled with a database of the 40 most frequently sequenced bacterial species (see Table X) from the RefSeq database, allowing it to be used out of the box. It supports as input many commonly used gene prediction tools.
+
 
 # Installation
 If you just want to quickly try out the software please try a Docker continer. This software is designed to run on Linux and OSX. It is not tested on Windows.
@@ -30,11 +31,14 @@ If you just want to quickly try out the software please try a Docker continer. T
 To install Scagaire, first install [conda with Python3](https://conda.io/en/latest/miniconda.html) then run:
 
 ```
-conda install -c conda-forge -c bioconda mash abricate ncbi-genome-download
 pip install git+git://github.com/quadram-institute-bioscience/scagaire.git
 ```
 
-Actually if you just want to run scagaire and have no interest in building databases, then you dont need mash, abricate, or ncbi-genome-download.
+If you want to build databases then you need some more tools:
+```
+conda install -c conda-forge -c bioconda mash abricate ncbi-genome-download
+pip install git+git://github.com/quadram-institute-bioscience/scagaire.git
+```
 
 ## Docker
 Install [Docker](https://www.docker.com/).  There is a docker container which gets automatically built from the latest version of Scagaire. To install it:
