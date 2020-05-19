@@ -53,6 +53,9 @@ To use it you would use a command such as this (substituting in your filename/di
 docker run --rm -it -v /path/to/example_data:/example_data quadraminstitute/scagaire scagaire xxxxx
 ```
 
+## Galaxy
+Search the toolshed.
+
 # Usage
 
 ## Quick start example
