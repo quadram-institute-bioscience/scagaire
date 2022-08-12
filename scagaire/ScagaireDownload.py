@@ -72,7 +72,7 @@ class ScagaireDownload:
                 "ncbi-genome-download",
                 "-o",
                 download_directory,
-                "--genus",
+                "--genera",
                 '"' + self.species + '"',
                 "--parallel",
                 str(self.threads),
