@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+import sys
+import argparse
+import os
+import pkg_resources
+sys.path.append('../')
+sys.path.append('./')
+from scagaire.ScagaireCompare import ScagaireCompare
+
+version = ''
+try:
+    version = pkg_resources.get_distribution("scagaire").version
+except pkg_resources.DistributionNotFound:
+    version = 'x.y.z'
+
+parser = argparse.ArgumentParser(
+    description = 'Compare 2 species for a given database',
+    usage = 'scagaire_compare [options]',
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    
+parser.add_argument('species1',  help='Species name, use scagaire_species to see all available', type=str)
+parser.add_argument('species2',  help='Species name, use scagaire_species to see all available', type=str)
+parser.add_argument('database_filter',  help='Database', type=str)
+parser.add_argument('--database_file', '-d',  help='Database file of species to genes. Defaults to bundled', type=str )
+parser.add_argument('--debug', action='store_true', help='Turn on debugging', default = False)
+parser.add_argument('--verbose', '-v', action='store_true', help='Turn on verbose output', default = False)
+
+options = parser.parse_args()
+
+if options.debug:
+    import cProfile, pstats, io
+    pr = cProfile.Profile()
+    pr.enable()
+    
+    ScagaireCompare(options).compare()
+    
+    pr.disable()
+    s = io.StringIO()
+    sortby = 'cumulative'
+    ps = pstats.Stats(pr, stream=s).sort_stats(sortby)
+    ps.print_stats()
+    print(s.getvalue())
+else:
+    ScagaireCompare(options).compare()
