@@ -32,13 +32,12 @@ If you just want to quickly try out the software please try a Docker continer. T
 To install Scagaire, first install [conda with Python3](https://conda.io/en/latest/miniconda.html) then run:
 
 ```
-pip install git+git://github.com/quadram-institute-bioscience/scagaire.git
+conda install -c conda-forge -c bioconda scagaire
 ```
 
 If you want to build databases then you need some more tools:
 ```
-conda install -c conda-forge -c bioconda mash abricate ncbi-genome-download
-pip install git+git://github.com/quadram-institute-bioscience/scagaire.git
+conda install -c conda-forge -c bioconda scagaire mash abricate ncbi-genome-download
 ```
 
 ## Docker
